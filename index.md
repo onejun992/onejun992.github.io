@@ -208,7 +208,7 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 ## Awards & Honors
 
 - **Conference Presentation Award**,  
-  Academic Festival, Department of Korean and Japanese Cultural Contents,  
+  Academic Festival, Department of Korean-Japanese Cultural Contents,  
   Sangmyung University (December 2019).
 
 - **Conference Presentation Award**,  
@@ -218,4 +218,25 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 - **Conference Presentation Award**,  
   Summer Conference of the Global Cultural Contents Society  
   (August 2024).
+
+## Projects & Research Activities
+
+- **Book Chapter Contributor**.  
+  *코로나 체인지* (Corona Change).  
+  Lettre Publishing, January 15, 2021.  
+  ISBN: 9791197230219.  
+  https://www.yes24.com/Product/Goods/96836878
+
+- **Book Chapter Contributor**.  
+  *문화, 콘텐츠에 빠지다* (Immersed in Culture and Contents).  
+  Lettre Publishing, December 30, 2021.  
+  ISBN: 9791197230233.  
+  https://www.yes24.com/Product/Goods/105894052
+
+- **Book Chapter Contributor**.  
+  *한류와 문화콘텐츠: 한류를 보는 다양한 시선들*  
+  (Hallyu and Cultural Contents: Diverse Perspectives on Hallyu).  
+  Lettre Publishing, February 6, 2023.  
+  ISBN: 9791197230264.  
+  https://www.yes24.com/Product/Goods/117303953
 
