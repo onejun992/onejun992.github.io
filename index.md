@@ -15,7 +15,7 @@
       팽원균 / ほうげんきん（彭塬鈞）
     </p>
 
-    <p><strong>Ph.D. (Doctor of Philosophy)</strong></p>
+    <p><strong>Ph.D. (Doctor of Arts)</strong></p>
 
     <p>
       Department of Global Cultural Contents<br>
@@ -90,7 +90,7 @@ with an emphasis on cultural production, reception, and contextual meaning.
 <br/>
 
 本人毕业于韩国祥明大学全球文化内容学科，  
-文化内容学专业，文科博士学位。
+文化内容学专业，博士学位。
 
 主要研究方领域为文化内容学，研究方向集中于文化混种，
 日本亚文化，御宅文化以及
