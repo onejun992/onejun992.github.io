@@ -122,6 +122,41 @@ with an emphasis on cultural production, reception, and contextual meaning.
 
 ---
 
+## Publications
+
+### Journal Articles
+
+- **Peng, Yuanjun**, & Cho, Kyuheon.  
+  (2024).  
+  문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年纪)를 중심으로.  
+  *The Journal of Foreign Studies*, Foreign Studies Institute.  
+  DOI: https://doi.org/10.15755/jfs.2024..70.613
+
+---
+
+### Conference Proceedings
+
+- **Peng, Yuanjun**.  
+  (2024).  
+  문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年纪)를 중심으로.  
+  *Proceedings of the Global Cultural Contents Conference*,  
+  Global Cultural Contents Society, Vol. 2024, No. 8.  
+  Available at: https://www.riss.kr/link?id=A109225174
+
+- **Peng, Yuanjun**.  
+  (2022).  
+  중국 동영상 플랫폼 비리비리(bilibili)와 ACG/2차원 문화의 관계성 고찰.  
+  *Proceedings of the Korean Cultural Contents Joint Academic Conference*.
+
+---
+
+### Academic Profiles
+
+- Google Scholar:  
+  https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en
+
+---
+
 ## Academic Service & Leadership
 
 - **Teaching Assistant**,  
