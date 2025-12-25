@@ -171,6 +171,20 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
 ---
 
+## Language Proficiency
+
+- **Chinese (Mandarin)**: Native speaker.
+
+- **Korean**: Near-native professional proficiency.  
+  TOPIK Level 6; over 12 years of academic study and daily life experience in Korea,  
+  with extensive use in academic research, conference presentations, and institutional communication.
+
+- **Japanese**: Advanced listening comprehension with over 20 years of continuous exposure  
+  to Japanese ACG and popular culture.  
+  Formal proficiency certification currently at JLPT N5; continuing systematic language training.
+  
+---
+
 ## Academic Service & Leadership
 
 - **Teaching Assistant**,  
