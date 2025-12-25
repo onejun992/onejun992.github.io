@@ -1,3 +1,5 @@
+<div style="padding:10px;border:2px solid red;">TEST: HTML works</div>
+
 <div class="lang-tabs">
 
   <!-- radios -->
