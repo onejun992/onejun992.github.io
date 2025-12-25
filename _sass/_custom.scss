@@ -1,0 +1,5 @@
+/* Avoid mixed bolding inside navbar */
+.navbar .navbar-brand strong,
+.navbar .navbar-brand b {
+  font-weight: inherit;
+}
