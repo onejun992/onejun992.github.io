@@ -307,6 +307,14 @@ for institutional schedules. I regard timely engagement and conscientious execut
 not as exceptional qualities, but as essential conditions for sustaining trust  
 within academic and organizational environments.
 
+An important formative experience occurred during my late adolescence.  
+At the age of seventeen, I successfully achieved a substantial and sustained physical  
+transformation, reducing my body weight from approximately 100 kilograms to 70 kilograms  
+within a limited period, and maintaining regular physical training, healthy routines,  
+and disciplined daily habits thereafter. This experience reinforced my understanding of  
+long-term commitment, self-regulation, and consistency as foundational principles applicable  
+not only to personal well-being, but also to academic research and professional life.
+
 In addition, my experience of more than two years as a trainee within the Korean  
 entertainment industry has shaped my sensitivity to cultural production systems,  
 aesthetic standards, and the operational dynamics of the creative industries.  
