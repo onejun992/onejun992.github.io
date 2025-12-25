@@ -202,3 +202,20 @@ More broadly, my research aims to explore how cultural contents are produced, tr
   (Jul 2021 – May 2022)
 
 **Summary:** Demonstrated progressive leadership development, academic service experience, organizational management, and cross-cultural coordination within university and official educational frameworks.
+
+---
+
+## Awards & Honors
+
+- **Conference Presentation Award**,  
+  Academic Festival, Department of Korean and Japanese Cultural Contents,  
+  Sangmyung University (December 2019).
+
+- **Conference Presentation Award**,  
+  Korean Cultural Contents Joint Academic Conference  
+  (June 2022).
+
+- **Conference Presentation Award**,  
+  Summer Conference of the Global Cultural Contents Society  
+  (August 2024).
+
