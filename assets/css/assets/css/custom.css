@@ -1,0 +1,12 @@
+/* Force uniform text color and weight */
+.page-content p,
+.page-content li {
+  color: #222;
+  font-weight: 400;
+}
+
+/* Disable bold emphasis color difference */
+.page-content strong {
+  font-weight: 500;
+  color: inherit;
+}
