@@ -32,9 +32,6 @@ with an emphasis on cultural production, reception, and contextual meaning.
 
 <br/>
 
-팽원균 
-박사
-
 저는 대한민국 상명대학교 글로벌문화콘텐츠학과에서  
 박사학위를 취득하였습니다.
 
@@ -55,9 +52,6 @@ with an emphasis on cultural production, reception, and contextual meaning.
 
 <br/>
 
-ほうげんきん(彭塬鈞)  
-博士
-
 韓国・祥明大学校にて、グローバル文化コンテンツ学を専攻し、  
 博士号を取得しました。
 
@@ -77,9 +71,6 @@ ACG（アニメ・マンガ・ゲーム）文化に関心を持っています�
 <summary><strong>研究概要</strong></summary>
 
 <br/>
-
-彭塬钧
-博士
 
 本人毕业于韩国祥明大学全球文化内容学科，  
 已获得博士学位。
