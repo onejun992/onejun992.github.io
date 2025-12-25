@@ -4,3 +4,4 @@
 .site-title span {
   font-weight: 500 !important;
 }
+body { outline: 5px solid red !important; }
