@@ -261,3 +261,30 @@ More broadly, my research aims to explore how cultural contents are produced, tr
   ISBN: 9791197230264.  
   https://www.yes24.com/Product/Goods/117303953
 
+- **Practice-based Research in Japanese Subculture and ACG Media**.  
+  Conducted sustained digital cultural practice on Bilibili as a virtual streamer (V-Tuber),  
+  producing content centered on Japanese ACG (Anime, Comics, and Games) culture,  
+  including virtual performances and Japanese anime song covers.  
+  This practice functioned as research-in-action, enabling in-depth, experiential analysis of  
+  Japanese subcultural aesthetics, virtual identity construction, audience participation,  
+  and platform-mediated cultural interaction within contemporary East Asian digital subcultures.  
+  *(Bilibili channel: https://space.bilibili.com/103596519)*
+
+---
+
+## Public Engagement & Media
+
+- **Public Cultural Communication through Digital Media (Overseas Perspective)**.  
+  Operated a China-oriented overseas cultural information account on Sina Weibo with official *Orange V* verification,  
+  reaching approximately **128,000 followers** (September 2014 – December 2022).  
+  The platform primarily targeted China-based audiences interested in Korean culture,  
+  providing first-hand introductions to everyday life in Korea, including food culture, lifestyle practices,  
+  and local social trends.  
+  Following shifts in platform dynamics and audience engagement, content dissemination gradually transitioned  
+  to emerging social media platforms such as Rednot.  
+  *(Weibo profile: https://weibo.com/u/1202236810)*
+
+- **Editorial Experience in Public Digital Media**.  
+  Served as an editorial contributor for a WeChat public account specializing in Korean food culture  
+  (August 2017 – December 2017).
+
