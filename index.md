@@ -288,3 +288,35 @@ More broadly, my research aims to explore how cultural contents are produced, tr
   Served as an editorial contributor for a WeChat public account specializing in Korean food culture  
   (August 2017 – December 2017).
 
+---
+
+## Personal Values & Mentorship Philosophy
+
+Through more than twelve years of academic and everyday life experience in Korea,  
+I have cultivated strong perseverance, ethical self-discipline, and a respectful attitude  
+toward others. I value kindness, patience, and integrity as fundamental principles  
+in both academic work and interpersonal relationships.  
+Careful attention to detail, a cautious yet forward-looking mindset, and a strong sense  
+of responsibility form the foundation of my professional conduct.
+
+A defining characteristic of my academic life has been a long-standing commitment to  
+discipline and reliability. From early education through doctoral training, I have consistently  
+maintained rigorous personal standards regarding time management and task completion,  
+approaching academic responsibilities with punctuality, preparedness, and respect for  
+institutional schedules. I regard timely engagement and conscientious execution not as personal virtues,  
+but as essential conditions for sustaining trust in collaborative academic environments.
+
+My earlier experiences, including over two years of training within the cultural and entertainment industry,  
+have fostered a sustained sensitivity to cultural trends, aesthetics, and the dynamics of the creative industries.  
+In addition, a significant personal transformation during adolescence—achieving substantial physical change  
+through sustained discipline—has reinforced my belief in long-term commitment, self-regulation,  
+and consistency as essential qualities for both research and life.
+
+Extended periods of independent living abroad have strengthened my ability to confront challenges autonomously  
+and to respond to uncertainty with composure and resilience. Combined with my reflective and analytical  
+personal disposition, I approach problems by seeking their underlying structures rather than surface phenomena,  
+emphasizing careful reasoning, anticipatory thinking, and anticipatory planning.  
+As a mentor, I aspire to guide students not only in academic skills, but also in cultivating  
+intellectual independence, disciplined work habits, and a sustained sense of responsibility  
+toward their scholarly and professional commitments.
+
