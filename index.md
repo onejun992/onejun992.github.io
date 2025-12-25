@@ -83,6 +83,8 @@ with an emphasis on cultural production, reception, and contextual meaning.
 </details>
 
 ---
+
+<details>
 <summary><strong>研究领域</strong></summary>
 
 <br/>
