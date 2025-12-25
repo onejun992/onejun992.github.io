@@ -45,7 +45,7 @@ with an emphasis on cultural production, reception, and contextual meaning.
 ---
 
 <details>
-<summary><strong>연구 프로필</strong></summary>
+<summary><strong>연구 분야</strong></summary>
 
 <br/>
 
@@ -65,7 +65,7 @@ with an emphasis on cultural production, reception, and contextual meaning.
 ---
 
 <details>
-<summary><strong>研究概要</strong></summary>
+<summary><strong>研究分野</strong></summary>
 
 <br/>
 
@@ -83,9 +83,7 @@ with an emphasis on cultural production, reception, and contextual meaning.
 </details>
 
 ---
-
-<details>
-<summary><strong>研究概要</strong></summary>
+<summary><strong>研究领域</strong></summary>
 
 <br/>
 
