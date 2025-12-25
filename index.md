@@ -104,24 +104,6 @@ with an emphasis on cultural production, reception, and contextual meaning.
 
 ---
 
-## Education
-
-- **Ph.D. in Global Cultural Contents**,  
-  Graduate School of Humanities and Social Sciences,  
-  Sangmyung University, Seoul, South Korea  
-  *(Originally enrolled in the M.A. program; formally transferred to the integrated M.A.–Ph.D. track)*  
-  (Mar 2022 – Feb 2026)
-
-- **M.A. coursework in Global Cultural Contents**,  
-  Graduate School of Humanities and Social Sciences,  
-  Sangmyung University, Seoul, South Korea (Sep 2020 – Feb 2022)
-
-- **B.A. in Korean–Japanese Cultural Contents**,  
-  College of Humanities and Social Sciences,  
-  Sangmyung University, Seoul, South Korea (Sep 2016 – Aug 2020)
-
----
-
 ## Research Background
 
 My academic interest lies in cultural contents studies, with a particular focus on ACG (Animation, Comics, and Games) cultures and cultural hybridity in East Asia. My research is grounded in long-term engagement with Japanese popular culture and its transnational circulation, especially within contemporary Chinese digital media environments.
@@ -158,10 +140,34 @@ More broadly, my research aims to explore how cultural contents are produced, tr
   중국 동영상 플랫폼 비리비리(bilibili)와 ACG/2차원 문화의 관계성 고찰.  
   *Proceedings of the Korean Cultural Contents Joint Academic Conference*.
 
+  ### Doctoral Dissertation
+
+- **Ph.D. Dissertation**  
+  Sangmyung University, Seoul, South Korea.  
+  (Details forthcoming)
+
 ### Academic Profiles
 
 - Google Scholar:  
   https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en
+
+  ---
+
+## Education
+
+- **Ph.D. in Global Cultural Contents**,  
+  Graduate School of Humanities and Social Sciences,  
+  Sangmyung University, Seoul, South Korea  
+  *(Originally enrolled in the M.A. program; formally transferred to the integrated M.A.–Ph.D. track)*  
+  (Mar 2022 – Feb 2026)
+
+- **M.A. coursework in Global Cultural Contents**,  
+  Graduate School of Humanities and Social Sciences,  
+  Sangmyung University, Seoul, South Korea (Sep 2020 – Feb 2022)
+
+- **B.A. in Korean–Japanese Cultural Contents**,  
+  College of Humanities and Social Sciences,  
+  Sangmyung University, Seoul, South Korea (Sep 2016 – Aug 2020)
 
 ---
 
