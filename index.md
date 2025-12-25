@@ -2,7 +2,7 @@
 
   <!-- 左侧：头像 -->
   <div style="flex: 0 0 180px;">
-    <img src="{{ '/assets/img/Profile.jpg' | relative_url }}"
+    <img src="{{ '/assets/img/profile.jpg' | relative_url }}"
          alt="Profile photo"
          style="width: 180px; border-radius: 8px;">
   </div>
