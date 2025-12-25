@@ -101,3 +101,29 @@ with an emphasis on cultural production, reception, and contextual meaning.
 并从文化生产与意义建构的角度进行分析。
 
 </details>
+
+---
+
+## Academic Service & Leadership
+
+- **Teaching Assistant**, Office of International Cooperation & International Student Support Center,  
+  Sangmyung University (Sep 2020 – Feb 2021)
+
+- **Teaching Assistant**, Graduate School Academic Affairs Division,  
+  Sangmyung University (Mar 2021 – Feb 2023)
+
+- **International Student Representative**,  
+  Department of Korean–Japanese Cultural Contents, Sangmyung University (Mar 2018 – Feb 2019)
+
+- **Chinese International Student Representative**,  
+  Department of Korean–Japanese Cultural Contents, Sangmyung University (Mar 2019 – Aug 2020)
+
+- **Director**, Sangmyung University Chinese Students and Scholars Association (SMUCSSA),  
+  under the guidance of the Education Section, Embassy of the People’s Republic of China in the Republic of Korea  
+  (Mar 2021 – Jun 2021)
+
+- **President**, Sangmyung University Chinese Students and Scholars Association (SMUCSSA),  
+  under the guidance of the Education Section, Embassy of the People’s Republic of China in the Republic of Korea  
+  (Jul 2021 – May 2022)
+
+**Summary:** Demonstrated progressive leadership development, academic service experience, organizational management, and cross-cultural coordination within university and official educational frameworks.
