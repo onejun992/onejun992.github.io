@@ -290,33 +290,36 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
 ---
 
-## Personal Values & Mentorship Philosophy
+## Personal Values & Academic Disposition
 
-Through more than twelve years of academic and everyday life experience in Korea,  
+Through more than twelve years of academic study and everyday life in Korea,  
 I have cultivated strong perseverance, ethical self-discipline, and a respectful attitude  
 toward others. I value kindness, patience, and integrity as fundamental principles  
-in both academic work and interpersonal relationships.  
+guiding both my academic work and interpersonal relationships.  
 Careful attention to detail, a cautious yet forward-looking mindset, and a strong sense  
-of responsibility form the foundation of my professional conduct.
+of responsibility constitute the foundation of my academic disposition.
 
-A defining characteristic of my academic life has been a long-standing commitment to  
-discipline and reliability. From early education through doctoral training, I have consistently  
+A defining feature of my academic life has been a long-standing commitment to discipline  
+and reliability. From early education through doctoral training, I have consistently  
 maintained rigorous personal standards regarding time management and task completion,  
-approaching academic responsibilities with punctuality, preparedness, and respect for  
-institutional schedules. I regard timely engagement and conscientious execution not as personal virtues,  
-but as essential conditions for sustaining trust in collaborative academic environments.
+approaching academic responsibilities with punctuality, preparedness, and respect  
+for institutional schedules. I regard timely engagement and conscientious execution  
+not as exceptional qualities, but as essential conditions for sustaining trust  
+within academic and organizational environments.
 
-My earlier experiences, including over two years of training within the cultural and entertainment industry,  
-have fostered a sustained sensitivity to cultural trends, aesthetics, and the dynamics of the creative industries.  
-In addition, a significant personal transformation during adolescence—achieving substantial physical change  
-through sustained discipline—has reinforced my belief in long-term commitment, self-regulation,  
-and consistency as essential qualities for both research and life.
+In addition, my experience of more than two years as a trainee within the Korean  
+entertainment industry has shaped my sensitivity to cultural production systems,  
+aesthetic standards, and the operational dynamics of the creative industries.  
+This background has contributed to my sustained interest in popular culture, fashion,  
+and entertainment as structured cultural fields rather than purely expressive domains.
 
-Extended periods of independent living abroad have strengthened my ability to confront challenges autonomously  
-and to respond to uncertainty with composure and resilience. Combined with my reflective and analytical  
-personal disposition, I approach problems by seeking their underlying structures rather than surface phenomena,  
-emphasizing careful reasoning, anticipatory thinking, and anticipatory planning.  
-As a mentor, I aspire to guide students not only in academic skills, but also in cultivating  
-intellectual independence, disciplined work habits, and a sustained sense of responsibility  
-toward their scholarly and professional commitments.
+Extended periods of independent living abroad have strengthened my capacity to confront  
+challenges autonomously and to respond to uncertainty with composure and resilience.  
+Combined with a reflective, inward-oriented, and meaning-driven personal disposition—  
+often associated with the INFJ personality profile—I approach problems by seeking  
+their underlying structures rather than surface phenomena. This orientation has fostered  
+a habit of analytical depth, anticipatory thinking, and long-term planning.
 
+Overall, I consider academic work to be grounded not only in intellectual ability,  
+but also in character, consistency, and responsibility. These values shape my approach  
+to research, collaboration, and engagement within both academic and cultural contexts.
