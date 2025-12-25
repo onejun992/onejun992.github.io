@@ -1,7 +1,7 @@
 # Peng Yuanjun/팽원균/ほうげんきん(彭塬鈞)
 
-Ph.D. (Doctor of Philosophy)  
-Global Cultural Contents  
+Ph.D. (Doctor of Philosophy)
+Department of Global Culture Contents
 Sangmyung University, Seoul, South Korea
 
 ---
@@ -26,11 +26,11 @@ with an emphasis on cultural production, reception, and contextual meaning.
 
 <br/>
 
-저는 대한민국 상명대학교 글로벌문화콘텐츠학과에서  
+한국 상명대학교 글로벌문화콘텐츠학과에서  
 박사학위를 취득하였습니다.
 
 저의 주요 연구 분야는 문화콘텐츠 및 문화혼종성이며,  
-특히 일본 서브컬처 콘텐츠와 ACG(애니메이션·만화·게임)  
+특히 일본 서브컬처 콘텐츠와 2차원·ACG(애니메이션·만화·게임)  
 문화에 주목하고 있습니다.
 
 동아시아 문화권을 중심으로 문화콘텐츠의  
@@ -51,7 +51,7 @@ with an emphasis on cultural production, reception, and contextual meaning.
 
 主な研究分野は文化コンテンツ研究および文化の混種性であり、  
 特に日本のサブカルチャーコンテンツや  
-ACG（アニメ・マンガ・ゲーム）文化に関心を持っています。
+二次元·ACG（アニメ・マンガ・ゲーム）文化に関心を持っています。
 
 東アジアにおける文化コンテンツの  
 越境的流通、ローカリゼーション、  
@@ -71,7 +71,7 @@ ACG（アニメ・マンガ・ゲーム）文化に関心を持っています�
 
 研究方向主要集中于文化内容与文化混种研究，  
 尤其关注日本亚文化内容以及  
-ACG（动画、漫画、游戏）文化。
+二次元·ACG（动画、漫画、游戏）文化。
 
 研究重点包括东亚语境下文化内容的  
 跨国传播、在地化实践与混种化过程，  
