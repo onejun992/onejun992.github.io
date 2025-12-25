@@ -1,4 +1,4 @@
-{% include bio-tabs.html %}
+<!-- {% include bio-tabs.html %} -->
 
 ## English
 
