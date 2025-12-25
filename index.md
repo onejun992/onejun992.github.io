@@ -1,8 +1,31 @@
-# Peng Yuanjun/팽원균/ほうげんきん(彭塬鈞)
+<div style="display: flex; align-items: flex-start; gap: 2rem;">
 
-Ph.D. (Doctor of Philosophy)<br>
-Department of Global Culture Contents<br>
-Sangmyung University, Seoul, South Korea
+  <!-- 左侧：头像 -->
+  <div style="flex: 0 0 180px;">
+    <img src="{{ '/assets/img/Profile.jpg' | relative_url }}"
+         alt="Profile photo"
+         style="width: 180px; border-radius: 8px;">
+  </div>
+
+  <!-- 右侧：基本信息 -->
+  <div style="flex: 1;">
+
+    <h2>PENG YUANJUN</h2>
+    <p>
+      Peng Yuanjun / 彭塬钧 / ほうげん（彭塬鈞）
+    </p>
+
+    <p><strong>Ph.D. (Doctor of Philosophy)</strong></p>
+
+    <p>
+      Department of Global Cultural Contents<br>
+      Sangmyung University, Seoul, South Korea
+    </p>
+
+  </div>
+</div>
+
+<hr>
 
 ---
 
