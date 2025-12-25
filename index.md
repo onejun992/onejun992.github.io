@@ -19,6 +19,7 @@
 
     <p>
       Department of Global Cultural Contents<br>
+      Major in Cultural Contents<br>
       Sangmyung University, Seoul, South Korea
     </p>
 
@@ -93,7 +94,7 @@ with an emphasis on cultural production, reception, and contextual meaning.
 文化内容学专业，博士学位。
 
 主要研究方领域为文化内容学，研究方向集中于文化混种，
-日本亚文化，御宅文化以及
+日本亚文化，御宅文化以及<br>
 二次元·ACG（动画、漫画、游戏）文化。
 
 研究重点包括东亚语境下文化内容的  
