@@ -1,7 +1,7 @@
 # Peng Yuanjun/팽원균/ほうげんきん(彭塬鈞)
 
-Ph.D. (Doctor of Philosophy)
-Department of Global Culture Contents
+Ph.D. (Doctor of Philosophy)<br>
+Department of Global Culture Contents<br>
 Sangmyung University, Seoul, South Korea
 
 ---
