@@ -12,7 +12,7 @@
 
    <h2 style="margin-top: 0;">PENG YUANJUN</h2>
     <p>
-      팽원균 / ほうげん（彭塬鈞）
+      팽원균 / ほうげんきん（彭塬鈞）
     </p>
 
     <p><strong>Ph.D. (Doctor of Philosophy)</strong></p>
