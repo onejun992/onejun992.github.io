@@ -38,7 +38,7 @@ from a cross-cultural perspective.
 
 ## 日本語 (Japanese)
 
-### ほうげん（彭塬鈞）  
+### ほうげんきん（彭塬鈞）  
 **博士（Ph.D.）**
 
 韓国の **祥明大学校（Sangmyung University）** にて、  
