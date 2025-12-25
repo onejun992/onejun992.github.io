@@ -12,7 +12,7 @@ Sangmyung University, Seoul, South Korea
 
 ---
 
-## Research Profile (English)
+## Research Profile
 
 I received my Ph.D. degree from Sangmyung University (South Korea),  
 with a specialization in Global Cultural Contents.
@@ -28,7 +28,7 @@ with an emphasis on cultural production, reception, and contextual meaning.
 ---
 
 <details>
-<summary><strong>한국어 (Korean)</strong></summary>
+<summary><strong>연구 프로필</strong></summary>
 
 <br/>
 
@@ -51,7 +51,7 @@ with an emphasis on cultural production, reception, and contextual meaning.
 ---
 
 <details>
-<summary><strong>日本語 (Japanese)</strong></summary>
+<summary><strong>研究概要</strong></summary>
 
 <br/>
 
@@ -74,7 +74,7 @@ ACG（アニメ・マンガ・ゲーム）文化に関心を持っています�
 ---
 
 <details>
-<summary><strong>中文（Chinese）</strong></summary>
+<summary><strong>研究概要</strong></summary>
 
 <br/>
 
