@@ -26,39 +26,50 @@
     text-decoration: underline;
   }
 
-/* === Icon-only override (SAFE) === */
-
-.academic-contacts {
+/* ===== Icon-only contacts (SAFE, only for .icon-contacts) ===== */
+.icon-contacts{
   display: flex;
-  gap: 0.6rem;
+  flex-wrap: wrap;
+  gap: 0.9rem;
   align-items: center;
+  margin-top: 0.9rem;
 }
 
-.academic-contacts .contact-item {
+.icon-contacts .contact-item{
   margin: 0;
 }
 
-/* 隐藏文字，但不影响链接 */
-.academic-contacts .contact-item span {
-  display: none;
-}
-
-/* 链接只包图标 */
-.academic-contacts .contact-item a {
+.icon-contacts .contact-item a{
   display: inline-flex;
   align-items: center;
+  justify-content: center;
+  text-decoration: none;
 }
 
-/* 图标样式 */
-.academic-contacts .contact-item i {
-  font-size: 1.05rem;
-  cursor: pointer;
+/* 图标大小与手感 */
+.icon-contacts .contact-item i{
+  font-size: 1.15rem;
   opacity: 0.85;
+  cursor: pointer;
 }
 
-.academic-contacts .contact-item i:hover {
+/* hover */
+.icon-contacts .contact-item a:hover i{
   opacity: 1;
   color: #1a73e8;
+}
+
+/* 只隐藏文字（保留给无障碍阅读器） */
+.icon-contacts .sr-only{
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
 }
 
   /* ===== Mobile-only fixes (<=700px). Desktop unaffected ===== */
@@ -100,44 +111,69 @@
       >
     </div>
 
-    <div class="academic-contacts contact-box">
-      <div class="contact-item">
-        <i class="fa-solid fa-location-dot"></i>
-        <span>Seoul, South Korea</span>
-      </div>
+   <!-- Academic Contact Info (icon-only) -->
+<div class="contact-box academic-contacts icon-contacts">
 
-      <div class="contact-item">
-        <i class="fa-regular fa-envelope"></i>
-        <a href="mailto:onejun992@163.com">onejun992@163.com</a>
-      </div>
+  <!-- Location (click to Google Maps) -->
+  <div class="contact-item">
+    <a href="https://www.google.com/maps/search/?api=1&query=Seoul%2C%20South%20Korea"
+       target="_blank" rel="noopener noreferrer"
+       title="Seoul, South Korea" aria-label="Location: Seoul, South Korea">
+      <i class="fa-solid fa-location-dot"></i>
+      <span class="sr-only">Seoul, South Korea</span>
+    </a>
+  </div>
 
-      <div class="contact-item">
-        <i class="fa-regular fa-envelope"></i>
-        <a href="mailto:shadowpyj007@gmail.com">shadowpyj007@gmail.com</a>
-      </div>
+  <!-- Email 1 -->
+  <div class="contact-item">
+    <a href="mailto:onejun992@163.com"
+       title="onejun992@163.com" aria-label="Email: onejun992@163.com">
+      <i class="fa-solid fa-envelope"></i>
+      <span class="sr-only">onejun992@163.com</span>
+    </a>
+  </div>
 
-      <div class="contact-item">
-        <i class="fa-solid fa-graduation-cap"></i>
-        <a href="https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-          Google Scholar
-        </a>
-      </div>
+  <!-- Email 2 -->
+  <div class="contact-item">
+    <a href="mailto:shadowpyj007@gmail.com"
+       title="shadowpyj007@gmail.com" aria-label="Email: shadowpyj007@gmail.com">
+      <i class="fa-solid fa-envelope"></i>
+      <span class="sr-only">shadowpyj007@gmail.com</span>
+    </a>
+  </div>
 
-      <div class="contact-item">
-        <i class="fa-brands fa-orcid"></i>
-        <a href="https://orcid.org/0009-0003-4920-1890" target="_blank" rel="noopener noreferrer">
-          ORCID: 0009-0003-4920-1890
-        </a>
-      </div>
+  <!-- Google Scholar -->
+  <div class="contact-item">
+    <a href="https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en"
+       target="_blank" rel="noopener noreferrer"
+       title="Google Scholar" aria-label="Google Scholar">
+      <i class="fa-solid fa-graduation-cap"></i>
+      <span class="sr-only">Google Scholar</span>
+    </a>
+  </div>
 
-      <div class="contact-item">
-        <i class="fa-brands fa-x-twitter"></i>
-        <a href="https://x.com/hibiki_v2022" target="_blank" rel="noopener noreferrer">
-          X (Twitter)
-        </a>
-      </div>
-    </div>
-  </div><!-- /left-col -->
+  <!-- ORCID -->
+  <div class="contact-item">
+    <a href="https://orcid.org/0009-0003-4920-1890"
+       target="_blank" rel="noopener noreferrer"
+       title="ORCID: 0009-0003-4920-1890" aria-label="ORCID: 0009-0003-4920-1890">
+      <i class="fa-brands fa-orcid"></i>
+      <span class="sr-only">ORCID: 0009-0003-4920-1890</span>
+    </a>
+  </div>
+
+  <!-- X -->
+  <div class="contact-item">
+    <a href="https://x.com/hibiki_v2022"
+       target="_blank" rel="noopener noreferrer"
+       title="X (Twitter)" aria-label="X (Twitter)">
+      <i class="fa-brands fa-x-twitter"></i>
+      <span class="sr-only">X (Twitter)</span>
+    </a>
+  </div>
+
+</div>
+<!-- /Academic Contact Info -->
 
   <!-- Right: basic info -->
   <div class="right-col" style="flex: 1;">
