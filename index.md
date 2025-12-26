@@ -26,6 +26,41 @@
     text-decoration: underline;
   }
 
+/* === Icon-only override (SAFE) === */
+
+.academic-contacts {
+  display: flex;
+  gap: 0.6rem;
+  align-items: center;
+}
+
+.academic-contacts .contact-item {
+  margin: 0;
+}
+
+/* 隐藏文字，但不影响链接 */
+.academic-contacts .contact-item span {
+  display: none;
+}
+
+/* 链接只包图标 */
+.academic-contacts .contact-item a {
+  display: inline-flex;
+  align-items: center;
+}
+
+/* 图标样式 */
+.academic-contacts .contact-item i {
+  font-size: 1.05rem;
+  cursor: pointer;
+  opacity: 0.85;
+}
+
+.academic-contacts .contact-item i:hover {
+  opacity: 1;
+  color: #1a73e8;
+}
+
   /* ===== Mobile-only fixes (<=700px). Desktop unaffected ===== */
   @media (max-width: 700px){
     .hero-wrap{
