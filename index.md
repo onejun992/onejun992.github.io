@@ -1,48 +1,44 @@
 <div style="display: flex; align-items: flex-start; gap: 2rem;">
 
-<!-- 联系方式 / 学术档案 -->
-<div style="margin-top: 0.8em; font-size: 0.9em; line-height: 1.8;">
+<!-- 左侧：头像 + 联系方式 -->
+<div style="flex: 0 0 200px;">
 
-  <div>📍 Seoul, South Korea</div>
-
-  <div>
-    📧 <a href="mailto:onejun992@163.com">onejun992@163.com</a><br>
-    <span style="margin-left: 1.2em;">
-      <a href="mailto:shadowpyj007@gmail.com">shadowpyj007@gmail.com</a>
-    </span>
+  <!-- 头像区域 -->
+  <div style="text-align: center;">
+    <img
+      src="{{ '/assets/img/profile.jpg' | relative_url }}"
+      alt="Profile photo"
+      style="width: 180px; border-radius: 8px;"
+    >
   </div>
 
-  <div>
-    🎓 <a href="https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en"
-          target="_blank" rel="noopener noreferrer">
-      Google Scholar
-    </a>
-  </div>
+  <!-- 联系方式 / 学术档案 -->
+  <div style="margin-top: 0.8em; font-size: 0.9em; line-height: 1.8; text-align: left;">
 
-  <div>
-    🐦 <a href="https://x.com/hibiki_v2022"
-          target="_blank" rel="noopener noreferrer">
-      X (Twitter)
-    </a>
-  </div>
+    <div>📍 Seoul, South Korea</div>
 
-  <!-- 以后可补 -->
-  <!--
-  <div>
-    🆔 <a href="https://orcid.org/0000-0000-0000-0000"
-          target="_blank" rel="noopener noreferrer">
-      ORCID
-    </a>
-  </div>
+    <div>
+      📧 <a href="mailto:onejun992@163.com">onejun992@163.com</a><br>
+      <span style="margin-left: 1.2em;">
+        <a href="mailto:shadowpyj007@gmail.com">shadowpyj007@gmail.com</a>
+      </span>
+    </div>
 
-  <div>
-    💻 <a href="https://github.com/yourusername"
-          target="_blank" rel="noopener noreferrer">
-      GitHub
-    </a>
-  </div>
-  -->
+    <div>
+      🎓 <a href="https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en"
+            target="_blank" rel="noopener noreferrer">
+        Google Scholar
+      </a>
+    </div>
 
+    <div>
+      🐦 <a href="https://x.com/hibiki_v2022"
+            target="_blank" rel="noopener noreferrer">
+        X (Twitter)
+      </a>
+    </div>
+
+  </div>
 </div>
 
   <!-- 右侧：基本信息 -->
