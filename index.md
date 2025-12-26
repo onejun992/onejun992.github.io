@@ -1,62 +1,83 @@
 <style>
-  /* === Mobile-friendly hero layout === */
+/* ===============================
+   Contact list with icons
+   =============================== */
+
+.contact-box{
+  margin-top: 0.9em;
+  font-size: 0.9em;
+  line-height: 1.8;
+}
+
+.contact-row{
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
+  margin: 0.35em 0;
+}
+
+/* 所有图标统一尺寸 */
+.contact-row::before{
+  content: "";
+  width: 1.1em;
+  height: 1.1em;
+  flex-shrink: 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* 📍 Location */
+.contact-row.location::before{
+  background-image: url("data:image/svg+xml;utf8,\
+  <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23d9534f'>\
+  <path d='M12 2C8.1 2 5 5.1 5 9c0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7zm0 9.5c-1.4 0-2.5-1.1-2.5-2.5S10.6 6.5 12 6.5s2.5 1.1 2.5 2.5S13.4 11.5 12 11.5z'/>\
+  </svg>");
+}
+
+/* ✉️ Email */
+.contact-row.email::before{
+  background-image: url("data:image/svg+xml;utf8,\
+  <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%235b8def'>\
+  <path d='M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z'/>\
+  </svg>");
+}
+
+/* 🎓 Google Scholar */
+.contact-row.scholar::before{
+  background-image: url("data:image/svg+xml;utf8,\
+  <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%234285f4'>\
+  <path d='M12 3L1 9l11 6 9-4.9V17h2V9L12 3z'/>\
+  </svg>");
+}
+
+/* 🐦 X / Twitter */
+.contact-row.x::before{
+  background-image: url("data:image/svg+xml;utf8,\
+  <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23000000'>\
+  <path d='M18.9 2H22l-7.3 8.3L23 22h-6.4l-5-6.1L6 22H2.9l7.8-8.9L1 2h6.5l4.5 5.4L18.9 2z'/>\
+  </svg>");
+}
+
+.contact-row a{
+  text-decoration: none;
+}
+
+.contact-row a:hover{
+  text-decoration: underline;
+}
+
+/* ===============================
+   Mobile layout
+   =============================== */
 @media (max-width: 700px){
-  .markdown-body > .hero-wrap{
+  .contact-box{
+    text-align: left;
     margin-left: auto;
     margin-right: auto;
+    max-width: 420px;
   }
 }
-
-  /* 1) 联系方式：整块居中，内部左对齐 */
-  .contact-box{
-    margin: 0.9em auto 0 auto !important;
-    width: fit-content;
-    text-align: left;
-  }
-
-  /* 2) 左侧块整体居中（头像+联系方式） */
-  .left-col{
-    flex: 1 1 auto !important;
-    width: 100% !important;
-    max-width: 420px !important;
-    margin: 0 auto !important;
-    text-align: center !important;
-  }
-
-  /* 头像大小更精致 + 居中 */
-  .left-col img{
-    width: 160px !important;
-    margin: 0 auto !important;
-    display: block !important;
-  }
-
-  /* 3) 右侧块也限制宽度并居中 */
-  .right-col{
-    width: 100% !important;
-    max-width: 420px !important;
-    margin: 0 auto !important;
-  }
-
-}
-
-  /* 4) 联系方式“整体居中”，但内容左对齐 */
-  .contact-box{
-    width: fit-content !important;
-    margin: 0.9em auto 0 auto !important;
-    text-align: left !important;
-  }
-  .contact-row{
-    display: flex !important;
-    justify-content: flex-start !important;
-  }
-}
-
-  /* === Replace double HR with a clean separator === */
-  .section-sep{
-    height: 1px;
-    background: #e9e9e9;
-    margin: 2.2em 0 1.6em 0;
-  }
 </style>
 
 <div class="hero-wrap" style="display: flex; gap: 2rem;">
