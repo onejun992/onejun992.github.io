@@ -69,25 +69,21 @@
 <!-- ===================== -->
 <div class="contact-box academic-contacts">
 
-  <!-- Location -->
   <div class="contact-item">
     <i class="fa-solid fa-location-dot"></i>
     <span>Seoul, South Korea</span>
   </div>
 
-  <!-- Primary Email -->
   <div class="contact-item">
     <i class="fa-regular fa-envelope"></i>
     <a href="mailto:onejun992@163.com">onejun992@163.com</a>
   </div>
 
-  <!-- Secondary Email -->
   <div class="contact-item">
     <i class="fa-regular fa-envelope"></i>
     <a href="mailto:shadowpyj007@gmail.com">shadowpyj007@gmail.com</a>
   </div>
 
-  <!-- Google Scholar -->
   <div class="contact-item">
     <i class="fa-solid fa-graduation-cap"></i>
     <a href="https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en"
@@ -96,7 +92,6 @@
     </a>
   </div>
 
-  <!-- ORCID -->
   <div class="contact-item">
     <i class="fa-brands fa-orcid"></i>
     <a href="https://orcid.org/0009-0003-4920-1890"
@@ -105,7 +100,6 @@
     </a>
   </div>
 
-  <!-- X (Twitter) -->
   <div class="contact-item">
     <i class="fa-brands fa-x-twitter"></i>
     <a href="https://x.com/hibiki_v2022"
@@ -115,7 +109,6 @@
   </div>
 
 </div>
-
 
   <!-- 右侧：基本信息 -->
   <div class="right-col" style="flex: 1;">
