@@ -32,16 +32,16 @@
 
 ## Research Profile
 
-I received my Ph.D. degree from Sangmyung University (South Korea),  
-with a specialization in Global Cultural Contents.
+I received my Ph.D. in Cultural Contents from the Department of Global Cultural Contents at Sangmyung University, Korea.
 
-My research focuses on cultural contents and cultural hybridity  
-within East Asian contexts, with particular attention to Japanese  
-subcultural contents and ACG (Animation, Comics, and Games) culture.
+My primary field of research is **Cultural Contents Studies**, with **cultural hybridity** as a central conceptual framework.  
+I focus in particular on **Japanese subculture**, **otaku culture**, and **two-dimensional (ACG: animation, comics, and games) Contents and cultures**.
 
-I examine the transnational circulation, localization, and  
-hybridization processes of cultural contents in contemporary East Asia,  
-with an emphasis on cultural production, reception, and contextual meaning.
+Within the **East Asian socio-cultural context**, my research pays close attention to **cultural export and reversed cultural flows**,  
+as well as processes of **globalization**, **glocalization**, and **hybridization** as forms of **cultural transition**.
+
+From the perspective of **cultural contents re-creation and the reconstruction of meaning**,  
+I conduct **in-depth analysis and interpretation** of cultural commodities and media contents.
 
 ---
 
@@ -50,16 +50,17 @@ with an emphasis on cultural production, reception, and contextual meaning.
 
 <br/>
 
-한국 상명대학교 글로벌문화콘텐츠학과에서  
-박사학위를 취득하였습니다.
+본인은 한국 상명대학교 글로벌문화콘텐츠학과 문화콘텐츠 전공에서 박사학위를 취득하였다.  
 
-저의 주요 연구 분야는 문화콘텐츠 및 문화혼종성이며,  
-특히 일본 서브컬처 콘텐츠와 2차원·ACG(애니메이션·만화·게임)  
-문화에 주목하고 있습니다.
+주요 연구 분야는 문화콘텐츠학이며, **문화적 혼종성(cultural hybridity)**을 핵심 개념으로 삼아 연구를 수행하고 있다.  
+특히 **일본 서브컬처**, **오타쿠 문화**, 및 **2차원·ACG(애니메이션·만화·게임) 콘텐츠 및 문화**를 중심으로 관심을 두고 있다.  
 
-동아시아 문화권을 중심으로 문화콘텐츠의  
-초국가적 유통, 현지화, 그리고 혼종화 과정을  
-문화적 맥락 속에서 분석하고 있습니다.
+**동아시아 사회적 맥락에서** 문화콘텐츠의 **문화적 수출과 역수출(reversed cultural flows)**,  
+그리고 **글로벌화(globalization)**, **글로컬라이제이션(glocalization)**, **혼종화(hybridization)** 등  
+문화 이행의 다양한 양상에 주목한다.  
+
+또한 **문화콘텐츠의 재창조와 의미 재구성**이라는 관점에서  
+문화상품 및 미디어 콘텐츠를 **심층적으로 분석하고 해석한다**.
 
 </details>
 
@@ -70,16 +71,18 @@ with an emphasis on cultural production, reception, and contextual meaning.
 
 <br/>
 
-韓国・祥明大学校にて、グローバル文化コンテンツ学を専攻し、  
-博士号を取得しました。
+韓国・祥明大学グローバル文化コンテンツ学科（文化コンテンツ学専攻）にて博士号を取得。  
 
-主な研究分野は文化コンテンツ研究および文化の混種性であり、  
-特に日本のサブカルチャーコンテンツや  
-二次元·ACG（アニメ・マンガ・ゲーム）文化に関心を持っています。
+主な研究分野は文化コンテンツ学であり、**文化的混種性（cultural hybridity）**を中心的な概念として研究を行っている。  
+特に**日本のサブカルチャー**、**オタク文化**、および  
+**二次元・ACG（アニメ・マンガ・ゲーム）のコンテンツおよび文化**に強い関心を持っている。  
 
-東アジアにおける文化コンテンツの  
-越境的流通、ローカリゼーション、  
-および混種化の過程を文化的文脈の中で分析しています。
+**東アジアの社会的文脈において**、文化コンテンツの**文化的輸出および逆流**、  
+ならびに**グローバル化**、**グローカル化**、**混種化**といった  
+文化の**移行（cultural transition）**の諸過程に注目している。  
+
+また、**文化コンテンツの再創造と意味の再構築**という観点から、  
+文化商品およびメディア・コンテンツを**深層的に分析・解釈している**。
 
 </details>
 
@@ -90,15 +93,16 @@ with an emphasis on cultural production, reception, and contextual meaning.
 
 <br/>
 
-本人毕业于韩国祥明大学全球文化内容学科
-文化内容学专业，博士学位<br>
+本人毕业于韩国祥明大学全球文化内容学科文化内容学专业，并取得博士学位。  
 
-主要研究方领域为文化内容学，研究方向集中于文化混种<br>
-日本亚文化，御宅文化以及二次元·ACG（动画、漫画、游戏）文化<br>
+主要研究领域为文化内容学，以**文化混种**为核心研究概念，  
+研究方向集中于**日本亚文化**、**御宅文化**以及**二次元·ACG（动画、漫画、游戏）内容及文化**。  
 
-研究重点包括东亚语境下文化内容的文化输出和逆向输出<br>
-全球化以及全球本土化和混种化等文化迁移过程<br>  
-并从文化内容再创造与意义重构的角度对于文化商品进行分析诠释。
+在**东亚社会语境背景下**，重点关注文化内容的**文化输出与逆向输出**，  
+以及**全球化**、**全球本土化**与**混种化**等文化迁移与转化过程。  
+
+并从**文化内容再创造与意义重构**的角度出发，  
+对文化商品及媒体内容进行**深层次的分析与诠释**。
 
 </details>
 
