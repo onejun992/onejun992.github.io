@@ -1,20 +1,38 @@
 <style>
   /* === Mobile-friendly hero layout === */
-  @media (max-width: 700px){
-    .hero-wrap{
-      flex-direction: column;
-      gap: 1.2rem !important;
-    }
-    .left-col{
-      flex: 1 1 auto !important;
-      width: 100%;
-      max-width: 380px;
-      margin: 0 auto;
-    }
-    .right-col{
-      width: 100%;
-    }
+ @media (max-width: 700px){
+  .hero-wrap{
+    flex-direction: column;
+    gap: 1.2rem !important;
+    align-items: center;            /* ✅ 整体居中 */
   }
+  .left-col{
+    flex: 1 1 auto !important;
+    width: 100%;
+    max-width: 420px;
+    margin: 0 auto;
+    text-align: center;             /* ✅ 左侧内容居中 */
+  }
+  .left-col img{
+    width: 160px !important;        /* ✅ 头像略小更精致 */
+  }
+  .right-col{
+    width: 100%;
+    max-width: 420px;
+    margin: 0 auto;
+  }
+
+  /* ✅ 联系方式在手机端改成“居中+块状”更舒服 */
+  .contact-box,
+  .contact-row{
+    text-align: left;
+    justify-content: center;
+  }
+  .contact-row{
+    display: inline-flex;           /* ✅ 不撑满全宽，视觉更干净 */
+  }
+}
+
 
   /* === Optional: nicer contact block spacing === */
   .contact-box{
