@@ -64,7 +64,7 @@
   }
 </style>
 
-<div class="hero-wrap" style="display: flex; align-items: flex-start; gap: 2rem;">
+<div class="hero-wrap" style="display: flex; gap: 2rem;">
 
 <!-- 左侧：头像 + 联系方式 -->
 <div class="left-col" style="flex: 0 0 200px;">
