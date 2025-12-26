@@ -1,30 +1,32 @@
-<div style="display: flex; align-items: flex-start; gap: 2rem;">
+<div style="flex: 1;">
 
-  <!-- 左侧：头像 -->
-  <div style="flex: 0 0 180px;">
-    <img src="{{ '/assets/img/profile.jpg' | relative_url }}"
-         alt="Profile photo"
-         style="width: 180px; border-radius: 8px;">
-  </div>
+  <h2 style="margin-top: 0;">PENG YUANJUN</h2>
 
-  <!-- 右侧：基本信息 -->
-  <div style="flex: 1;">
+  <!-- 一句话研究定位（Tagline） -->
+  <p style="margin: 0.3em 0 0.6em 0; font-size: 1.05em;">
+    Researcher in Cultural Contents Studies<br>
+    Cultural Hybridity, Japanese subculture (ACG cultural contents), and ACG cultures in East Asia
+  </p>
 
-   <h2 style="margin-top: 0;">PENG YUANJUN</h2>
-    <p>
-      팽원균 / ほうげんきん(彭塬鈞) / 彭塬钧
-    </p>
+  <!-- 多语言姓名 -->
+  <p style="margin: 0.6em 0;">
+    팽원균 / ほうげんきん（彭源钧） / 彭源钧
+  </p>
 
-    <p><strong>Ph.D. (Doctor of Arts)</strong></p>
+  <!-- 学位 -->
+  <p style="margin: 0.6em 0;">
+    Ph.D. (Doctor of Arts)
+  </p>
 
-    <p>
-      Department of Global Cultural Contents<br>
-      Major in Cultural Contents<br>
-      Sangmyung University, Seoul, South Korea
-    </p>
+  <!-- 所属信息 -->
+  <p style="margin: 0.6em 0;">
+    Department of Global Cultural Contents<br>
+    Major in Cultural Contents<br>
+    Sangmyung University, Seoul, South Korea
+  </p>
 
-  </div>
 </div>
+>
 
 <hr>
 
