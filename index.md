@@ -1,7 +1,55 @@
-<div style="display: flex; align-items: flex-start; gap: 2rem;">
+<style>
+  /* === Mobile-friendly hero layout === */
+  @media (max-width: 700px){
+    .hero-wrap{
+      flex-direction: column;
+      gap: 1.2rem !important;
+    }
+    .left-col{
+      flex: 1 1 auto !important;
+      width: 100%;
+      max-width: 380px;
+      margin: 0 auto;
+    }
+    .right-col{
+      width: 100%;
+    }
+  }
+
+  /* === Optional: nicer contact block spacing === */
+  .contact-box{
+    margin-top: 0.9em;
+    font-size: 0.9em;
+    line-height: 1.7;
+  }
+  .contact-row{
+    display: flex;
+    gap: 0.6em;
+    margin: 0.25em 0;
+  }
+  .contact-label{
+    min-width: 64px;
+    color: #666;
+  }
+  .contact-value a{
+    text-decoration: none;
+  }
+  .contact-value a:hover{
+    text-decoration: underline;
+  }
+
+  /* === Replace double HR with a clean separator === */
+  .section-sep{
+    height: 1px;
+    background: #e9e9e9;
+    margin: 2.2em 0 1.6em 0;
+  }
+</style>
+
+<div class="hero-wrap" style="display: flex; align-items: flex-start; gap: 2rem;">
 
 <!-- 左侧：头像 + 联系方式 -->
-<div style="flex: 0 0 200px;">
+<div class="left-col" style="flex: 0 0 200px;">
 
   <!-- 头像区域 -->
   <div style="text-align: center;">
@@ -42,7 +90,7 @@
 </div>
 
   <!-- 右侧：基本信息 -->
-  <div style="flex: 1;">
+  <div class="right-col" style="flex: 1;">
 
     <h2 style="margin-top: 0;">PENG YUANJUN</h2>
 
