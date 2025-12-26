@@ -319,11 +319,6 @@ More broadly, my research aims to explore how cultural contents are produced, tr
   Sangmyung University, Seoul, South Korea.  
   (Details forthcoming)
 
-### Academic Profiles
-
-- Google Scholar:  
-  https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en
-
   ---
 
 ## Education
