@@ -1,140 +1,133 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <style>
-/* ===== Mobile-only fixes (<=700px). Desktop unaffected ===== */
-@media (max-width: 700px){
-
-  /* 1) 整个 hero 区块改为上下结构 + 居中 */
-  .hero-wrap{
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: center !important;
-    gap: 1.2rem !important;
+  /* ===== Contact icons (academic style) ===== */
+  .academic-contacts{
+    margin-top: 0.9rem;
+    font-size: 0.95em;
+    line-height: 1.7;
+  }
+  .academic-contacts .contact-item{
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    margin: 0.35rem 0;
+  }
+  .academic-contacts .contact-item i{
+    width: 18px;
+    text-align: center;
+    color: #111;
+    opacity: 0.9;
+  }
+  .academic-contacts a{
+    text-decoration: none;
+  }
+  .academic-contacts a:hover{
+    text-decoration: underline;
   }
 
-  /* 2) 左侧列（头像+联系方式）整体居中，并限制宽度 */
-  .left-col{
-    width: 100% !important;
-    max-width: 420px !important;
-    margin: 0 auto !important;
-    text-align: center !important;
+  /* ===== Mobile-only fixes (<=700px). Desktop unaffected ===== */
+  @media (max-width: 700px){
+    .hero-wrap{
+      display: flex !important;
+      flex-direction: column !important;
+      align-items: center !important;
+      gap: 1.2rem !important;
+    }
+    .left-col, .right-col{
+      width: 100% !important;
+      max-width: 420px !important;
+      margin: 0 auto !important;
+    }
+    .left-col{
+      text-align: center !important;
+    }
+    .left-col img{
+      width: 160px !important;
+      display: block !important;
+      margin: 0 auto !important;
+    }
+    .academic-contacts{
+      display: inline-block !important; /* 让 contact 整块居中 */
+      text-align: left !important;      /* 但内部文字左对齐 */
+    }
   }
-
-  /* 头像居中 + 稍微小一点更精致 */
-  .left-col img{
-    width: 160px !important;
-    display: block !important;
-    margin: 0 auto !important;
-  }
-
-  /* 3) 右侧信息也居中放置（块居中，文字仍可左对齐） */
-  .right-col{
-    width: 100% !important;
-    max-width: 420px !important;
-    margin: 0 auto !important;
-  }
-
-  /* 4) 联系方式块：整块居中，但内部文字左对齐（更学术、更干净） */
-  .contact-box{
-    display: inline-block !important;   /* 关键：让它变成“可居中”的块 */
-    text-align: left !important;        /* 内部仍左对齐 */
-    margin: 0.9rem auto 0 auto !important;
-  }
-
-  /* 5) 让名字别被拆成 PENG / YUANJUN */
-  .right-col h2{
-    white-space: nowrap !important;
-    font-size: 1.6rem !important; /* 小一点，减少断行概率 */
-    margin-top: 0 !important;
-  }
-}
 </style>
 
-<div class="hero-wrap" style="display: flex; gap: 2rem;">
+<div class="hero-wrap" style="display:flex; gap:2rem; align-items:flex-start;">
+  <!-- Left: photo + contacts -->
+  <div class="left-col" style="flex: 0 0 220px;">
+    <div style="text-align:center;">
+      <img
+        src="{{ '/assets/img/profile.jpg' | relative_url }}"
+        alt="Profile photo"
+        style="width: 180px; border-radius: 10px;"
+      >
+    </div>
 
-<!-- 左侧：头像 + 联系方式 -->
-<div class="left-col" style="flex: 0 0 200px;">
+    <div class="academic-contacts contact-box">
+      <div class="contact-item">
+        <i class="fa-solid fa-location-dot"></i>
+        <span>Seoul, South Korea</span>
+      </div>
 
-  <!-- 头像区域 -->
-  <div style="text-align: center;">
-    <img
-      src="{{ '/assets/img/profile.jpg' | relative_url }}"
-      alt="Profile photo"
-      style="width: 180px; border-radius: 8px;"
-    >
-  </div>
+      <div class="contact-item">
+        <i class="fa-regular fa-envelope"></i>
+        <a href="mailto:onejun992@163.com">onejun992@163.com</a>
+      </div>
 
-<!-- Academic Contact Info -->
-<div class="contact-box academic-contacts">
+      <div class="contact-item">
+        <i class="fa-regular fa-envelope"></i>
+        <a href="mailto:shadowpyj007@gmail.com">shadowpyj007@gmail.com</a>
+      </div>
 
-  <div class="contact-item">
-    <i class="fa-solid fa-location-dot"></i>
-    <span>Seoul, South Korea</span>
-  </div>
+      <div class="contact-item">
+        <i class="fa-solid fa-graduation-cap"></i>
+        <a href="https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+          Google Scholar
+        </a>
+      </div>
 
-  <div class="contact-item">
-    <i class="fa-solid fa-envelope"></i>
-    <a href="mailto:shadowpyj007@gmail.com">shadowpyj007@gmail.com</a>
-  </div>
+      <div class="contact-item">
+        <i class="fa-brands fa-orcid"></i>
+        <a href="https://orcid.org/0009-0003-4920-1890" target="_blank" rel="noopener noreferrer">
+          ORCID: 0009-0003-4920-1890
+        </a>
+      </div>
 
-  <div class="contact-item">
-    <i class="fa-regular fa-envelope"></i>
-    <a href="mailto:onejun992@163.com">onejun992@163.com</a>
-  </div>
+      <div class="contact-item">
+        <i class="fa-brands fa-x-twitter"></i>
+        <a href="https://x.com/hibiki_v2022" target="_blank" rel="noopener noreferrer">
+          X (Twitter)
+        </a>
+      </div>
+    </div>
+  </div><!-- /left-col -->
 
-  <div class="contact-item">
-    <i class="fa-solid fa-graduation-cap"></i>
-    <a href="https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-      Google Scholar
-    </a>
-  </div>
-
-  <div class="contact-item">
-    <i class="fa-brands fa-orcid"></i>
-    <a href="https://orcid.org/0009-0003-4920-1890" target="_blank" rel="noopener noreferrer">
-      ORCID: 0009-0003-4920-1890
-    </a>
-  </div>
-
-  <div class="contact-item">
-    <i class="fa-brands fa-x-twitter"></i>
-    <a href="https://x.com/hibiki_v2022" target="_blank" rel="noopener noreferrer">
-      X (Twitter)
-    </a>
-  </div>
-
-</div>
-
-  <!-- 右侧：基本信息 -->
+  <!-- Right: basic info -->
   <div class="right-col" style="flex: 1;">
+    <h2 style="margin-top:0;">Peng Yuanjun</h2>
 
-    <h2 style="margin-top: 0;">Peng Yuanjun</h2>
-
-    <!-- 一句话研究定位（Tagline） -->
-    <p style="margin: 0.25em 0 0.5em 0; font-size: 1em; line-height: 1.35;">
+    <p style="margin: 0.25em 0 0.6em; font-size: 1em; line-height: 1.35;">
       Researcher in Cultural Contents Studies<br>
       Cultural Hybridity, Japanese Subculture (ACG cultural contents)
     </p>
 
-    <!-- 多语言姓名 -->
     <p style="margin: 0.6em 0;">
-      팽원균 / ほうげんきん(彭塬鈞) / 彭塬钧
+      팽원균 / ほうげんきん(彭塬鈞) / 彭塬鈞
     </p>
 
-    <!-- 学位 -->
     <p style="margin: 0.6em 0; color: #555;">
       Ph.D. (Doctor of Arts)
     </p>
 
-    <!-- 所属信息 -->
     <p style="margin: 0.6em 0;">
       Department of Global Cultural Contents<br>
       Major in Cultural Contents<br>
       Sangmyung University, Seoul, South Korea
     </p>
-
-  </div>
-</div>
+  </div><!-- /right-col -->
+</div><!-- /hero-wrap -->
 
 <div class="section-sep"></div>
 
