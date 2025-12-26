@@ -1,81 +1,49 @@
 <style>
-/* ===============================
-   Contact list with icons
-   =============================== */
-
-.contact-box{
-  margin-top: 0.9em;
-  font-size: 0.9em;
-  line-height: 1.8;
-}
-
-.contact-row{
-  display: flex;
-  align-items: center;
-  gap: 0.6em;
-  margin: 0.35em 0;
-}
-
-/* 所有图标统一尺寸 */
-.contact-row::before{
-  content: "";
-  width: 1.1em;
-  height: 1.1em;
-  flex-shrink: 0;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-/* 📍 Location */
-.contact-row.location::before{
-  background-image: url("data:image/svg+xml;utf8,\
-  <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23d9534f'>\
-  <path d='M12 2C8.1 2 5 5.1 5 9c0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7zm0 9.5c-1.4 0-2.5-1.1-2.5-2.5S10.6 6.5 12 6.5s2.5 1.1 2.5 2.5S13.4 11.5 12 11.5z'/>\
-  </svg>");
-}
-
-/* ✉️ Email */
-.contact-row.email::before{
-  background-image: url("data:image/svg+xml;utf8,\
-  <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%235b8def'>\
-  <path d='M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z'/>\
-  </svg>");
-}
-
-/* 🎓 Google Scholar */
-.contact-row.scholar::before{
-  background-image: url("data:image/svg+xml;utf8,\
-  <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%234285f4'>\
-  <path d='M12 3L1 9l11 6 9-4.9V17h2V9L12 3z'/>\
-  </svg>");
-}
-
-/* 🐦 X / Twitter */
-.contact-row.x::before{
-  background-image: url("data:image/svg+xml;utf8,\
-  <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23000000'>\
-  <path d='M18.9 2H22l-7.3 8.3L23 22h-6.4l-5-6.1L6 22H2.9l7.8-8.9L1 2h6.5l4.5 5.4L18.9 2z'/>\
-  </svg>");
-}
-
-.contact-row a{
-  text-decoration: none;
-}
-
-.contact-row a:hover{
-  text-decoration: underline;
-}
-
-/* ===============================
-   Mobile layout
-   =============================== */
+/* ===== Mobile-only fixes (<=700px). Desktop unaffected ===== */
 @media (max-width: 700px){
+
+  /* 1) 整个 hero 区块改为上下结构 + 居中 */
+  .hero-wrap{
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    gap: 1.2rem !important;
+  }
+
+  /* 2) 左侧列（头像+联系方式）整体居中，并限制宽度 */
+  .left-col{
+    width: 100% !important;
+    max-width: 420px !important;
+    margin: 0 auto !important;
+    text-align: center !important;
+  }
+
+  /* 头像居中 + 稍微小一点更精致 */
+  .left-col img{
+    width: 160px !important;
+    display: block !important;
+    margin: 0 auto !important;
+  }
+
+  /* 3) 右侧信息也居中放置（块居中，文字仍可左对齐） */
+  .right-col{
+    width: 100% !important;
+    max-width: 420px !important;
+    margin: 0 auto !important;
+  }
+
+  /* 4) 联系方式块：整块居中，但内部文字左对齐（更学术、更干净） */
   .contact-box{
-    text-align: left;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 420px;
+    display: inline-block !important;   /* 关键：让它变成“可居中”的块 */
+    text-align: left !important;        /* 内部仍左对齐 */
+    margin: 0.9rem auto 0 auto !important;
+  }
+
+  /* 5) 让名字别被拆成 PENG / YUANJUN */
+  .right-col h2{
+    white-space: nowrap !important;
+    font-size: 1.6rem !important; /* 小一点，减少断行概率 */
+    margin-top: 0 !important;
   }
 }
 </style>
