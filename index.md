@@ -1,204 +1,184 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <style>
-  /* ===== Contact icons (academic style) ===== */
+  /* ===== Hero layout ===== */
+  .hero-wrap{
+    display:flex;
+    gap:2rem;
+    align-items:flex-start;
+    flex-wrap:wrap; /* 避免窄屏时挤爆 */
+  }
+  .left-col{
+    flex:0 0 220px;
+    text-align:center;
+  }
+  .right-col{
+    flex:1;
+    min-width:260px;
+  }
+  .left-col img{
+    width:180px;
+    border-radius:10px;
+    display:block;
+    margin:0 auto;
+  }
+
+  /* ===== Contact (base) ===== */
   .academic-contacts{
-    margin-top: 0.9rem;
-    font-size: 0.95em;
-    line-height: 1.7;
-  }
-  .academic-contacts .contact-item{
-    display: flex;
-    align-items: center;
-    gap: 0.55rem;
-    margin: 0.35rem 0;
-  }
-  .academic-contacts .contact-item i{
-    width: 18px;
-    text-align: center;
-    color: #111;
-    opacity: 0.9;
-  }
-  .academic-contacts a{
-    text-decoration: none;
-  }
-  .academic-contacts a:hover{
-    text-decoration: underline;
+    margin-top:0.9rem;
   }
 
-/* ===== Icon-only contacts (SAFE, only for .icon-contacts) ===== */
-.icon-contacts{
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.9rem;
-  align-items: center;
-  margin-top: 0.9rem;
-}
+  /* ===== Icon-only contacts (只影响带 icon-contacts 的那一块) ===== */
+  .academic-contacts.icon-contacts{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:0.9rem;
+    align-items:center;
+  }
+  .academic-contacts.icon-contacts .contact-item{
+    margin:0;
+  }
+  .academic-contacts.icon-contacts .contact-item a{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    text-decoration:none;
+  }
+  .academic-contacts.icon-contacts .contact-item i{
+    font-size:1.15rem;
+    opacity:0.85;
+    cursor:pointer;
+  }
+  .academic-contacts.icon-contacts .contact-item a:hover i{
+    opacity:1;
+    color:#1a73e8;
+  }
 
-.icon-contacts .contact-item{
-  margin: 0;
-}
+  /* 只隐藏文字，但给屏幕阅读器保留 */
+  .academic-contacts.icon-contacts .sr-only{
+    position:absolute !important;
+    width:1px !important;
+    height:1px !important;
+    padding:0 !important;
+    margin:-1px !important;
+    overflow:hidden !important;
+    clip:rect(0, 0, 0, 0) !important;
+    white-space:nowrap !important;
+    border:0 !important;
+  }
 
-.icon-contacts .contact-item a{
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  text-decoration: none;
-}
-
-/* 图标大小与手感 */
-.icon-contacts .contact-item i{
-  font-size: 1.15rem;
-  opacity: 0.85;
-  cursor: pointer;
-}
-
-/* hover */
-.icon-contacts .contact-item a:hover i{
-  opacity: 1;
-  color: #1a73e8;
-}
-
-/* 只隐藏文字（保留给无障碍阅读器） */
-.icon-contacts .sr-only{
-  position: absolute !important;
-  width: 1px !important;
-  height: 1px !important;
-  padding: 0 !important;
-  margin: -1px !important;
-  overflow: hidden !important;
-  clip: rect(0, 0, 0, 0) !important;
-  white-space: nowrap !important;
-  border: 0 !important;
-}
-
-  /* ===== Mobile-only fixes (<=700px). Desktop unaffected ===== */
-  @media (max-width: 700px){
+  /* ===== Mobile (<=700px) ===== */
+  @media (max-width:700px){
     .hero-wrap{
-      display: flex !important;
-      flex-direction: column !important;
-      align-items: center !important;
-      gap: 1.2rem !important;
+      flex-direction:column;
+      align-items:center;
+      gap:1.2rem;
     }
     .left-col, .right-col{
-      width: 100% !important;
-      max-width: 420px !important;
-      margin: 0 auto !important;
-    }
-    .left-col{
-      text-align: center !important;
-    }
-    .left-col img{
-      width: 160px !important;
-      display: block !important;
-      margin: 0 auto !important;
-    }
-    .academic-contacts{
-      display: inline-block !important; /* 让 contact 整块居中 */
-      text-align: left !important;      /* 但内部文字左对齐 */
+      width:100%;
+      max-width:420px;
     }
   }
 </style>
 
-<div class="hero-wrap" style="display:flex; gap:2rem; align-items:flex-start;">
+<div class="hero-wrap">
   <!-- Left: photo + contacts -->
-  <div class="left-col" style="flex: 0 0 220px;">
-    <div style="text-align:center;">
-      <img
-        src="{{ '/assets/img/profile.jpg' | relative_url }}"
-        alt="Profile photo"
-        style="width: 180px; border-radius: 10px;"
-      >
+  <div class="left-col">
+    <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Profile photo">
+
+    <!-- Academic Contact Info (icon-only) -->
+    <div class="contact-box academic-contacts icon-contacts">
+
+      <!-- Location -->
+      <div class="contact-item">
+        <a href="https://www.google.com/maps/search/?api=1&query=Seoul%2C%20South%20Korea"
+           target="_blank" rel="noopener noreferrer"
+           title="Seoul, South Korea" aria-label="Location: Seoul, South Korea">
+          <i class="fa-solid fa-location-dot"></i>
+          <span class="sr-only">Seoul, South Korea</span>
+        </a>
+      </div>
+
+      <!-- Email 1 -->
+      <div class="contact-item">
+        <a href="mailto:onejun992@163.com"
+           title="onejun992@163.com" aria-label="Email: onejun992@163.com">
+          <i class="fa-solid fa-envelope"></i>
+          <span class="sr-only">onejun992@163.com</span>
+        </a>
+      </div>
+
+      <!-- Email 2 -->
+      <div class="contact-item">
+        <a href="mailto:shadowpyj007@gmail.com"
+           title="shadowpyj007@gmail.com" aria-label="Email: shadowpyj007@gmail.com">
+          <i class="fa-solid fa-envelope"></i>
+          <span class="sr-only">shadowpyj007@gmail.com</span>
+        </a>
+      </div>
+
+      <!-- Google Scholar -->
+      <div class="contact-item">
+        <a href="https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en"
+           target="_blank" rel="noopener noreferrer"
+           title="Google Scholar" aria-label="Google Scholar">
+          <i class="fa-solid fa-graduation-cap"></i>
+          <span class="sr-only">Google Scholar</span>
+        </a>
+      </div>
+
+      <!-- ORCID -->
+      <div class="contact-item">
+        <a href="https://orcid.org/0009-0003-4920-1890"
+           target="_blank" rel="noopener noreferrer"
+           title="ORCID: 0009-0003-4920-1890" aria-label="ORCID: 0009-0003-4920-1890">
+          <i class="fa-brands fa-orcid"></i>
+          <span class="sr-only">ORCID: 0009-0003-4920-1890</span>
+        </a>
+      </div>
+
+      <!-- X -->
+      <div class="contact-item">
+        <a href="https://x.com/hibiki_v2022"
+           target="_blank" rel="noopener noreferrer"
+           title="X (Twitter)" aria-label="X (Twitter)">
+          <i class="fa-brands fa-x-twitter"></i>
+          <span class="sr-only">X (Twitter)</span>
+        </a>
+      </div>
+
     </div>
-
-   <!-- Academic Contact Info (icon-only) -->
-<div class="contact-box academic-contacts icon-contacts">
-
-  <!-- Location (click to Google Maps) -->
-  <div class="contact-item">
-    <a href="https://www.google.com/maps/search/?api=1&query=Seoul%2C%20South%20Korea"
-       target="_blank" rel="noopener noreferrer"
-       title="Seoul, South Korea" aria-label="Location: Seoul, South Korea">
-      <i class="fa-solid fa-location-dot"></i>
-      <span class="sr-only">Seoul, South Korea</span>
-    </a>
+    <!-- /Academic Contact Info -->
   </div>
-
-  <!-- Email 1 -->
-  <div class="contact-item">
-    <a href="mailto:onejun992@163.com"
-       title="onejun992@163.com" aria-label="Email: onejun992@163.com">
-      <i class="fa-solid fa-envelope"></i>
-      <span class="sr-only">onejun992@163.com</span>
-    </a>
-  </div>
-
-  <!-- Email 2 -->
-  <div class="contact-item">
-    <a href="mailto:shadowpyj007@gmail.com"
-       title="shadowpyj007@gmail.com" aria-label="Email: shadowpyj007@gmail.com">
-      <i class="fa-solid fa-envelope"></i>
-      <span class="sr-only">shadowpyj007@gmail.com</span>
-    </a>
-  </div>
-
-  <!-- Google Scholar -->
-  <div class="contact-item">
-    <a href="https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en"
-       target="_blank" rel="noopener noreferrer"
-       title="Google Scholar" aria-label="Google Scholar">
-      <i class="fa-solid fa-graduation-cap"></i>
-      <span class="sr-only">Google Scholar</span>
-    </a>
-  </div>
-
-  <!-- ORCID -->
-  <div class="contact-item">
-    <a href="https://orcid.org/0009-0003-4920-1890"
-       target="_blank" rel="noopener noreferrer"
-       title="ORCID: 0009-0003-4920-1890" aria-label="ORCID: 0009-0003-4920-1890">
-      <i class="fa-brands fa-orcid"></i>
-      <span class="sr-only">ORCID: 0009-0003-4920-1890</span>
-    </a>
-  </div>
-
-  <!-- X -->
-  <div class="contact-item">
-    <a href="https://x.com/hibiki_v2022"
-       target="_blank" rel="noopener noreferrer"
-       title="X (Twitter)" aria-label="X (Twitter)">
-      <i class="fa-brands fa-x-twitter"></i>
-      <span class="sr-only">X (Twitter)</span>
-    </a>
-  </div>
-
-</div>
-<!-- /Academic Contact Info -->
+  <!-- /left-col -->
 
   <!-- Right: basic info -->
-  <div class="right-col" style="flex: 1;">
+  <div class="right-col">
     <h2 style="margin-top:0;">Peng Yuanjun</h2>
 
-    <p style="margin: 0.25em 0 0.6em; font-size: 1em; line-height: 1.35;">
+    <p style="margin:0.25em 0 0.6em; font-size:1em; line-height:1.35;">
       Researcher in Cultural Contents Studies<br>
       Cultural Hybridity, Japanese Subculture (ACG cultural contents)
     </p>
 
-    <p style="margin: 0.6em 0;">
-      팽원균 / ほうげんきん(彭塬鈞) / 彭塬鈞
+    <p style="margin:0.6em 0;">
+      팽원균 / ほうげんきん(彭源鈞) / 彭源鈞
     </p>
 
-    <p style="margin: 0.6em 0; color: #555;">
+    <p style="margin:0.6em 0; color:#555;">
       Ph.D. (Doctor of Arts)
     </p>
 
-    <p style="margin: 0.6em 0;">
+    <p style="margin:0.6em 0;">
       Department of Global Cultural Contents<br>
       Major in Cultural Contents<br>
       Sangmyung University, Seoul, South Korea
     </p>
-  </div><!-- /right-col -->
-</div><!-- /hero-wrap -->
+  </div>
+  <!-- /right-col -->
+</div>
+<!-- /hero-wrap -->
 
 <div class="section-sep"></div>
 
