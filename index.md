@@ -8,7 +8,7 @@
   line-height: 1.7;
 }
 
-/* 单条联系项 */
+/* contact item 行为 */
 .academic-contacts .contact-item{
   display: flex;
   align-items: center;
@@ -16,27 +16,30 @@
   margin: 0.35rem 0;
 }
 
-/* 图标样式（统一黑色） */
+/* 图标样式：统一黑色 */
 .academic-contacts .contact-item i{
   width: 18px;
   text-align: center;
-  color: #000;        /* 黑色图标 */
-  opacity: 0.85;
+  color: #111 !important;
+  opacity: 1 !important;
   cursor: pointer;
 }
 
-.academic-contacts .contact-item i:hover{
-  opacity: 1;
-}
-
-/* 链接本身不显示下划线 */
+/* 链接本身不加下划线 */
 .academic-contacts a{
   text-decoration: none;
 }
 
-/* ===== Icon-only contacts（你现在用的模式） ===== */
+/* hover 也保持黑色（不变蓝） */
+.academic-contacts a:hover i{
+  color: #000 !important;
+  opacity: 1 !important;
+}
+
+/* ===== Icon-only contacts (SAFE, only for .icon-contacts) ===== */
 .icon-contacts{
   display: flex;
+  flex-wrap: wrap;
   gap: 0.9rem;
   align-items: center;
   margin-top: 0.9rem;
@@ -57,14 +60,52 @@
   font-size: 1.15rem;
 }
 
-/* 只隐藏文字（无障碍仍保留） */
+/* 只隐藏文字（保留给读屏器） */
 .icon-contacts .sr-only{
   position: absolute !important;
   width: 1px !important;
   height: 1px !important;
   padding: 0 !important;
   margin: -1px !important;
-  overflow: hidde
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* ===== 布局微调：左侧与正文对齐 ===== */
+.left-col{
+  margin-left: -14px; /* ← 核心：让头像 + 图标整体往左一点 */
+}
+
+/* ===== Mobile-only fixes (<=700px) ===== */
+@media (max-width: 700px){
+  .hero-wrap{
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    gap: 1.2rem !important;
+  }
+
+  .left-col,
+  .right-col{
+    width: 100% !important;
+    max-width: 420px !important;
+    margin: 0 auto !important;
+  }
+
+  .left-col{
+    margin-left: 0 !important; /* 手机端不左移 */
+    text-align: center !important;
+  }
+
+  .left-col img{
+    width: 160px !important;
+    display: block !important;
+    margin: 0 auto !important;
+  }
+}
+</style>
 
 <div class="hero-wrap">
   <!-- Left: photo + contacts -->
@@ -147,7 +188,7 @@
     </p>
 
     <p style="margin:0.6em 0;">
-      팽원균 / ほうげんきん(彭塬鈞) / 彭塬鈞
+      팽원균 / ほうげんきん(彭源鈞) / 彭源鈞
     </p>
 
     <p style="margin:0.6em 0; color:#555;">
