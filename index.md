@@ -1,52 +1,46 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <style>
-/* ===== Contact icons (academic style) ===== */
+/* ===== Hero layout (SAFE override) ===== */
+.hero-wrap{
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+/* ===== Left column ===== */
+.left-col{
+  flex: 0 0 220px;
+  text-align: center;
+}
+
+/* 头像尺寸：核心修复 */
+.left-col img{
+  width: 180px;
+  max-width: 180px;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+}
+
+/* ===== Contact icons ===== */
 .academic-contacts{
   margin-top: 0.9rem;
   font-size: 0.95em;
   line-height: 1.7;
 }
 
-/* contact item 行为 */
 .academic-contacts .contact-item{
-  display: flex;
-  align-items: center;
-  gap: 0.55rem;
-  margin: 0.35rem 0;
+  display: inline-flex;
+  margin: 0;
 }
 
-/* 图标样式：统一黑色 */
-.academic-contacts .contact-item i{
-  width: 18px;
-  text-align: center;
-  color: #111 !important;
-  opacity: 1 !important;
-  cursor: pointer;
-}
-
-/* 链接本身不加下划线 */
-.academic-contacts a{
-  text-decoration: none;
-}
-
-/* hover 也保持黑色（不变蓝） */
-.academic-contacts a:hover i{
-  color: #000 !important;
-  opacity: 1 !important;
-}
-
-/* ===== Icon-only contacts (SAFE, only for .icon-contacts) ===== */
 .icon-contacts{
   display: flex;
-  flex-wrap: wrap;
+  justify-content: center;
   gap: 0.9rem;
-  align-items: center;
   margin-top: 0.9rem;
-}
-
-.icon-contacts .contact-item{
-  margin: 0;
 }
 
 .icon-contacts .contact-item a{
@@ -55,12 +49,13 @@
   justify-content: center;
 }
 
-/* 图标大小 */
 .icon-contacts .contact-item i{
   font-size: 1.15rem;
+  color: #111 !important;
+  opacity: 1 !important;
 }
 
-/* 只隐藏文字（保留给读屏器） */
+/* sr-only（无障碍） */
 .icon-contacts .sr-only{
   position: absolute !important;
   width: 1px !important;
@@ -68,121 +63,90 @@
   padding: 0 !important;
   margin: -1px !important;
   overflow: hidden !important;
-  clip: rect(0, 0, 0, 0) !important;
+  clip: rect(0,0,0,0) !important;
   white-space: nowrap !important;
   border: 0 !important;
 }
 
-/* ===== 布局微调：左侧与正文对齐 ===== */
-.left-col{
-  margin-left: -14px; /* ← 核心：让头像 + 图标整体往左一点 */
+/* ===== Right column ===== */
+.right-col{
+  flex: 1;
 }
 
-/* ===== Mobile-only fixes (<=700px) ===== */
+/* ===== Mobile ===== */
 @media (max-width: 700px){
   .hero-wrap{
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: center !important;
-    gap: 1.2rem !important;
+    flex-direction: column;
+    align-items: center;
   }
 
   .left-col,
   .right-col{
-    width: 100% !important;
-    max-width: 420px !important;
-    margin: 0 auto !important;
+    width: 100%;
+    max-width: 420px;
   }
 
   .left-col{
-    margin-left: 0 !important; /* 手机端不左移 */
-    text-align: center !important;
+    text-align: center;
   }
 
   .left-col img{
-    width: 160px !important;
-    display: block !important;
-    margin: 0 auto !important;
+    width: 160px;
+    max-width: 160px;
   }
 }
 </style>
 
 <div class="hero-wrap">
-  <!-- Left: photo + contacts -->
+  <!-- Left -->
   <div class="left-col">
     <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Profile photo">
 
-    <!-- Academic Contact Info (icon-only) -->
     <div class="contact-box academic-contacts icon-contacts">
 
-      <!-- Location -->
       <div class="contact-item">
-        <a href="https://www.google.com/maps/search/?api=1&query=Seoul%2C%20South%20Korea"
-           target="_blank" rel="noopener noreferrer"
-           title="Seoul, South Korea" aria-label="Location: Seoul, South Korea">
-          <i class="fa-solid fa-location-dot"></i>
-          <span class="sr-only">Seoul, South Korea</span>
-        </a>
-      </div>
-
-      <!-- Email 1 -->
-      <div class="contact-item">
-        <a href="mailto:onejun992@163.com"
-           title="onejun992@163.com" aria-label="Email: onejun992@163.com">
+        <a href="mailto:onejun992@163.com" aria-label="Email">
           <i class="fa-solid fa-envelope"></i>
           <span class="sr-only">onejun992@163.com</span>
         </a>
       </div>
 
-      <!-- Email 2 -->
       <div class="contact-item">
-        <a href="mailto:shadowpyj007@gmail.com"
-           title="shadowpyj007@gmail.com" aria-label="Email: shadowpyj007@gmail.com">
+        <a href="mailto:shadowpyj007@gmail.com" aria-label="Email">
           <i class="fa-solid fa-envelope"></i>
           <span class="sr-only">shadowpyj007@gmail.com</span>
         </a>
       </div>
 
-      <!-- Google Scholar -->
       <div class="contact-item">
-        <a href="https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en"
-           target="_blank" rel="noopener noreferrer"
-           title="Google Scholar" aria-label="Google Scholar">
+        <a href="https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en" target="_blank">
           <i class="fa-solid fa-graduation-cap"></i>
           <span class="sr-only">Google Scholar</span>
         </a>
       </div>
 
-      <!-- ORCID -->
       <div class="contact-item">
-        <a href="https://orcid.org/0009-0003-4920-1890"
-           target="_blank" rel="noopener noreferrer"
-           title="ORCID: 0009-0003-4920-1890" aria-label="ORCID: 0009-0003-4920-1890">
+        <a href="https://orcid.org/0009-0003-4920-1890" target="_blank">
           <i class="fa-brands fa-orcid"></i>
-          <span class="sr-only">ORCID: 0009-0003-4920-1890</span>
+          <span class="sr-only">ORCID</span>
         </a>
       </div>
 
-      <!-- X -->
       <div class="contact-item">
-        <a href="https://x.com/hibiki_v2022"
-           target="_blank" rel="noopener noreferrer"
-           title="X (Twitter)" aria-label="X (Twitter)">
+        <a href="https://x.com/hibiki_v2022" target="_blank">
           <i class="fa-brands fa-x-twitter"></i>
-          <span class="sr-only">X (Twitter)</span>
+          <span class="sr-only">X</span>
         </a>
       </div>
 
     </div>
-    <!-- /Academic Contact Info -->
   </div>
-  <!-- /left-col -->
 
-  <!-- Right: basic info -->
+  <!-- Right -->
   <div class="right-col">
     <h2 style="margin-top:0;">Peng Yuanjun</h2>
 
-    <p style="margin:0.25em 0 0.6em; font-size:1em; line-height:1.35;">
+    <p style="margin:0.25em 0 0.6em; line-height:1.35;">
       Researcher in Cultural Contents Studies<br>
       Cultural Hybridity, Japanese Subculture (ACG cultural contents)
     </p>
@@ -201,9 +165,7 @@
       Sangmyung University, Seoul, South Korea
     </p>
   </div>
-  <!-- /right-col -->
 </div>
-<!-- /hero-wrap -->
 
 <div class="section-sep"></div>
 
