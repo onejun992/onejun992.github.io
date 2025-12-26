@@ -17,7 +17,7 @@
     <!-- 一句话研究定位（Tagline） -->
     <p style="margin: 0.25em 0 0.5em 0; font-size: 1em; line-height: 1.35;">
       Researcher in Cultural Contents Studies<br>
-      Cultural Hybridity, Japanese subculture (ACG cultural contents), and ACG cultures in East Asia
+      Cultural Hybridity, Japanese subculture (ACG cultural contents)
     </p>
 
     <!-- 多语言姓名 -->
