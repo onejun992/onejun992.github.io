@@ -29,13 +29,14 @@
   }
 
   .ap-avatar{
-    width: 170px;
-    height: 170px;
-    border-radius: 999px;
-    object-fit: cover;
-    display: block;
-    margin: 6px 0 14px 0;
-  }
+  width: 170px;
+  height: auto;              /* ✅ 关键：高度自适应，完整显示照片 */
+  border-radius: 12px;       /* 轻微圆角，学术主页常用 */
+  object-fit: contain;       /* ✅ 不裁切，完整显示 */
+  background: #f4f4f4;       /* 如果照片比例不同，有个干净背景 */
+  display: block;
+  margin: 6px 0 14px 0;
+}
 
   .ap-name{
     font-size: 1.28rem;
@@ -136,55 +137,51 @@
         Sangmyung University, Seoul, South Korea
       </p>
 
-      <ul class="ap-contacts">
+     <li>
+  <a href="https://www.google.com/maps/search/?api=1&query=Seoul%2C%20South%20Korea"
+     target="_blank" rel="noopener noreferrer">
+    <i class="fa-solid fa-location-dot"></i>
+    <span>Location</span>
+  </a>
+</li>
 
-        <li>
-          <a href="https://www.google.com/maps/search/?api=1&query=Seoul%2C%20South%20Korea"
-             target="_blank" rel="noopener noreferrer">
-            <i class="fa-solid fa-location-dot" aria-hidden="true"></i>
-            <span>Seoul, South Korea</span>
-          </a>
-        </li>
+<li>
+  <a href="mailto:onejun992@163.com">
+    <i class="fa-solid fa-envelope"></i>
+    <span>Email (CN)</span>
+  </a>
+</li>
 
-        <li>
-          <a href="mailto:onejun992@163.com">
-            <i class="fa-solid fa-envelope" aria-hidden="true"></i>
-            <span>Email (CN): onejun992@163.com</span>
-          </a>
-        </li>
+<li>
+  <a href="mailto:shadowpyj007@gmail.com">
+    <i class="fa-solid fa-at"></i>
+    <span>Email</span>
+  </a>
+</li>
 
-        <li>
-          <a href="mailto:shadowpyj007@gmail.com">
-            <i class="fa-solid fa-at" aria-hidden="true"></i>
-            <span>Email: shadowpyj007@gmail.com</span>
-          </a>
-        </li>
+<li>
+  <a href="https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en"
+     target="_blank" rel="noopener noreferrer">
+    <i class="fa-solid fa-graduation-cap"></i>
+    <span>Google Scholar</span>
+  </a>
+</li>
 
-        <li>
-          <a href="https://scholar.google.com/citations?user=OCK6mWAAAAAJ&hl=en"
-             target="_blank" rel="noopener noreferrer">
-            <i class="fa-solid fa-graduation-cap" aria-hidden="true"></i>
-            <span>Google Scholar</span>
-          </a>
-        </li>
+<li>
+  <a href="https://orcid.org/0009-0003-4920-1890"
+     target="_blank" rel="noopener noreferrer">
+    <i class="fa-brands fa-orcid"></i>
+    <span>ORCID</span>
+  </a>
+</li>
 
-        <li>
-          <a href="https://orcid.org/0009-0003-4920-1890"
-             target="_blank" rel="noopener noreferrer">
-            <i class="fa-brands fa-orcid" aria-hidden="true"></i>
-            <span>ORCID: 0009-0003-4920-1890</span>
-          </a>
-        </li>
-
-        <li>
-          <a href="https://x.com/hibiki_v2022"
-             target="_blank" rel="noopener noreferrer">
-            <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
-            <span>X (Twitter): @hibiki_v2022</span>
-          </a>
-        </li>
-
-      </ul>
+<li>
+  <a href="https://x.com/hibiki_v2022"
+     target="_blank" rel="noopener noreferrer">
+    <i class="fa-brands fa-x-twitter"></i>
+    <span>X (Twitter)</span>
+  </a>
+</li>
 
     </div>
   </aside>
@@ -192,7 +189,12 @@
   <!-- ===== RIGHT MAIN CONTENT (原文一字不漏) ===== -->
   <main class="ap-main" markdown="1">
 
-    <div class="section-sep"></div>
+  /* 用第一个 h2 自动当“分隔线”，无需写 <div class="section-sep"> */
+.ap-main h2:first-of-type{
+  margin-top: 0;
+  padding-top: 4px;
+  border-top: 1px solid var(--line);
+}
 
 ## Research Profile
 
