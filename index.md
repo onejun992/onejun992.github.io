@@ -185,7 +185,7 @@ aside.ap-sidebar .ap-profile-block{
   
 /* ===== Name block (refined): centered + balanced weight + clear separation ===== */
 aside.ap-sidebar .ap-name-block{
-  text-align: center;
+  text-align: left;
   margin: 10px 0 14px;
   padding-bottom: 12px;
   border-bottom: 1px solid rgba(0,0,0,0.08);
