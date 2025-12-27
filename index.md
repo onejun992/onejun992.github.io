@@ -128,6 +128,51 @@
     }
     .ap-avatar{ width: 132px; height: 132px; }
   }
+/* ===== Sidebar: contacts final override (strong) ===== */
+
+.ap-profile-block{
+  margin-bottom: 14px !important;
+}
+
+ul.ap-contacts{
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin: 12px 0 0 0 !important;
+}
+
+ul.ap-contacts li{
+  margin: 10px 0 !important;
+  padding: 0 !important;
+}
+
+ul.ap-contacts li a{
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+  text-decoration: none !important;
+  color: #111 !important;
+}
+
+ul.ap-contacts li a:visited{
+  color: #111 !important;
+}
+
+ul.ap-contacts li a i{
+  width: 18px !important;
+  flex: 0 0 18px !important;
+  text-align: center !important;
+  color: #444 !important;
+  font-size: 0.98rem !important;
+}
+
+ul.ap-contacts li a:hover{
+  text-decoration: none !important;
+  color: #111 !important;
+}
+
+ul.ap-contacts li a:hover i{
+  color: #111 !important;
+}
 </style>
 
 <div class="ap-wrap">
@@ -152,7 +197,7 @@
   </div>
 
   <div class="ap-native">
-    팽원균 / ほうげんきん(彭塬鈞) / 彭塬鈞
+    팽원균 / ほうげんきん(彭塬鈞) / 彭塬钧
   </div>
 
   <div class="ap-degree">
@@ -174,7 +219,7 @@
   <a href="https://www.google.com/maps/search/?api=1&query=Seoul%2C%20South%20Korea"
      target="_blank" rel="noopener noreferrer">
     <i class="fa-solid fa-location-dot"></i>
-    <span>Location</span>
+    <span>Seoul, South Korea</span>
   </a>
 </li>
 
