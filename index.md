@@ -593,8 +593,7 @@ More broadly, my research aims to explore how cultural contents are produced, tr
   (2024).  
   문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年紀)를 중심으로.  
 
-  > *A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:  
-  > Focusing on the “Bainianji” (New Year Festival Program)*  
+  > *A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity: Focusing on the “Bainianji” (New Year Festival Program)*  
 
   > *文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――  
   > 「拜年紀（Bainianji）」を中心に――*  
@@ -612,8 +611,7 @@ More broadly, my research aims to explore how cultural contents are produced, tr
   (2024).  
   문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年紀)를 중심으로.  
 
-  > *A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:  
-  > Focusing on the “Bainianji” (New Year Festival Program)*  
+  > *A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity: Focusing on the “Bainianji” (New Year Festival Program)*  
 
   > *文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――  
   > 「拜年紀（Bainianji）」を中心に――*  
