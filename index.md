@@ -129,6 +129,41 @@
     .ap-avatar{ width: 132px; height: 132px; }
   }
   
+/* ===== Profile card: 3 key blocks ===== */
+aside.ap-sidebar .ap-section{
+  padding: 10px 0;
+  border-top: 1px solid rgba(0,0,0,0.08);
+}
+
+aside.ap-sidebar .ap-section:first-child{
+  border-top: 0;
+  padding-top: 6px;
+}
+
+aside.ap-sidebar .ap-label{
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #777;
+  margin-bottom: 6px;
+}
+
+aside.ap-sidebar .ap-value{
+  font-size: 1.02rem;
+  line-height: 1.45;
+  color: #222;
+}
+
+/* make Research Focus feel most important */
+aside.ap-sidebar .ap-focus .ap-value{
+  font-weight: 600;
+}
+
+aside.ap-sidebar .ap-focus .ap-value br + *{
+  font-weight: 400;
+  color: #444;
+}
+
 /* ===== FINAL FINAL: force sidebar list + links ===== */
 
 /* 1) 黑点：不管是 marker 还是 before，都干掉 */
@@ -236,26 +271,30 @@ aside.ap-sidebar .ap-profile-block{
 
 <div class="ap-profile-block">
 
-  <div class="ap-role">
-    Cultural Contents Researcher
+  <!-- 1) Research focus -->
+  <div class="ap-section ap-focus">
+    <div class="ap-label">Research Focus</div>
+    <div class="ap-value">
+      Cultural Contents Researcher<br>
+      Cultural Hybridity · Japanese Subculture · ACG(Animation, Comics, and Games) Contents
+    </div>
   </div>
 
-  <div class="ap-field">
-    Cultural Hybridity · Japanese Subculture<br>
-    <span class="ap-acg">(ACG: Animation, Comics, and Games)</span>
+  <!-- 2) Program -->
+  <div class="ap-section ap-program">
+    <div class="ap-label">Program</div>
+    <div class="ap-value">
+      Department of Global Cultural Contents<br>
+      Major in Cultural Contents
+    </div>
   </div>
 
-  <div class="ap-degree">
-    Ph.D. (Doctor of Arts)
-  </div>
-
-  <div class="ap-program">
-    Department of Global Cultural Contents<br>
-    Major in Cultural Contents
-  </div>
-
-  <div class="ap-affiliation">
-    Sangmyung University, Seoul, South Korea
+  <!-- 3) Degree -->
+  <div class="ap-section ap-degree">
+    <div class="ap-label">Degree</div>
+    <div class="ap-value">
+      Ph.D. (Doctor of Arts)
+    </div>
   </div>
 
 </div>
