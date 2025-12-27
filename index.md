@@ -353,121 +353,7 @@ aside.ap-sidebar .ap-profile-block{
   padding-left: 0;
   margin-top: 6px;
 }
-
-/* ===== Academic style for details > summary (KO/JA/ZH blocks) ===== */
-main.ap-main details{
-  margin: 18px 0 !important;
-  padding: 0 !important;
-  border-top: 1px solid var(--line) !important;
-}
-
-main.ap-main details:last-of-type{
-  border-bottom: 1px solid var(--line) !important;
-  padding-bottom: 6px !important;
-}
-
-main.ap-main details > summary{
-  list-style: none !important;
-  cursor: pointer !important;
-  user-select: none !important;
-
-  display: flex !important;
-  align-items: center !important;
-  gap: 10px !important;
-
-  padding: 12px 0 !important;
-  margin: 0 !important;
-
-  /* 更学术：小标题风格 */
-  font-size: 0.82rem !important;
-  letter-spacing: 0.14em !important;
-  text-transform: uppercase !important;
-  color: #666 !important;
-  font-weight: 600 !important;
-
-  /* 让 summary 本身不“网页味” */
-  background: transparent !important;
-}
-
-/* 去掉浏览器默认的小三角（各浏览器） */
-main.ap-main details > summary::-webkit-details-marker{ display:none !important; }
-main.ap-main details > summary::marker{ content:"" !important; }
-
-/* 自定义一个更克制的三角符号 */
-main.ap-main details > summary::before{
-  content: "▸" !important;
-  font-size: 0.95rem !important;
-  color: #888 !important;
-  transform: translateY(-0.5px);
-}
-
-main.ap-main details[open] > summary::before{
-  content: "▾" !important;
-}
-
-/* 打开后 summary 和正文之间留呼吸 */
-main.ap-main details[open] > summary{
-  padding-bottom: 10px !important;
-  border-bottom: 1px solid var(--line) !important;
-  margin-bottom: 10px !important;
-}
-
-/* summary 里你用了 <strong> 的话，让它别“黑粗” */
-main.ap-main details > summary strong{
-  font-weight: 650 !important;
-  color: inherit !important;
-}
-
-/* ===== Content typography for KO / JA / ZH ===== */
-main.ap-main .lang-ko,
-main.ap-main .lang-ja,
-main.ap-main .lang-zh{
-  margin: 0 !important;
-  padding: 0 !important;
-
-  /* 让长段落更像论文排版 */
-  max-width: 62ch !important;
-  line-height: 1.85 !important;
-  font-size: 0.98rem !important;
-  color: #222 !important;
-
-  /* 避免“挤在一起”的关键：段落分隔 */
-}
-
-main.ap-main .lang-ko p,
-main.ap-main .lang-ja p,
-main.ap-main .lang-zh p{
-  margin: 0 0 14px 0 !important;
-}
-
-main.ap-main .lang-ko p:last-child,
-main.ap-main .lang-ja p:last-child,
-main.ap-main .lang-zh p:last-child{
-  margin-bottom: 2px !important;
-}
-
-/* 各语言微调：更舒服 */
-main.ap-main .lang-ko{
-  word-break: keep-all !important;
-  letter-spacing: 0.01em !important;
-}
-
-main.ap-main .lang-ja{
-  letter-spacing: 0.02em !important;
-}
-
-main.ap-main .lang-zh{
-  letter-spacing: 0.02em !important;
-}
-
-/* 可选：如果你想正文更“书面”，把括号英文稍微淡一点 */
-main.ap-main .lang-ko em,
-main.ap-main .lang-ja em,
-main.ap-main .lang-zh em{
-  color: #444 !important;
-  font-style: normal !important;
-}
- 
+  
 </style>
 
 <div class="ap-wrap">
@@ -572,7 +458,7 @@ main.ap-main .lang-zh em{
   <!-- ===== RIGHT MAIN CONTENT (原文一字不漏) ===== -->
   <main class="ap-main" markdown="1">
 
-## Research Interests
+## Research Profile
 
 I received my Ph.D. in Cultural Contents from the Department of Global Cultural Contents at Sangmyung University, Korea.
 
