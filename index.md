@@ -287,7 +287,7 @@ aside.ap-sidebar .ap-profile-block{
     </div>
   </div>
 
-  <<!-- 2) Academic Background -->
+  <!-- 2) Academic Background -->
 <div class="ap-section ap-academic-bg">
   <div class="ap-label">ACADEMIC BACKGROUND</div>
   <div class="ap-value">
