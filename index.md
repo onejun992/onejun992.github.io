@@ -182,6 +182,44 @@ aside.ap-sidebar{
 aside.ap-sidebar .ap-profile-block{
   margin-bottom: 16px !important;
 }
+/* ===== Name block: EN big + multi-lang small ===== */
+aside.ap-sidebar .ap-name-block{
+  text-align: left;
+  margin: 6px 0 10px;
+}
+
+aside.ap-sidebar .ap-name{
+  margin: 2px 0 4px !important;
+  font-size: 2.2rem;
+  font-weight: 800;
+  letter-spacing: 0.2px;
+  line-height: 1.05;
+}
+
+aside.ap-sidebar .ap-name-zh{
+  font-size: 1.05rem;
+  font-weight: 400;
+  color: #444;
+  margin: 0 0 2px;
+  line-height: 1.2;
+}
+
+aside.ap-sidebar .ap-name-krjp{
+  font-size: 1.05rem;
+  font-weight: 400;
+  color: #444;
+  margin: 0;
+  line-height: 1.2;
+}
+
+/* 可选：如果你想更“学术”一点，让中文/韩日再淡一点 */
+@media (min-width: 701px){
+  aside.ap-sidebar .ap-name-zh,
+  aside.ap-sidebar .ap-name-krjp{
+    color: #555;
+  }
+}
+
 </style>
 
 <div class="ap-wrap">
@@ -192,7 +230,11 @@ aside.ap-sidebar .ap-profile-block{
 
       <img class="ap-avatar" src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Profile photo">
 
-     <h1 class="ap-name">Peng Yuanjun</h1>
+     <div class="ap-name-block">
+  <div class="ap-name-zh">彭塬钧</div>
+  <h1 class="ap-name">Peng Yuanjun</h1>
+  <div class="ap-name-krjp">팽원균 · ほうげんきん（彭塬鈞）</div>
+</div>
 
 <div class="ap-profile-block">
 
@@ -203,10 +245,6 @@ aside.ap-sidebar .ap-profile-block{
   <div class="ap-field">
     Cultural Hybridity · Japanese Subculture<br>
     <span class="ap-acg">(ACG: Animation, Comics, and Games)</span>
-  </div>
-
-  <div class="ap-native">
-    팽원균 / ほうげんきん(彭塬鈞) / 彭塬钧
   </div>
 
   <div class="ap-degree">
