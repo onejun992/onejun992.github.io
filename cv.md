@@ -7,15 +7,16 @@ permalink: /cv/
 # Curriculum Vitae
 
 <details open>
-<summary><strong>English CV</strong></summary>
+  <summary><strong>English CV</strong></summary>
+  <div markdown="1">
 
 <br>
 
 # Peng Yuanjun
 
+**Email:** Available upon request  
 **Affiliation:** Independent Researcher / Ph.D. in Cultural Contents  
-**Location:** Seoul, South Korea  
-**Email:** Available upon request
+**Location:** Seoul, South Korea
 
 ---
 
@@ -40,8 +41,7 @@ Graduate School, Sangmyung University, Seoul, South Korea
 ### Journal Articles
 
 Peng, Yuanjun, & Cho, Kyuheon. (2024).  
-*A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:  
-Focusing on the “Bainianji” (New Year Festival Program).*  
+*A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity: Focusing on the “Bainianji” (New Year Festival Program).*  
 **The Journal of Foreign Studies**, Foreign Studies Institute.  
 DOI: https://doi.org/10.15755/jfs.2024..70.613
 
@@ -50,15 +50,12 @@ DOI: https://doi.org/10.15755/jfs.2024..70.613
 ### Conference Proceedings
 
 Peng, Yuanjun. (2024).  
-*A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:  
-Focusing on the “Bainianji” (New Year Festival Program).*  
-Proceedings of the Global Cultural Contents Conference,  
-Global Cultural Contents Society, Vol. 2024, No. 8.  
+*A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity: Focusing on the “Bainianji” (New Year Festival Program).*  
+Proceedings of the Global Cultural Contents Conference, Global Cultural Contents Society, Vol. 2024, No. 8.  
 Available at: https://www.riss.kr/link?id=A109225174
 
 Peng, Yuanjun. (2022).  
-*Examining the Relationship between the Chinese Video Platform Bilibili and  
-ACG / Two-Dimensional Culture.*  
+*Examining the Relationship between the Chinese Video Platform Bilibili and ACG / Two-Dimensional Culture.*  
 Proceedings of the Korean Cultural Contents Joint Academic Conference.
 
 ---
@@ -68,76 +65,43 @@ Proceedings of the Korean Cultural Contents Joint Academic Conference.
 ### Oral Presentation
 
 Peng, Yuanjun. (2024).  
-*A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:  
-Focusing on the “Bainianji” (New Year Festival Program).*  
+*A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity: Focusing on the “Bainianji” (New Year Festival Program).*  
 Global Cultural Contents Conference.
 
 ### Poster Presentation
 
 Peng, Yuanjun. (2022).  
-*Examining the Relationship between the Chinese Video Platform Bilibili and  
-ACG / Two-Dimensional Culture.*  
+*Examining the Relationship between the Chinese Video Platform Bilibili and ACG / Two-Dimensional Culture.*  
 Korean Cultural Contents Joint Academic Conference.
 
 ---
 
 ## Academic Activities & Service
 
-- Teaching Assistant, Office of External Affairs – International Student Services Team,  
-  Sangmyung University (Sep 2020 – Feb 2021)
-
-- Teaching Assistant, Graduate School Academic Affairs Division,  
-  Sangmyung University (Mar 2021 – Feb 2023)
-
-- International Student Representative, Department of Korean–Japanese Cultural Contents,  
-  Sangmyung University (Mar 2018 – Feb 2019)
-
-- Chinese International Student Representative, Department of Korean–Japanese Cultural Contents,  
-  Sangmyung University (Mar 2019 – Aug 2020)
-
-- Team Leader & Chief Coordinator, International Student Representative Group,  
-  Creative Convergence Success Conference, Sangmyung University (Mar 2019 – Jun 2019)
-
-- Director, Sangmyung University Chinese Students and Scholars Association (SMUCSSA),  
-  under the guidance of the Education Section, Embassy of the PRC in Korea  
-  (Mar 2021 – Jun 2021)
-
-- President, Sangmyung University Chinese Students and Scholars Association (SMUCSSA),  
-  under the guidance of the Education Section, Embassy of the PRC in Korea  
-  (Jul 2021 – May 2022)
+- Teaching Assistant, Office of External Affairs – International Student Services Team, Sangmyung University (Sep 2020 – Feb 2021)
+- Teaching Assistant, Graduate School Academic Affairs Division, Sangmyung University (Mar 2021 – Feb 2023)
+- International Student Representative, Department of Korean–Japanese Cultural Contents, Sangmyung University (Mar 2018 – Feb 2019)
+- Chinese International Student Representative, Department of Korean–Japanese Cultural Contents, Sangmyung University (Mar 2019 – Aug 2020)
+- Team Leader & Chief Coordinator, International Student Representative Group, Creative Convergence Success Conference, Sangmyung University (Mar 2019 – Jun 2019)
+- Director, Sangmyung University Chinese Students and Scholars Association (SMUCSSA), under the guidance of the Education Section, Embassy of the PRC in Korea (Mar 2021 – Jun 2021)
+- President, Sangmyung University Chinese Students and Scholars Association (SMUCSSA), under the guidance of the Education Section, Embassy of the PRC in Korea (Jul 2021 – May 2022)
 
 ---
 
 ## Awards & Honors
 
-- Conference Presentation Award, Academic Festival,  
-  Department of Korean–Japanese Cultural Contents,  
-  Sangmyung University (Dec 2019)
-
-- Conference Presentation Award,  
-  Korean Cultural Contents Joint Academic Conference (Jun 2022)
-
-- Conference Presentation Award,  
-  Summer Conference of the Global Cultural Contents Society (Aug 2024)
+- Conference Presentation Award, Academic Festival, Department of Korean–Japanese Cultural Contents, Sangmyung University (Dec 2019)
+- Conference Presentation Award, Korean Cultural Contents Joint Academic Conference (Jun 2022)
+- Conference Presentation Award, Summer Conference of the Global Cultural Contents Society (Aug 2024)
 
 ---
 
 ## Projects & Research Activities
 
-- Book Chapter Contributor. *Corona Change*.  
-  Lettre Publishing, Jan 15, 2021. ISBN: 9791197230219
-
-- Book Chapter Contributor. *Immersed in Culture and Contents*.  
-  Lettre Publishing, Dec 30, 2021. ISBN: 9791197230233
-
-- Book Chapter Contributor.  
-  *Hallyu and Cultural Contents: Diverse Perspectives on Hallyu*.  
-  Lettre Publishing, Feb 6, 2023. ISBN: 9791197230264
-
-- Practice-based Research in Japanese Subculture and ACG Media.  
-  Conducted sustained digital cultural practice on Bilibili as a virtual streamer (V-Tuber),  
-  focusing on Japanese ACG culture, virtual performance, audience participation,  
-  and platform-mediated cultural interaction.
+- Book Chapter Contributor. *Corona Change*. Lettre Publishing, Jan 15, 2021. ISBN: 9791197230219
+- Book Chapter Contributor. *Immersed in Culture and Contents*. Lettre Publishing, Dec 30, 2021. ISBN: 9791197230233
+- Book Chapter Contributor. *Hallyu and Cultural Contents: Diverse Perspectives on Hallyu*. Lettre Publishing, Feb 6, 2023. ISBN: 9791197230264
+- Practice-based Research in Japanese Subculture and ACG Media. Conducted sustained digital cultural practice on Bilibili as a virtual streamer (V-Tuber), focusing on Japanese ACG culture, virtual performance, audience participation, and platform-mediated cultural interaction.
 
 ---
 
@@ -151,43 +115,47 @@ Korean Cultural Contents Joint Academic Conference.
 
 ## Public Engagement & Media
 
-- Operated a China-oriented overseas cultural communication account on Sina Weibo  
-  with official Orange V verification, reaching approximately 128,000 followers (2014–2022)
+- Operated a China-oriented overseas cultural communication account on Sina Weibo with official Orange V verification, reaching approximately 128,000 followers (2014–2022).
+- Editorial contributor for a WeChat public account specializing in Korean food culture (Aug 2017 – Dec 2017).
 
-- Editorial contributor for a WeChat public account specializing in Korean food culture  
-  (Aug 2017 – Dec 2017)
-
+  </div>
 </details>
 
 ---
 
 <details>
-<summary><strong>Korean CV</strong></summary>
+  <summary><strong>Korean CV</strong></summary>
+  <div markdown="1">
 
 <br>
 
 ※ Korean CV content will be added here.
 
+  </div>
 </details>
 
 ---
 
 <details>
-<summary><strong>Japanese CV</strong></summary>
+  <summary><strong>Japanese CV</strong></summary>
+  <div markdown="1">
 
 <br>
 
 ※ Japanese CV content will be added here.
 
+  </div>
 </details>
 
 ---
 
 <details>
-<summary><strong>Chinese CV</strong></summary>
+  <summary><strong>Chinese CV</strong></summary>
+  <div markdown="1">
 
 <br>
 
 ※ Chinese CV content will be added here.
 
+  </div>
 </details>
