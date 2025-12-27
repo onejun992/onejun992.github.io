@@ -190,7 +190,7 @@
   </aside>
 
   <!-- ===== RIGHT MAIN CONTENT (原文一字不漏) ===== -->
-  <main class="ap-main">
+  <main class="ap-main" markdown="1">
 
     <div class="section-sep"></div>
 
