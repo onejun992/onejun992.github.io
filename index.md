@@ -129,32 +129,28 @@
     .ap-avatar{ width: 132px; height: 132px; }
   }
   
-/* ===== FINAL: kill bullets + kill link blue in ap-contacts ===== */
+/* ===== HARD OVERRIDE for LEFT SIDEBAR contact list ===== */
 
-/* 1) 黑点：从 ul、li、marker 三层一起干掉 */
-ul.ap-contacts,
-ul.ap-contacts li{
+aside.ap-sidebar .ap-profile-block{
+  margin-bottom: 16px !important;
+}
+
+aside.ap-sidebar ul{
   list-style: none !important;
   padding-left: 0 !important;
-  margin-left: 0 !important;
+  margin: 14px 0 0 0 !important;
 }
 
-ul.ap-contacts li::marker{
-  content: "" !important;   /* ✅ 直接清空 marker（黑点来源） */
-}
-
-/* 2) 联系方式布局（避免挤） */
-ul.ap-contacts{
-  margin-top: 14px !important;
-}
-
-ul.ap-contacts li{
+aside.ap-sidebar ul li{
   margin: 10px 0 !important;
   padding: 0 !important;
 }
 
-/* 3) 蓝色：把 a 和 a 里面所有子元素颜色都锁死 */
-ul.ap-contacts li a{
+aside.ap-sidebar ul li::marker{
+  content: "" !important;
+}
+
+aside.ap-sidebar ul li a{
   display: flex !important;
   align-items: center !important;
   gap: 10px !important;
@@ -162,17 +158,16 @@ ul.ap-contacts li a{
   color: #111 !important;
 }
 
-ul.ap-contacts li a:visited{
+aside.ap-sidebar ul li a:visited{
   color: #111 !important;
 }
 
-ul.ap-contacts li a *{
-  color: inherit !important;   /* ✅ 防止 i/svg 自己变蓝 */
+aside.ap-sidebar ul li a *{
+  color: inherit !important;
 }
 
-/* 4) 图标：无论是 i 还是 svg 都统一 */
-ul.ap-contacts li a i,
-ul.ap-contacts li a svg{
+aside.ap-sidebar ul li a i,
+aside.ap-sidebar ul li a svg{
   width: 18px !important;
   flex: 0 0 18px !important;
   text-align: center !important;
@@ -181,9 +176,8 @@ ul.ap-contacts li a svg{
   font-size: 0.98rem !important;
 }
 
-/* 5) hover：克制加深 */
-ul.ap-contacts li a:hover,
-ul.ap-contacts li a:hover *{
+aside.ap-sidebar ul li a:hover,
+aside.ap-sidebar ul li a:hover *{
   color: #111 !important;
   text-decoration: none !important;
 }
