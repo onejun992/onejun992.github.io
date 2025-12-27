@@ -183,24 +183,25 @@ aside.ap-sidebar .ap-profile-block{
   margin-bottom: 16px !important;
 }
   
-/* ===== Name block (final): single strong divider ===== */
+/* ===== Name block (final aligned version) ===== */
 aside.ap-sidebar .ap-name-block{
-  text-align: center;
+  text-align: left;               /* 关键：左对齐 */
   margin: 10px 0 18px;
   padding-bottom: 14px;
   border-bottom: 2px solid rgba(0,0,0,0.15);
 }
 
-/* English name: academic, not overpowering */
+/* English name: academic scale */
 aside.ap-sidebar .ap-name{
   margin: 4px 0 6px !important;
   font-size: 1.8rem;
   font-weight: 700;
   letter-spacing: 0.2px;
   line-height: 1.15;
+  border-bottom: none !important; /* 关键：杀掉默认细线 */
 }
 
-/* Chinese / KR-JP names: unified, inside same block */
+/* Chinese / KR-JP names */
 aside.ap-sidebar .ap-name-zh,
 aside.ap-sidebar .ap-name-krjp{
   font-size: 1.02rem;
@@ -212,7 +213,7 @@ aside.ap-sidebar .ap-name-krjp{
 aside.ap-sidebar .ap-name-zh{ margin: 0 0 2px; }
 aside.ap-sidebar .ap-name-krjp{ margin: 0; }
 
-/* push profile content clearly below the divider */
+/* spacing before profile text */
 aside.ap-sidebar .ap-profile-block{
   margin-top: 16px !important;
 }
