@@ -260,47 +260,42 @@ aside.ap-sidebar .ap-profile-block{
   margin-top: 16px !important;
 }
 
-/* ===== Multilingual Research Section Typography ===== */
+/* ===== Multilingual Research (CJK only, academic style) ===== */
 
-/* 通用：研究领域正文 */
-.ap-main section{
-  margin-bottom: 2.4rem;
+.ap-main details.research-multilang {
+  margin-top: 2rem;
 }
 
-/* 韩语正文 */
-.ap-main .lang-ko,
-.ap-main .lang-kr{
-  font-size: 1.02rem;
-  line-height: 2.05;
+/* 通用：仅作用于多语言折叠区 */
+.ap-main details.research-multilang .lang-ko,
+.ap-main details.research-multilang .lang-ja,
+.ap-main details.research-multilang .lang-zh {
+  font-size: 0.96rem;          /* 比英文略小 */
+  line-height: 1.85;           /* 学术论文常用 */
+  color: #333;
+  margin-top: 1.4rem;
+}
+
+/* 韩文：行距略大，字距极小 */
+.ap-main details.research-multilang .lang-ko {
+  letter-spacing: 0.005em;
+}
+
+/* 日文：几乎不加字距 */
+.ap-main details.research-multilang .lang-ja {
   letter-spacing: 0.01em;
-  color: #333;
-  margin-top: 1.2rem;
 }
 
-/* 日语正文 */
-.ap-main .lang-ja{
-  font-size: 1.02rem;
-  line-height: 2.0;
-  letter-spacing: 0.02em;
-  color: #333;
-  margin-top: 1.2rem;
+/* 中文：绝对不要大字距 */
+.ap-main details.research-multilang .lang-zh {
+  letter-spacing: 0;
 }
 
-/* 中文正文 */
-.ap-main .lang-zh,
-.ap-main .lang-cn{
-  font-size: 1.02rem;
-  line-height: 2.0;
-  letter-spacing: 0.04em;
-  color: #333;
-  margin-top: 1.2rem;
-}
-
-/* 段落间距（非常关键） */
-.ap-main .lang-ko p,
-.ap-main .lang-ja p,
-.ap-main .lang-zh p{
-  margin-bottom: 1.4rem;
+/* 段落间距（很关键） */
+.ap-main details.research-multilang .lang-ko p,
+.ap-main details.research-multilang .lang-ja p,
+.ap-main details.research-multilang .lang-zh p {
+  margin-bottom: 1.2rem;
 }
 
 /* ===== ONLY summary toggle style (keep body layout unchanged) ===== */
