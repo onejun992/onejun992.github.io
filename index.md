@@ -183,24 +183,24 @@ aside.ap-sidebar .ap-profile-block{
   margin-bottom: 16px !important;
 }
   
-/* ===== Name block (refined): centered + balanced weight + clear separation ===== */
+/* ===== Name block (final): single strong divider ===== */
 aside.ap-sidebar .ap-name-block{
-  text-align: left;
-  margin: 10px 0 14px;
-  padding-bottom: 12px;
-  border-bottom: 1px solid rgba(0,0,0,0.08);
+  text-align: center;
+  margin: 10px 0 18px;
+  padding-bottom: 14px;
+  border-bottom: 2px solid rgba(0,0,0,0.15);
 }
 
-/* English name: back to academic-pages-like scale */
+/* English name: academic, not overpowering */
 aside.ap-sidebar .ap-name{
-  margin: 3px 0 6px !important;
-  font-size: 1.85rem;
+  margin: 4px 0 6px !important;
+  font-size: 1.8rem;
   font-weight: 700;
   letter-spacing: 0.2px;
   line-height: 1.15;
 }
 
-/* Chinese / KR-JP: same size, not bold */
+/* Chinese / KR-JP names: unified, inside same block */
 aside.ap-sidebar .ap-name-zh,
 aside.ap-sidebar .ap-name-krjp{
   font-size: 1.02rem;
@@ -209,13 +209,12 @@ aside.ap-sidebar .ap-name-krjp{
   line-height: 1.25;
 }
 
-/* small spacing tweaks */
 aside.ap-sidebar .ap-name-zh{ margin: 0 0 2px; }
 aside.ap-sidebar .ap-name-krjp{ margin: 0; }
 
-/* keep the following block from sticking to the name area */
+/* push profile content clearly below the divider */
 aside.ap-sidebar .ap-profile-block{
-  margin-top: 12px !important;
+  margin-top: 16px !important;
 }
 
 </style>
