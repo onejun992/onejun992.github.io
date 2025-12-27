@@ -182,42 +182,40 @@ aside.ap-sidebar{
 aside.ap-sidebar .ap-profile-block{
   margin-bottom: 16px !important;
 }
-/* ===== Name block: EN big + multi-lang small ===== */
+  
+/* ===== Name block (refined): centered + balanced weight + clear separation ===== */
 aside.ap-sidebar .ap-name-block{
-  text-align: left;
-  margin: 6px 0 10px;
+  text-align: center;
+  margin: 10px 0 14px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
 }
 
+/* English name: back to academic-pages-like scale */
 aside.ap-sidebar .ap-name{
-  margin: 2px 0 4px !important;
-  font-size: 2.2rem;
-  font-weight: 800;
+  margin: 3px 0 6px !important;
+  font-size: 1.85rem;
+  font-weight: 700;
   letter-spacing: 0.2px;
-  line-height: 1.05;
+  line-height: 1.15;
 }
 
-aside.ap-sidebar .ap-name-zh{
-  font-size: 1.05rem;
-  font-weight: 400;
-  color: #444;
-  margin: 0 0 2px;
-  line-height: 1.2;
-}
-
+/* Chinese / KR-JP: same size, not bold */
+aside.ap-sidebar .ap-name-zh,
 aside.ap-sidebar .ap-name-krjp{
-  font-size: 1.05rem;
+  font-size: 1.02rem;
   font-weight: 400;
-  color: #444;
-  margin: 0;
-  line-height: 1.2;
+  color: #555;
+  line-height: 1.25;
 }
 
-/* 可选：如果你想更“学术”一点，让中文/韩日再淡一点 */
-@media (min-width: 701px){
-  aside.ap-sidebar .ap-name-zh,
-  aside.ap-sidebar .ap-name-krjp{
-    color: #555;
-  }
+/* small spacing tweaks */
+aside.ap-sidebar .ap-name-zh{ margin: 0 0 2px; }
+aside.ap-sidebar .ap-name-krjp{ margin: 0; }
+
+/* keep the following block from sticking to the name area */
+aside.ap-sidebar .ap-profile-block{
+  margin-top: 12px !important;
 }
 
 </style>
