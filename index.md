@@ -368,7 +368,7 @@ main.ap-main details > summary strong{
      <div class="ap-name-block">
   <div class="ap-name-zh">彭塬钧</div>
   <h1 class="ap-name">Peng Yuanjun</h1>
-  <div class="ap-name-krjp">팽원균 · ほうげんきん（彭塬鈞）</div>
+  <div class="ap-name-krjp">팽원균 · ほうげんきん(彭塬鈞)</div>
 </div>
 
 <div class="ap-profile-block">
@@ -572,24 +572,33 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
 ### Journal Articles
 
-- **Peng, Yuanjun**, & Cho, Kyuheon.  
+- **Peng, Yuanjun(팽원균)**, & Cho, Kyuheon(조규헌).  
   (2024).  
-  문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年纪)를 중심으로.  
+  문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年纪)를 중심으로.
+  A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity: Focusing on the “Bainianji” (New Year Festival Program)
+  文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――「拜年紀（Bainianji）」を中心に――
+  文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心  
   *The Journal of Foreign Studies*, Foreign Studies Institute.  
   DOI: https://doi.org/10.15755/jfs.2024..70.613
 
 ### Conference Proceedings
 
-- **Peng, Yuanjun**.  
+- **Peng, Yuanjun(팽원균)**.  
   (2024).  
-  문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年纪)를 중심으로.  
+  문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年纪)를 중심으로.
+  A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity: Focusing on the “Bainianji” (New Year Festival Program)
+  文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――「拜年紀（Bainianji）」を中心に――
+  文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心   
   *Proceedings of the Global Cultural Contents Conference*,  
   Global Cultural Contents Society, Vol. 2024, No. 8.  
   Available at: https://www.riss.kr/link?id=A109225174
 
-- **Peng, Yuanjun**.  
+- **Peng, Yuanjun(팽원균)**.  
   (2022).  
-  중국 동영상 플랫폼 비리비리(bilibili)와 ACG/2차원 문화의 관계성 고찰.  
+  중국 동영상 플랫폼 비리비리(bilibili)와 ACG/2차원 문화의 관계성 고찰.
+  Examining the Relationship between the Chinese Video Platform Bilibili and ACG / Two-Dimensional Culture
+  中国動画プラットフォームBilibiliとACG／二次元文化の関係性に関する考察
+  中国视频平台哔哩哔哩（bilibili）与 ACG／二次元文化关系的考察  
   *Proceedings of the Korean Cultural Contents Joint Academic Conference*.
 
 ### Doctoral Dissertation
