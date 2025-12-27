@@ -129,57 +129,58 @@
     .ap-avatar{ width: 132px; height: 132px; }
   }
   
-/* ===== HARD OVERRIDE for LEFT SIDEBAR contact list ===== */
+/* ===== FINAL FINAL: force sidebar list + links ===== */
 
-aside.ap-sidebar .ap-profile-block{
-  margin-bottom: 16px !important;
-}
-
-aside.ap-sidebar ul{
+/* 1) 黑点：不管是 marker 还是 before，都干掉 */
+aside.ap-sidebar ul,
+aside.ap-sidebar ol{
   list-style: none !important;
   padding-left: 0 !important;
-  margin: 14px 0 0 0 !important;
+  margin-left: 0 !important;
 }
 
-aside.ap-sidebar ul li{
-  margin: 10px 0 !important;
-  padding: 0 !important;
+aside.ap-sidebar li{
+  list-style: none !important;
 }
 
-aside.ap-sidebar ul li::marker{
-  content: "" !important;
-}
+/* 主题常用的“伪黑点”来源 */
+aside.ap-sidebar li::marker{ content: "" !important; }
+aside.ap-sidebar li::before{ content: none !important; display: none !important; }
+aside.ap-sidebar li::after{  content: none !important; }
 
-aside.ap-sidebar ul li a{
-  display: flex !important;
-  align-items: center !important;
-  gap: 10px !important;
+/* 2) 彻底锁定左栏链接颜色 */
+aside.ap-sidebar a,
+aside.ap-sidebar a:link,
+aside.ap-sidebar a:visited,
+aside.ap-sidebar a:hover,
+aside.ap-sidebar a:active{
+  color: #111 !important;
   text-decoration: none !important;
-  color: #111 !important;
 }
 
-aside.ap-sidebar ul li a:visited{
-  color: #111 !important;
-}
-
-aside.ap-sidebar ul li a *{
+aside.ap-sidebar a *{
   color: inherit !important;
 }
 
-aside.ap-sidebar ul li a i,
-aside.ap-sidebar ul li a svg{
-  width: 18px !important;
-  flex: 0 0 18px !important;
-  text-align: center !important;
-  color: #444 !important;
+/* SVG 图标 */
+aside.ap-sidebar svg,
+aside.ap-sidebar svg *{
   fill: #444 !important;
-  font-size: 0.98rem !important;
+  stroke: #444 !important;
 }
 
-aside.ap-sidebar ul li a:hover,
-aside.ap-sidebar ul li a:hover *{
-  color: #111 !important;
-  text-decoration: none !important;
+/* Font Awesome 图标 */
+aside.ap-sidebar i{
+  color: #444 !important;
+}
+
+/* 间距 */
+aside.ap-sidebar{
+  line-height: 1.55 !important;
+}
+
+aside.ap-sidebar .ap-profile-block{
+  margin-bottom: 16px !important;
 }
 </style>
 
