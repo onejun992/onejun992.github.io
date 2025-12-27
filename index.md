@@ -80,10 +80,26 @@
   .ap-contacts i{
     width: 18px;
     text-align: center;
-    color: #444;
+    color: #444 !important;
     font-size: 0.98rem;
     flex: 0 0 18px;
   }
+  
+.ap-contacts a{
+  color: var(--text) !important;
+}
+
+.ap-contacts a:visited{
+  color: var(--text) !important;
+}
+
+.ap-contacts a:hover{
+  text-decoration: none;
+}
+  
+.ap-contacts a:hover i{
+  color: #111 !important;
+}
 
   .ap-contacts .muted{ color: var(--muted); font-size: 0.92rem; }
 
@@ -122,20 +138,37 @@
 
       <img class="ap-avatar" src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Profile photo">
 
-      <h1 class="ap-name">Peng Yuanjun</h1>
+     <h1 class="ap-name">Peng Yuanjun</h1>
 
-      <p class="ap-sub" style="margin-top:0.2rem;">
-        <strong>Researcher</strong> in Cultural Contents Studies<br>
-        Cultural Hybridity · Japanese Subculture (ACG cultural contents)
-      </p>
+<div class="ap-profile-block">
 
-      <p class="ap-sub" style="margin-top:-0.3rem;">
-        팽원균 / ほうげんきん(彭塬鈞) / 彭塬钧<br>
-        <span class="muted">Ph.D. (Doctor of Arts)</span><br>
-        Department of Global Cultural Contents<br>
-        Major in Cultural Contents<br>
-        Sangmyung University, Seoul, South Korea
-      </p>
+  <div class="ap-role">
+    Cultural Contents Researcher
+  </div>
+
+  <div class="ap-field">
+    Cultural Hybridity · Japanese Subculture<br>
+    <span class="ap-acg">(ACG: Animation, Comics, and Games)</span>
+  </div>
+
+  <div class="ap-native">
+    팽원균 / ほうげんきん(彭塬鈞) / 彭塬鈞
+  </div>
+
+  <div class="ap-degree">
+    Ph.D. (Doctor of Arts)
+  </div>
+
+  <div class="ap-program">
+    Department of Global Cultural Contents<br>
+    Major in Cultural Contents
+  </div>
+
+  <div class="ap-affiliation">
+    Sangmyung University, Seoul, South Korea
+  </div>
+
+</div>
 
      <li>
   <a href="https://www.google.com/maps/search/?api=1&query=Seoul%2C%20South%20Korea"
@@ -188,13 +221,6 @@
 
   <!-- ===== RIGHT MAIN CONTENT (原文一字不漏) ===== -->
   <main class="ap-main" markdown="1">
-
-  /* 用第一个 h2 自动当“分隔线”，无需写 <div class="section-sep"> */
-.ap-main h2:first-of-type{
-  margin-top: 0;
-  padding-top: 4px;
-  border-top: 1px solid var(--line);
-}
 
 ## Research Profile
 
