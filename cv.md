@@ -5,8 +5,8 @@ permalink: /cv/
 ---
 
 # Curriculum Vitae
-<details open>
 
+<details open>
 <summary><strong>English CV</strong></summary>
 
 <br>
@@ -157,12 +157,27 @@ Korean Cultural Contents Joint Academic Conference.
 - Editorial contributor for a WeChat public account specializing in Korean food culture  
   (Aug 2017 – Dec 2017)
 
+</details>
+
+---
+
+<details>
+<summary><strong>Korean CV</strong></summary>
+
+<br>
+
+※ Korean CV content will be added here.
+
+</details>
+
 ---
 
 <details>
 <summary><strong>Japanese CV</strong></summary>
 
-<!-- Japanese CV content starts here -->
+<br>
+
+※ Japanese CV content will be added here.
 
 </details>
 
@@ -171,6 +186,8 @@ Korean Cultural Contents Joint Academic Conference.
 <details>
 <summary><strong>Chinese CV</strong></summary>
 
-<!-- Chinese CV content starts here -->
+<br>
+
+※ Chinese CV content will be added here.
 
 </details>
