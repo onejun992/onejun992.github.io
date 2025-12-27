@@ -425,41 +425,43 @@ I conduct in-depth analysis and interpretation of cultural commodities and media
 <details>
   <summary><strong>연구 분야</strong></summary>
 
-  <br/>
-
   <div class="lang-ko">
     <p>
       본인은 한국 상명대학교 글로벌문화콘텐츠학과 문화콘텐츠 전공에서 박사학위를 취득하였다.
       주요 연구 분야는 문화콘텐츠학이며 문화적 혼종성(cultural hybridity)을 핵심 개념으로 삼아 연구를 수행하고 있다.
-      특히 일본 서브컬처, 오타쿠 문화, 및 이차원·ACG(애니메이션·만화·게임)의 콘텐츠 및 문화에 관심을 두고 있다.
+      특히 일본 서브컬처, 오타쿠 문화, 및 이차원 ACG(애니메이션·만화·게임)의 콘텐츠 및 문화에 관심을 두고 있다.
     </p>
 
     <p>
       동아시아 사회적 맥락에서 문화콘텐츠의 문화적 수출과 문화적 역류(reversed cultural flows),
-      그리고 글로벌화(globalization), 글로컬라이제이션(glocalization), 혼종화(hybridizat
+      그리고 글로벌화(globalization), 글로컬라이제이션(glocalization),
+      혼종화(hybridization) 등 문화 이행(cultural transition)의 다양한 양상에 주목한다.
+    </p>
+
+    <p>
+      또한 문화콘텐츠의 재창조와 의미 재구성이라는 관점에서
+      문화상품 및 미디어 콘텐츠를 심층적으로 분석하고 해석한다.
+    </p>
+  </div>
+</details>
 
 ---
 
 <details>
   <summary><strong>研究分野</strong></summary>
 
-  <br/>
-
   <div class="lang-ja">
     <p>
       韓国・祥明大学グローバル文化コンテンツ学科（文化コンテンツ学専攻）にて博士号を取得。
       主な研究分野は文化コンテンツ学であり、文化的混種性（cultural hybridity）を中心的な概念として研究を行っている。
-    </p>
-
-    <p>
       特に日本のサブカルチャー、オタク文化、および二次元・ACG（アニメ・マンガ・ゲーム）の
-      コンテンツおよび文化に強い関心知道を持っている。
+      コンテンツおよび文化に強い関心を持っている。
     </p>
 
     <p>
       東アジアの社会的文脈において、文化コンテンツの文化的輸出および文化的逆流
-      （reversed cultural flows）、ならびにグローバル化、グローカル化、混種化といった
-      文化の移行（cultural transition）の諸過程に注目している。
+      （reversed cultural flows）、ならびにグローバル化、グローカル化、
+      混種化といった文化の移行（cultural transition）の諸過程に注目している。
     </p>
 
     <p>
@@ -474,13 +476,11 @@ I conduct in-depth analysis and interpretation of cultural commodities and media
 <details>
   <summary><strong>研究领域</strong></summary>
 
-  <br/>
-
   <div class="lang-zh">
     <p>
       本人毕业于韩国祥明大学全球文化内容学科文化内容学专业，并取得博士学位。
       主要研究领域为文化内容学，以文化混种为核心研究概念，
-      研究方向集中于日本亚文化、御宅文化以及二次元·ACG（动画、漫画、游戏）的内容及文化。
+      研究方向集中于日本亚文化、御宅文化以及二次元 ACG（动画、漫画、游戏）的内容及文化。
     </p>
 
     <p>
