@@ -303,55 +303,61 @@ aside.ap-sidebar .ap-profile-block{
   margin-bottom: 1.4rem;
 }
 
-/* ===== Academic-style details / summary ===== */
+/* ===== ONLY summary toggle style (keep body layout unchanged) ===== */
 
-.ap-main details{
-  margin: 18px 0 22px;
-  padding: 0;
+/* 1) summary 变成“学术按钮” */
+main.ap-main details > summary{
+  list-style: none !important;
+  cursor: pointer !important;
+  user-select: none !important;
+
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+
+  padding: 10px 12px !important;
+  margin: 10px 0 !important;
+
+  border: 1px solid var(--line) !important;
+  border-radius: 10px !important;
+
+  background: #fafafa !important;
+  color: #222 !important;
+
+  font-size: 0.95rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.02em !important;
 }
 
-.ap-main details summary{
-  list-style: none;              /* 去掉默认三角 */
-  cursor: pointer;
-  font-size: 0.85rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;     /* 学术感关键 */
-  font-weight: 600;
-  color: #666;
-  margin-bottom: 10px;
-  padding-left: 0;
-  position: relative;
+/* 2) 干掉浏览器默认小三角 */
+main.ap-main details > summary::-webkit-details-marker{ display:none !important; }
+main.ap-main details > summary::marker{ content:"" !important; }
+
+/* 3) 自己画一个更显眼的小箭头（左侧） */
+main.ap-main details > summary::before{
+  content: "▸" !important;
+  font-size: 1.05rem !important;
+  color: #111 !important;
+  transform: translateY(-0.5px);
+}
+main.ap-main details[open] > summary::before{
+  content: "▾" !important;
 }
 
-/* 隐藏 Chrome 默认三角 */
-.ap-main details summary::-webkit-details-marker{
-  display: none;
+/* 4) hover / open 状态更“高级”一点 */
+main.ap-main details > summary:hover{
+  background: #f3f3f3 !important;
 }
 
-/* 自定义一个很“学术”的小符号 */
-.ap-main details summary::before{
-  content: "▸";
-  display: inline-block;
-  margin-right: 8px;
-  color: #999;
-  font-size: 0.75rem;
-  transform: translateY(-1px);
+main.ap-main details[open] > summary{
+  background: #fff !important;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.06) !important;
 }
 
-/* 展开状态 */
-.ap-main details[open] summary{
-  color: #222;
-}
-
-.ap-main details[open] summary::before{
-  content: "▾";
-  color: #555;
-}
-
-/* details 内容区 */
-.ap-main details > div{
-  padding-left: 0;
-  margin-top: 6px;
+/* 5) summary 里的 strong 不要变成超粗黑块 */
+main.ap-main details > summary strong{
+  font-weight: 700 !important;
+  color: inherit !important;
 }
   
 </style>
