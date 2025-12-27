@@ -480,7 +480,7 @@ I conduct in-depth analysis and interpretation of cultural commodities and media
     <p>
       본인은 한국 상명대학교 글로벌문화콘텐츠학과 문화콘텐츠 전공에서 박사학위를 취득하였다.
       주요 연구 분야는 문화콘텐츠학이며 문화적 혼종성(cultural hybridity)을 핵심 개념으로 삼아 연구를 수행하고 있다.
-      특히 일본 서브컬처, 오타쿠 문화, 및 이차원 ACG(애니메이션·만화·게임)의 콘텐츠 및 문화에 관심을 두고 있다.
+      특히 일본 서브컬처, 오타쿠 문화, 및 2차원 ACG(애니메이션·만화·게임)의 콘텐츠 및 문화에 관심을 두고 있다.
     </p>
 
     <p>
