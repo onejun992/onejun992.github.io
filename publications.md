@@ -230,13 +230,25 @@ details[open].pub-lang > summary::before{content:"▾";}
       </div>
 
       <details class="pub-lang">
-        <summary>Korean / Japanese / Chinese titles</summary>
-        <div class="pub-lang-box">
-          <div class="pub-lang-line"><strong>KR</strong> 문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年紀)를 중심으로</div>
-          <div class="pub-lang-line"><strong>JP</strong> 文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――「拜年紀（Bainianji）」を中心に――</div>
-          <div class="pub-lang-line"><strong>CN</strong> 文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心</div>
-        </div>
-      </details>
+  <summary><strong>Korean / Japanese / Chinese titles</strong></summary>
+
+  <div class="pub-lang-block">
+    <div class="pub-lang-line">
+      <span class="pub-lang-tag kr">KR</span>
+      문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年紀)를 중심으로
+    </div>
+
+    <div class="pub-lang-line">
+      <span class="pub-lang-tag jp">JP</span>
+      文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――「拜年紀（Bainianji）」を中心に――
+    </div>
+
+    <div class="pub-lang-line">
+      <span class="pub-lang-tag cn">CN</span>
+      文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心
+    </div>
+  </div>
+</details>
     </div>
   </div>
 
