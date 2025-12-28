@@ -399,7 +399,7 @@ main.ap-main details > summary strong{
     <div class="ap-label">Research Focus</div>
     <div class="ap-value">
       Cultural Contents<br>
-      Cultural Hybridity · Japanese Subculture · ACG(Animation, Comics, and Games) Contents
+      Cultural Hybridity，ACG Contents
     </div>
   </div>
 
