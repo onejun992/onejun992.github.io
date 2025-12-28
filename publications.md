@@ -163,6 +163,43 @@ details[open].pub-lang > summary::before{content:"▾";}
 /* KR / JP / CN 前缀稍微强调，但不抢戏 */
 .lang-content p strong {
   font-weight: 600;
+} 
+/* ===== Multilingual title tags (Academic minimal style) ===== */
+
+.lang-title {
+  margin-top: 0.6rem;
+  line-height: 1.7;
+  font-size: 0.96em;
+  color: #222;
+}
+
+.lang-tag {
+  display: inline-block;
+  min-width: 2.2em;
+  padding: 0.08em 0.55em;
+  margin-right: 0.55em;
+
+  font-size: 0.72em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+
+  border-radius: 999px;
+  border: 1px solid rgba(0, 0, 0, 0.18);
+  color: rgba(0, 0, 0, 0.75);
+
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Subtle differentiation, very restrained */
+.lang-tag.kr { }
+.lang-tag.jp { }
+.lang-tag.cn { }
+
+/* Make multilingual block slightly softer */
+.lang-block {
+  margin-top: 0.5rem;
+  padding-left: 0.1rem;
 }  
 </style>
 
