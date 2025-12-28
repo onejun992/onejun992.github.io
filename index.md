@@ -387,6 +387,10 @@ main.ap-main details > summary strong{
   <h1 class="ap-name">Peng Yuanjun</h1>
   <div class="ap-name-krjp">팽원균 · ほうげんきん(彭塬鈞)</div>
 </div>
+<div class="ap-links">
+  <a href="/cv/">CV</a> ·
+  <a href="/publications/">Publications</a>
+</div>
 
 <div class="ap-profile-block">
 
