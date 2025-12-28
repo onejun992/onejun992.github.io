@@ -163,43 +163,6 @@ details[open].pub-lang > summary::before{content:"▾";}
 /* KR / JP / CN 前缀稍微强调，但不抢戏 */
 .lang-content p strong {
   font-weight: 600;
-} 
-/* ===== Multilingual title tags (Academic minimal style) ===== */
-
-.lang-title {
-  margin-top: 0.6rem;
-  line-height: 1.7;
-  font-size: 0.96em;
-  color: #222;
-}
-
-.lang-tag {
-  display: inline-block;
-  min-width: 2.2em;
-  padding: 0.08em 0.55em;
-  margin-right: 0.55em;
-
-  font-size: 0.72em;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-
-  border-radius: 999px;
-  border: 1px solid rgba(0, 0, 0, 0.18);
-  color: rgba(0, 0, 0, 0.75);
-
-  text-align: center;
-  vertical-align: middle;
-}
-
-/* Subtle differentiation, very restrained */
-.lang-tag.kr { }
-.lang-tag.jp { }
-.lang-tag.cn { }
-
-/* Make multilingual block slightly softer */
-.lang-block {
-  margin-top: 0.5rem;
-  padding-left: 0.1rem;
 }  
 </style>
 
@@ -230,25 +193,13 @@ details[open].pub-lang > summary::before{content:"▾";}
       </div>
 
       <details class="pub-lang">
-  <summary><strong>Korean / Japanese / Chinese titles</strong></summary>
-
-  <div class="pub-lang-block">
-    <div class="pub-lang-line">
-      <span class="pub-lang-tag kr">KR</span>
-      문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年紀)를 중심으로
-    </div>
-
-    <div class="pub-lang-line">
-      <span class="pub-lang-tag jp">JP</span>
-      文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――「拜年紀（Bainianji）」を中心に――
-    </div>
-
-    <div class="pub-lang-line">
-      <span class="pub-lang-tag cn">CN</span>
-      文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心
-    </div>
-  </div>
-</details>
+        <summary>Korean / Japanese / Chinese titles</summary>
+        <div class="pub-lang-box">
+          <div class="pub-lang-line"><strong>KR</strong> 문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年紀)를 중심으로</div>
+          <div class="pub-lang-line"><strong>JP</strong> 文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――「拜年紀（Bainianji）」を中心に――</div>
+          <div class="pub-lang-line"><strong>CN</strong> 文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心</div>
+        </div>
+      </details>
     </div>
   </div>
 
