@@ -172,6 +172,32 @@ details[open].cv-block > summary::before{content:"▾";}
   border-bottom:2px solid #1a73e8;
 }
   
+/* ===== FIX: unify tone (em/italic was getting lighter) ===== */
+.cv-wrap .cv-content,
+.cv-wrap .cv-content p,
+.cv-wrap .cv-content li{
+  color:#222 !important;
+}
+
+/* 关键：把 em 的灰度拉回正文 */
+.cv-wrap .cv-content em{
+  color:#222 !important;
+  opacity:1 !important;     /* 有些主题会给 em opacity: .8 */
+  font-weight:400 !important;
+}
+
+/* journal 名字别“黑得跳出来”，但仍比正文略强调 */
+.cv-wrap .cv-journal{
+  color:#222 !important;
+  font-weight:600 !important;
+}
+
+/* 如果还有残留：把 strong 也压到同一色阶（只在正文区） */
+.cv-wrap .cv-content strong{
+  color:#222 !important;
+  font-weight:600 !important;
+}
+  
 </style>
 
 <div class="cv-wrap">
