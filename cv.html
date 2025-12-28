@@ -54,6 +54,44 @@ details[open].cv-block > summary::before{content:"▾";}
 .cv-pub em{font-style:italic;}
 .cv-link{white-space:nowrap;}
 .cv-note{opacity:.75; font-size:.95rem;}
+
+/* ===== Text color normalization ===== */
+.cv-wrap,
+.cv-wrap p,
+.cv-wrap li,
+.cv-wrap span {
+  color: #222;            /* 统一正文颜色 */
+}
+
+.cv-wrap strong {
+  color: #111;            /* 稍深一点 */
+  font-weight: 700;
+}
+
+.cv-wrap em {
+  color: #222;            /* 不再变浅 */
+  font-style: italic;
+}
+
+.cv-wrap h2,
+.cv-wrap h3,
+.cv-wrap h4 {
+  color: #111;            /* 标题统一深色 */
+}
+
+/* ===== List alignment tuning ===== */
+.cv-section ul {
+  padding-left: 1.2rem;   /* 原来更大，这里整体左移 */
+}
+
+.cv-section li {
+  padding-left: 0;
+}
+
+.cv-section li::marker {
+  font-size: 0.85em;      /* 子弹点稍微小一点 */
+}
+  
 </style>
 
 <div class="cv-wrap">
@@ -230,40 +268,3 @@ details[open].cv-block > summary::before{content:"▾";}
 </details>
 
 </div>
-
-/* ===== Text color normalization ===== */
-.cv-wrap,
-.cv-wrap p,
-.cv-wrap li,
-.cv-wrap span {
-  color: #222;            /* 统一正文颜色 */
-}
-
-.cv-wrap strong {
-  color: #111;            /* 稍深一点 */
-  font-weight: 700;
-}
-
-.cv-wrap em {
-  color: #222;            /* 不再变浅 */
-  font-style: italic;
-}
-
-.cv-wrap h2,
-.cv-wrap h3,
-.cv-wrap h4 {
-  color: #111;            /* 标题统一深色 */
-}
-
-/* ===== List alignment tuning ===== */
-.cv-section ul {
-  padding-left: 1.2rem;   /* 原来更大，这里整体左移 */
-}
-
-.cv-section li {
-  padding-left: 0;
-}
-
-.cv-section li::marker {
-  font-size: 0.85em;      /* 子弹点稍微小一点 */
-}
