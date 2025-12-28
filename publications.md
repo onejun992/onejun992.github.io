@@ -129,6 +129,41 @@ details[open].pub-lang > summary::before{content:"▾";}
 .pub-wrap em{font-style: italic;}
 .pub-wrap a{color:#1a4fd8 !important; text-decoration: none;}
 .pub-wrap a:hover{text-decoration: underline;}
+
+/* ===== Multilingual titles: softer & clearer ===== */
+.lang-content {
+  margin-top: 0.6rem;
+}
+
+.lang-content p {
+  font-size: 0.96rem;
+  line-height: 1.7;
+
+  /* 关键：比正文略粗，但不夸张 */
+  font-weight: 500;
+
+  /* 颜色稍微柔和，减少“闪” */
+  color: #222;
+
+  /* 字体顺序：优先圆润、学术可接受的 CJK */
+  font-family:
+    "Noto Sans CJK KR",
+    "Noto Sans JP",
+    "Noto Sans SC",
+    "Hiragino Sans",
+    "Yu Gothic",
+    "PingFang SC",
+    "Apple SD Gothic Neo",
+    system-ui,
+    sans-serif;
+
+  letter-spacing: 0.01em;
+}
+
+/* KR / JP / CN 前缀稍微强调，但不抢戏 */
+.lang-content p strong {
+  font-weight: 600;
+}  
 </style>
 
 <div class="pub-wrap">
