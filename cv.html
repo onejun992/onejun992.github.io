@@ -91,6 +91,49 @@ details[open].cv-block > summary::before{content:"▾";}
 .cv-section li::marker {
   font-size: 0.85em;      /* 子弹点稍微小一点 */
 }
+
+/* ===== FORCE: bullet alignment (move bullets left) ===== */
+.cv-wrap .cv-content ul,
+.cv-wrap .cv-section ul,
+.cv-wrap ul{
+  margin: .35rem 0 .15rem 0 !important;   /* ✅ 先把主题的 margin-left 干掉 */
+  padding-left: 1.1rem !important;        /* ✅ 圆点位置主要看这个 */
+  list-style-position: outside !important;/* ✅ 圆点放在文字外侧更整齐 */
+}
+
+.cv-wrap .cv-content li,
+.cv-wrap .cv-section li,
+.cv-wrap li{
+  margin: .25rem 0 !important;
+  padding-left: 0 !important;
+}
+
+.cv-wrap li::marker{
+  font-size: .85em !important;
+}
+
+/* ===== FORCE: text color/weight normalization ===== */
+.cv-wrap, .cv-wrap *{
+  color: #222 !important;
+}
+
+.cv-wrap strong{
+  color: #111 !important;
+  font-weight: 650 !important; /* ✅ 不要太黑，减弱“突兀” */
+}
+
+.cv-wrap em{
+  color: #222 !important;
+  font-style: italic;
+}
+
+.cv-wrap a{
+  color: #444 !important;          /* ✅ 链接别跳紫/蓝 */
+  text-decoration: none !important;
+}
+.cv-wrap a:hover{
+  text-decoration: underline !important;
+}
   
 </style>
 
