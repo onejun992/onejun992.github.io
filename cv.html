@@ -61,28 +61,28 @@ details[open].cv-block > summary::before{content:"▾";}
 .cv-wrap p,
 .cv-wrap li,
 .cv-wrap span {
-  color: #222;            /* 统一正文颜色 */
+  color: #222;
 }
 
 .cv-wrap strong {
-  color: #111;            /* 稍深一点 */
+  color: #111;
   font-weight: 700;
 }
 
 .cv-wrap em {
-  color: #222;            /* 不再变浅 */
+  color: #222;
   font-style: italic;
 }
 
 .cv-wrap h2,
 .cv-wrap h3,
 .cv-wrap h4 {
-  color: #111;            /* 标题统一深色 */
+  color: #111;
 }
 
 /* ===== List alignment tuning ===== */
 .cv-section ul {
-  padding-left: 1.2rem;   /* 原来更大，这里整体左移 */
+  padding-left: 1.2rem;
 }
 
 .cv-section li {
@@ -90,16 +90,16 @@ details[open].cv-block > summary::before{content:"▾";}
 }
 
 .cv-section li::marker {
-  font-size: 0.85em;      /* 子弹点稍微小一点 */
+  font-size: 0.85em;
 }
 
 /* ===== FORCE: bullet alignment (move bullets left) ===== */
 .cv-wrap .cv-content ul,
 .cv-wrap .cv-section ul,
 .cv-wrap ul{
-  margin: .35rem 0 .15rem 0 !important;   /* ✅ 先把主题的 margin-left 干掉 */
-  padding-left: 1.1rem !important;        /* ✅ 圆点位置主要看这个 */
-  list-style-position: outside !important;/* ✅ 圆点放在文字外侧更整齐 */
+  margin: .35rem 0 .15rem 0 !important;
+  padding-left: 1.1rem !important;
+  list-style-position: outside !important;
 }
 
 .cv-wrap .cv-content li,
@@ -120,7 +120,7 @@ details[open].cv-block > summary::before{content:"▾";}
 
 .cv-wrap strong{
   color: #111 !important;
-  font-weight: 650 !important; /* ✅ 不要太黑，减弱“突兀” */
+  font-weight: 650 !important;
 }
 
 .cv-wrap em{
@@ -129,7 +129,7 @@ details[open].cv-block > summary::before{content:"▾";}
 }
 
 .cv-wrap a{
-  color: #444 !important;          /* ✅ 链接别跳紫/蓝 */
+  color: #444 !important;
   text-decoration: none !important;
 }
 .cv-wrap a:hover{
@@ -138,8 +138,8 @@ details[open].cv-block > summary::before{content:"▾";}
 
 /* ===== FIX: reduce strong heaviness & unify tone ===== */
 .cv-wrap strong{
-  font-weight: 600 !important;   /* 关键：不要700+，会太黑太突兀 */
-  color: #222 !important;        /* 强制与正文同色阶 */
+  font-weight: 600 !important;
+  color: #222 !important;
 }
 
 /* 只让大标题/小标题保持更深色（不要影响正文 strong） */
@@ -161,7 +161,7 @@ details[open].cv-block > summary::before{content:"▾";}
 
 /* ===== Academic link badge (DOI / RISS) ===== */
 .cv-wrap .cv-link a{
-  color:#1a73e8 !important;        /* 学术蓝 */
+  color:#1a73e8 !important;
   font-weight:600;
   text-decoration:none;
   border-bottom:1px solid rgba(26,115,232,.45);
@@ -180,51 +180,42 @@ details[open].cv-block > summary::before{content:"▾";}
   color:#222 !important;
 }
 
-/* 关键：把 em 的灰度拉回正文 */
 .cv-wrap .cv-content em{
   color:#222 !important;
-  opacity:1 !important;     /* 有些主题会给 em opacity: .8 */
+  opacity:1 !important;
   font-weight:400 !important;
 }
 
-/* journal 名字别“黑得跳出来”，但仍比正文略强调 */
 .cv-wrap .cv-journal{
   color:#222 !important;
   font-weight:400 !important;
 }
 
-/* 如果还有残留：把 strong 也压到同一色阶（只在正文区） */
 .cv-wrap .cv-content strong{
   color:#222 !important;
   font-weight:600 !important;
 }
   
 /* ===== FINAL FIX: unify perceived darkness (opacity + weight) ===== */
-
-/* 1) 先把任何透明度统统拉回 1（很多主题会暗搓搓给 em/p 加 opacity） */
 .cv-wrap .cv-content,
 .cv-wrap .cv-content *{
   opacity: 1 !important;
 }
 
-/* 2) 正文统一字重（否则粗体/斜体会让你觉得“深浅不一”） */
 .cv-wrap .cv-content{
   font-weight: 400 !important;
 }
 
-/* 3) 斜体视觉会变浅：给它一点点字重补偿 */
 .cv-wrap .cv-content em{
-  font-weight: 450 !important;   /* 关键：让斜体不显灰 */
+  font-weight: 450 !important;
 }
 
-/* 4) 正文里的 strong / 期刊名不要太黑（标题另算） */
 .cv-wrap .cv-content strong,
 .cv-wrap .cv-journal{
-  font-weight: 520 !important;   /* 比400明显，但不会黑得跳出来 */
+  font-weight: 520 !important;
   color: #222 !important;
 }
 
-/* 5) h4 你原来有 opacity:.92，会显得“灰”——改回正常 */
 .cv-wrap h4{
   opacity: 1 !important;
 }
@@ -243,7 +234,7 @@ details[open].cv-block > summary::before{content:"▾";}
       <h2>Peng Yuanjun</h2>
       <p class="cv-meta">
         Email: Available upon request<br>
-        Affiliation:  Ph.D. in Cultural Contents  / Independent Researcher<br>
+        Affiliation: Ph.D. in Cultural Contents / Independent Researcher<br>
         Location: Seoul, South Korea
       </p>
     </div>
@@ -256,7 +247,7 @@ details[open].cv-block > summary::before{content:"▾";}
         <li>Cultural Contents Studies</li>
         <li>Cultural Hybridity</li>
         <li>Japanese Subculture</li>
-       <li>Two-Dimensional · ACG (Animation / Comics / Games) Culture</li>
+        <li>Two-Dimensional · ACG (Animation / Comics / Games) Culture</li>
       </ul>
     </div>
 
@@ -278,10 +269,10 @@ details[open].cv-block > summary::before{content:"▾";}
           <em>A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity: Focusing on the “Bainianji” (New Year Festival Program).</em>
           <span class="cv-journal">The Journal of Foreign Studies</span>, Foreign Studies Institute.
           <span class="cv-link">
-            <a href="https://doi.org/10.15755/jfs.2024..70.613" target="_blank">
+            <a href="https://doi.org/10.15755/jfs.2024..70.613" target="_blank" rel="noopener">
               DOI: 10.15755/jfs.2024..70.613
             </a>
-         </span>
+          </span>
         </li>
       </ul>
 
@@ -292,7 +283,7 @@ details[open].cv-block > summary::before{content:"▾";}
           <em>A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity: Focusing on the “Bainianji” (New Year Festival Program).</em>
           <em>Proceedings of the Global Cultural Contents Conference</em>, Global Cultural Contents Society, Vol. 2024, No. 8.
           <span class="cv-link">
-            <a href="https://www.riss.kr/link?id=A109225174" target="_blank">
+            <a href="https://www.riss.kr/link?id=A109225174" target="_blank" rel="noopener">
               RISS record
             </a>
           </span>
@@ -366,11 +357,6 @@ details[open].cv-block > summary::before{content:"▾";}
         <li>Korean: Near-native proficiency (TOPIK Level 6)</li>
         <li>Japanese: Intermediate (JLPT N5; continued study)</li>
       </ul>
-      <!--
-<p class="cv-note">
-  *If you want, I can also format this as a compact “Skills” line with CEFR-like levels.
-</p>
--->
     </div>
 
     <div class="cv-section">
@@ -381,55 +367,55 @@ details[open].cv-block > summary::before{content:"▾";}
       </ul>
     </div>
 
-  <div class="cv-section">
-  <h3>Personal Values &amp; Academic Disposition</h3>
+    <div class="cv-section">
+      <h3>Personal Values &amp; Academic Disposition</h3>
 
-  <p>
-    Through more than twelve years of academic study and everyday life in Korea,
-    I have cultivated perseverance, ethical self-discipline, and a respectful attitude
-    toward others. Careful attention to detail, a cautious yet forward-looking mindset,
-    and a strong sense of responsibility form the foundation of my academic disposition.
-  </p>
+      <p>
+        Through more than twelve years of academic study and everyday life in Korea,
+        I have cultivated perseverance, ethical self-discipline, and a respectful attitude
+        toward others. Careful attention to detail, a cautious yet forward-looking mindset,
+        and a strong sense of responsibility form the foundation of my academic disposition.
+      </p>
 
-  <p>
-    From early education through doctoral training, I have consistently maintained
-    rigorous standards in time management and task completion, approaching academic
-    responsibilities with punctuality, preparedness, and respect for institutional schedules.
-    I regard reliability not as an exceptional trait, but as a basic condition
-    for sustaining trust within academic and organizational environments.
-  </p>
+      <p>
+        From early education through doctoral training, I have consistently maintained
+        rigorous standards in time management and task completion, approaching academic
+        responsibilities with punctuality, preparedness, and respect for institutional schedules.
+        I regard reliability not as an exceptional trait, but as a basic condition
+        for sustaining trust within academic and organizational environments.
+      </p>
 
-  <p>
-    A formative experience at the age of seventeen, during which I reduced my body weight
-    from approximately 100 kilograms to 70 kilograms and subsequently maintained
-    disciplined physical training and daily routines, reinforced my understanding of
-    long-term commitment, self-regulation, and consistency as principles applicable
-    to both personal development and academic research.
-  </p>
+      <p>
+        A formative experience at the age of seventeen, during which I reduced my body weight
+        from approximately 100 kilograms to 70 kilograms and subsequently maintained
+        disciplined physical training and daily routines, reinforced my understanding of
+        long-term commitment, self-regulation, and consistency as principles applicable
+        to both personal development and academic research.
+      </p>
 
-  <p>
-    In addition, more than two years of experience as a trainee in the Korean entertainment
-    industry enhanced my sensitivity to cultural production systems, aesthetic standards,
-    and the operational dynamics of the creative industries, shaping my sustained interest
-    in popular culture as a structured field of analysis rather than a purely expressive domain.
-  </p>
+      <p>
+        In addition, more than two years of experience as a trainee in the Korean entertainment
+        industry enhanced my sensitivity to cultural production systems, aesthetic standards,
+        and the operational dynamics of the creative industries, shaping my sustained interest
+        in popular culture as a structured field of analysis rather than a purely expressive domain.
+      </p>
 
-  <p>
-    Extended periods of independent living abroad strengthened my ability to respond
-    autonomously and calmly to uncertainty. Combined with a reflective and meaning-oriented
-    disposition, often associated with the INFJ profile, I tend to approach problems
-    by examining their underlying structures rather than surface phenomena.
-    This orientation supports analytical depth, anticipatory thinking, and long-term planning
-    in my academic work.
-  </p>
-</div>
-  
- </div>
+      <p>
+        Extended periods of independent living abroad strengthened my ability to respond
+        autonomously and calmly to uncertainty. Combined with a reflective and meaning-oriented
+        disposition, often associated with the INFJ profile, I tend to approach problems
+        by examining their underlying structures rather than surface phenomena.
+        This orientation supports analytical depth, anticipatory thinking, and long-term planning
+        in my academic work.
+      </p>
+    </div>
+
+  </div>
 </details>
 
 <hr class="cv-divider">
 
-<!-- ===== Other Languages (Korean / Japanese / Chinese) ===== -->
+<!-- ===== Korean CV ===== -->
 <details class="cv-block">
   <summary><strong>Korean CV</strong></summary>
   <div class="cv-content">
@@ -604,6 +590,7 @@ details[open].cv-block > summary::before{content:"▾";}
       </ul>
     </div>
 
+    <!-- ✅ 修复点：언어 능력里不再嵌套 div；只保留 li -->
     <div class="cv-section">
       <h3>언어 능력</h3>
       <ul>
@@ -614,41 +601,51 @@ details[open].cv-block > summary::before{content:"▾";}
           — 20년 이상 일본 ACG 문화에 지속적으로 노출<br>
           — 일본 애니메이션 시청 및 음악 청취를 통한 우수한 청해 능력 및 언어 감각 보유<br>
           — 현재도 지속적으로 학습 중
-
-          <div class="cv-section">
-  <h3>개인 가치관 및 학문적 취향</h3>
-
-  <p>
-    한국에서의 12년 이상에 걸친 학업과 생활을 통해, 나는 인내심과 윤리적 자기 규율,
-    그리고 타인에 대한 존중을 핵심 가치로 형성해 왔다.
-    세부에 대한 주의 깊은 관찰, 책임감, 그리고 신중하면서도 미래지향적인 사고방식은
-    나의 학문적 성향을 구성하는 기초 요소이다.
-  </p>
-
-  <p>
-    유년기부터 박사과정에 이르기까지 시간 관리와 과업 수행에 있어
-    일관된 규율과 신뢰성을 유지해 왔으며,
-    정시성과 준비성을 학문 공동체 내 신뢰를 지탱하는 필수 조건으로 인식하고 있다.
-    특히 17세 시기에 약 100kg에서 70kg으로의 체중 감량을 달성하고,
-    이후에도 규칙적인 운동과 생활 습관을 지속한 경험은
-    장기적 헌신, 자기 통제, 지속성의 중요성을 학문 연구 전반에 적용 가능한
-    원리로 체득하게 한 계기가 되었다.
-  </p>
-
-  <p>
-    또한 한국 엔터테인먼트 산업에서 2년 이상 연습생으로 활동한 경험은
-    문화 생산 시스템과 창의 산업의 운영 구조에 대한 이해를 심화시켰으며,
-    대중문화를 단순한 표현의 영역이 아닌 분석 가능한 문화 장으로 인식하게 만들었다.
-  </p>
-
-  <p>
-    장기간의 해외 독립 생활은 불확실한 환경 속에서도 자율적으로 문제에 대응하는
-    역량을 강화시켰고, 성찰적이며 의미 지향적인 성향(INFJ)은
-    현상보다는 구조를 탐구하는 연구 태도를 형성하였다.
-    이러
-
         </li>
       </ul>
+    </div>
+
+    <!-- ✅ 修复点：个人价值观段落移到 ul 外，结构完整 -->
+    <div class="cv-section">
+      <h3>개인 가치관 및 학문적 성향</h3>
+
+      <p>
+        한국에서의 12년 이상에 걸친 학업과 생활을 통해, 나는 인내심과 윤리적 자기 규율,
+        그리고 타인에 대한 존중을 핵심 가치로 형성해 왔다.
+        세부에 대한 주의 깊은 관찰, 책임감, 그리고 신중하면서도 미래지향적인 사고방식은
+        나의 학문적 성향을 구성하는 기초 요소이다.
+      </p>
+
+      <p>
+        유년기부터 박사과정에 이르기까지 시간 관리와 과업 수행에 있어
+        일관된 규율과 신뢰성을 유지해 왔으며,
+        정시성과 준비성을 학문 공동체 및 조직 환경에서 신뢰를 지탱하는 필수 조건으로 인식하고 있다.
+      </p>
+
+      <p>
+        특히 17세 시기에 약 100kg에서 70kg으로의 체중 감량을 달성하고,
+        이후에도 규칙적인 운동과 생활 습관을 지속한 경험은
+        장기적 헌신, 자기 통제, 지속성의 중요성을 학문 연구 전반에 적용 가능한
+        원리로 체득하게 한 계기가 되었다.
+      </p>
+
+      <p>
+        또한 한국 엔터테인먼트 산업에서 2년 이상 연습생으로 활동한 경험은
+        문화 생산 시스템과 창의 산업의 운영 구조, 미학적 기준에 대한 이해를 심화시켰으며,
+        대중문화를 단순한 표현의 영역이 아닌 분석 가능한 문화 장으로 인식하게 만들었다.
+      </p>
+
+      <p>
+        장기간의 해외 독립 생활은 불확실한 환경 속에서도 자율적으로 문제에 대응하는 역량을 강화시켰고,
+        성찰적이며 의미 지향적인 성향(INFJ)은 현상보다는 구조를 탐구하는 연구 태도를 형성하였다.
+        나는 표면적 현상보다 그 이면의 구조와 장기적 함의를 중시하며,
+        분석적 깊이와 장기적 계획성을 바탕으로 연구를 수행한다.
+      </p>
+
+      <p>
+        종합하면, 학술 연구는 지적 능력뿐 아니라 인격, 지속성, 책임감에 의해 지탱되는 실천이라고 생각한다.
+        이러한 가치관은 나의 연구 수행과 협업, 그리고 학문·문화적 맥락에서의 참여 방식 전반을 규정한다.
+      </p>
     </div>
 
   </div>
@@ -656,6 +653,7 @@ details[open].cv-block > summary::before{content:"▾";}
 
 <hr class="cv-divider">
 
+<!-- ===== Japanese CV ===== -->
 <details class="cv-block">
   <summary><strong>Japanese CV</strong></summary>
   <div class="cv-content">
@@ -792,258 +790,233 @@ details[open].cv-block > summary::before{content:"▾";}
 
 <hr class="cv-divider">
 
+<!-- ===== Chinese CV ===== -->
 <details class="cv-block">
   <summary><strong>Chinese CV</strong></summary>
   <div class="cv-content">
-   <div class="cv-section">
-  <h3>基本信息</h3>
-  <p>
-    <strong>姓名：</strong>彭塬钧<br>
-    <strong>身份：</strong>文化内容学博士 / 独立研究者<br>
-    <strong>所在地：</strong>韩国 首尔<br>
-    <strong>电子邮箱：</strong>onejun992@163.com
-  </p>
-</div>
 
-<div class="cv-section">
-  <h3>研究领域及兴趣</h3>
-  <ul>
-    <li>文化内容研究</li>
-    <li>文化混融理论</li>
-    <li>日本亚文化研究</li>
-    <li>二次元・ACG 文化（动画／漫画／游戏）</li>
-  </ul>
-</div>
+    <div class="cv-section">
+      <h3>基本信息</h3>
+      <p>
+        <strong>姓名：</strong>彭塬钧<br>
+        <strong>身份：</strong>文化内容学博士 / 独立研究者<br>
+        <strong>所在地：</strong>韩国 首尔<br>
+        <strong>电子邮箱：</strong>onejun992@163.com
+      </p>
+    </div>
 
-<div class="cv-section">
-  <h3>教育背景</h3>
-  <p>
-    <strong>文化内容学 博士</strong><br>
-    韩国 祥明大学 一般研究生院
-  </p>
-</div>
+    <div class="cv-section">
+      <h3>研究领域及兴趣</h3>
+      <ul>
+        <li>文化内容研究</li>
+        <li>文化混融理论</li>
+        <li>日本亚文化研究</li>
+        <li>二次元・ACG 文化（动画／漫画／游戏）</li>
+      </ul>
+    </div>
 
-<div class="cv-section">
-  <h3>研究成果</h3>
+    <div class="cv-section">
+      <h3>教育背景</h3>
+      <p>
+        <strong>文化内容学 博士</strong><br>
+        韩国 祥明大学 一般研究生院
+      </p>
+    </div>
 
-  <h4>学术期刊论文</h4>
-  <ul class="cv-pub">
-    <li>
-      彭塬钧，曹圭宪（2024）。<br>
-      <em>
-        从文化混种的观点考察中国视频网站哔哩哔哩（Bilibili）：
-        以“拜年纪”为中心。
-      </em><br>
-      《外国学研究》，外国学研究所（KCI 收录期刊），
-      2024年第70号。<br>
-      <a href="https://doi.org/10.15755/jfs.2024..70.613" target="_blank">
-        DOI：10.15755/jfs.2024..70.613
-      </a>
-    </li>
-  </ul>
+    <div class="cv-section">
+      <h3>研究成果</h3>
 
-  <h4>学术发表</h4>
-  <ul class="cv-pub">
-    <li>
-      彭塬钧（2024）。<br>
-      <em>
-        从文化混种的观点考察中国视频网站哔哩哔哩（Bilibili）：
-        以“拜年纪”为中心。
-      </em><br>
-      全球文化内容学会 学术大会，<br>
-      《全球文化内容学会论文集》，Vol.2024 No.8。<br>
-      <a href="https://www.riss.kr/link?id=A109225174" target="_blank">
-        RISS 链接
-      </a>
-    </li>
-  </ul>
+      <h4>学术期刊论文</h4>
+      <ul class="cv-pub">
+        <li>
+          彭塬钧，曹圭宪（2024）。<br>
+          <em>
+            从文化混种的观点考察中国视频网站哔哩哔哩（Bilibili）：
+            以“拜年纪”为中心。
+          </em><br>
+          《外国学研究》，外国学研究所（KCI 收录期刊），2024年第70号。<br>
+          <a href="https://doi.org/10.15755/jfs.2024..70.613" target="_blank" rel="noopener">
+            DOI：10.15755/jfs.2024..70.613
+          </a>
+        </li>
+      </ul>
 
-  <h4>学术发表（学术海报发表）</h4>
-  <ul class="cv-pub">
-    <li>
-      彭塬钧（2022）。<br>
-      <em>
-        中国视频网站哔哩哔哩（Bilibili）与 ACG／二次元文化的关系研究。
-      </em><br>
-      韩国文化内容联合学术大会。
-    </li>
-  </ul>
-</div>
+      <h4>学术发表</h4>
+      <ul class="cv-pub">
+        <li>
+          彭塬钧（2024）。<br>
+          <em>
+            从文化混种的观点考察中国视频网站哔哩哔哩（Bilibili）：
+            以“拜年纪”为中心。
+          </em><br>
+          全球文化内容学会 学术大会，<br>
+          《全球文化内容学会论文集》，Vol.2024 No.8。<br>
+          <a href="https://www.riss.kr/link?id=A109225174" target="_blank" rel="noopener">
+            RISS 链接
+          </a>
+        </li>
+      </ul>
 
-<div class="cv-section">
-  <h3>学术服务与组织经历</h3>
-  <ul>
-    <li>祥明大学 本科 韩日文化内容系 留学生代表（2018.03 – 2019.02）</li>
-    <li>祥明大学 本科 韩日文化内容系 中国留学生代表（2019.03 – 2020.08）</li>
-    <li>祥明大学 创意融合综合成果大会 留学生团队负责人兼企划统筹（2019.03 – 2019.06）</li>
-    <li>祥明大学 国际交流处 国际学生支援组 助教（2020.09 – 2021.02）</li>
-    <li>祥明大学 研究生院 教务组 助教（2021.03 – 2023.02）</li>
-    <li>
-      祥明大学 学人学者联合会(学联/学生会)<br>
-      （隶属中国驻韩国大使馆教育处）部长（2021.03 – 2021.06）
-    </li>
-    <li>
-      祥明大学 学人学者联合会(学联/学生会)<br>
-      （隶属中国驻韩国大使馆教育处）主席（2021.07 – 2022.05）
-    </li>
-  </ul>
-</div>
+      <h4>学术发表（学术海报发表）</h4>
+      <ul class="cv-pub">
+        <li>
+          彭塬钧（2022）。<br>
+          <em>中国视频网站哔哩哔哩（Bilibili）与 ACG／二次元文化的关系研究。</em><br>
+          韩国文化内容联合学术大会。
+        </li>
+      </ul>
+    </div>
 
-<div class="cv-section">
-  <h3>获奖情况</h3>
-  <ul>
-    <li>祥明大学 日韩文化内容学系 学术发表获奖（2019.12）</li>
-    <li>韩国文化内容联合学术大会 发表获奖（2022.06）</li>
-    <li>全球文化内容学会 学术大会 发表获奖（2024.08）</li>
-  </ul>
-</div>
+    <div class="cv-section">
+      <h3>学术服务与组织经历</h3>
+      <ul>
+        <li>祥明大学 本科 韩日文化内容系 留学生代表（2018.03 – 2019.02）</li>
+        <li>祥明大学 本科 韩日文化内容系 中国留学生代表（2019.03 – 2020.08）</li>
+        <li>祥明大学 创意融合综合成果大会 留学生团队负责人兼企划统筹（2019.03 – 2019.06）</li>
+        <li>祥明大学 国际交流处 国际学生支援组 助教（2020.09 – 2021.02）</li>
+        <li>祥明大学 研究生院 教务组 助教（2021.03 – 2023.02）</li>
+        <li>祥明大学 学人学者联合会（隶属中国驻韩国大使馆教育处）部长（2021.03 – 2021.06）</li>
+        <li>祥明大学 学人学者联合会（隶属中国驻韩国大使馆教育处）主席（2021.07 – 2022.05）</li>
+      </ul>
+    </div>
 
-<div class="cv-section">
-  <h3>著作与研究项目</h3>
+    <div class="cv-section">
+      <h3>获奖情况</h3>
+      <ul>
+        <li>祥明大学 日韩文化内容学系 学术发表获奖（2019.12）</li>
+        <li>韩国文化内容联合学术大会 发表获奖（2022.06）</li>
+        <li>全球文化内容学会 学术大会 发表获奖（2024.08）</li>
+      </ul>
+    </div>
 
-  <h4>合著（章节作者）</h4>
-  <ul>
-    <li>
-      《新冠 改变》，Lettre 出版社，2021年1月15日。<br>
-      ISBN：979-11-972302-1-9<br>
-      <a href="https://www.yes24.com/Product/Goods/96836878" target="_blank">YES24</a>
-    </li>
-    <li>
-      《沉浸于文化与内容》，Lettre 出版社，2021年12月30日。<br>
-      ISBN：979-11-972302-3-3<br>
-      <a href="https://www.yes24.com/Product/Goods/105894052" target="_blank">YES24</a>
-    </li>
-    <li>
-      《韩流与文化内容：多元视角下的韩流》，Lettre 出版社，2023年2月6日。<br>
-      ISBN：979-11-972302-6-4<br>
-      <a href="https://www.yes24.com/Product/Goods/117303953" target="_blank">YES24</a>
-    </li>
-  </ul>
-</div>
+    <div class="cv-section">
+      <h3>著作与研究项目</h3>
 
-<div class="cv-section">
-  <h3>实践导向研究（Practice-based Research）</h3>
+      <h4>合著（章节作者）</h4>
+      <ul>
+        <li>
+          《新冠 改变》，Lettre 出版社，2021年1月15日。<br>
+          ISBN：979-11-972302-1-9<br>
+          <a href="https://www.yes24.com/Product/Goods/96836878" target="_blank" rel="noopener">YES24</a>
+        </li>
+        <li>
+          《沉浸于文化与内容》，Lettre 出版社，2021年12月30日。<br>
+          ISBN：979-11-972302-3-3<br>
+          <a href="https://www.yes24.com/Product/Goods/105894052" target="_blank" rel="noopener">YES24</a>
+        </li>
+        <li>
+          《韩流与文化内容：多元视角下的韩流》，Lettre 出版社，2023年2月6日。<br>
+          ISBN：979-11-972302-6-4<br>
+          <a href="https://www.yes24.com/Product/Goods/117303953" target="_blank" rel="noopener">YES24</a>
+        </li>
+      </ul>
+    </div>
 
-  <p>
-    本研究以日本亚文化与 ACG 媒介为核心对象，开展持续性的实践导向研究。
-  </p>
+    <div class="cv-section">
+      <h3>实践导向研究（Practice-based Research）</h3>
 
-  <ul>
-    <li>
-      在中国视频网站哔哩哔哩（Bilibili）平台以虚拟主播（V-Tuber）及UP主的身份进行长期实践
-    </li>
-    <li>
-      围绕动画、游戏文化、虚拟表演及日本动漫歌曲翻唱制作相关内容
-    </li>
-  </ul>
+      <p>本研究以日本亚文化与 ACG 媒介为核心对象，开展持续性的实践导向研究。</p>
 
-  <p>
-    相关实践作为 research-in-action 的研究形态，
-    使研究得以从经验与实证层面深入分析日本亚文化语境下的
-    虚拟身份建构、受众参与机制以及平台媒介化的文化互动过程。
-  </p>
+      <ul>
+        <li>在哔哩哔哩（Bilibili）平台以虚拟主播（V-Tuber）及UP主身份进行长期实践</li>
+        <li>围绕动画、游戏文化、虚拟表演及日本动漫歌曲翻唱制作相关内容</li>
+      </ul>
 
-  <p>
-    平台链接：<br>
-    <a href="https://space.bilibili.com/103596519" target="_blank">
-      https://space.bilibili.com/103596519
-    </a>
-  </p>
-</div>
+      <p>
+        相关实践作为 research-in-action 的研究形态，
+        使研究得以从经验与实证层面深入分析日本亚文化语境下的
+        虚拟身份建构、受众参与机制以及平台媒介化的文化互动过程。
+      </p>
 
-<div class="cv-section">
-  <h3>公共参与与媒体实践</h3>
-  <ul>
-    <li>
-      运营面向中国受众的海外文化传播账号，
-      获得新浪微博官方橙 V 认证（2014.09 – 2022.12）
-    </li>
-    <li>
-      累计关注者约 12.8 万人，内容涵盖韩国日常文化、
-      饮食文化、生活方式及社会趋势
-    </li>
-    <li>
-      随平台生态变化，部分内容逐步向小红书等新兴平台延展
-    </li>
-  </ul>
+      <p>
+        平台链接：<br>
+        <a href="https://space.bilibili.com/103596519" target="_blank" rel="noopener">
+          https://space.bilibili.com/103596519
+        </a>
+      </p>
+    </div>
 
-  <p>
-    微博主页：<br>
-    <a href="https://weibo.com/u/1202236810" target="_blank">
-      https://weibo.com/u/1202236810
-    </a>
-  </p>
-</div>
+    <div class="cv-section">
+      <h3>公共参与与媒体实践</h3>
+      <ul>
+        <li>运营面向中国受众的海外文化传播账号，获新浪微博官方橙 V 认证（2014.09 – 2022.12）</li>
+        <li>累计关注者约 12.8 万人，内容涵盖韩国日常文化、饮食文化、生活方式及社会趋势</li>
+        <li>随平台生态变化，部分内容逐步向小红书等新兴平台延展</li>
+      </ul>
 
-<div class="cv-section">
-  <h3>数字媒体编辑经验</h3>
-  <ul>
-    <li>
-      曾担任以韩国饮食文化为主题的微信公众号编辑撰稿人
-      （2017.08 – 2017.12）
-    </li>
-  </ul>
-</div>
+      <p>
+        微博主页：<br>
+        <a href="https://weibo.com/u/1202236810" target="_blank" rel="noopener">
+          https://weibo.com/u/1202236810
+        </a>
+      </p>
+    </div>
 
-<div class="cv-section">
-  <h3>语言能力</h3>
-  <ul>
-    <li>中文：母语</li>
-    <li>韩语：准母语水平（TOPIK 6级）</li>
-    <li>
-      日语：初级（JLPT N5）<br>
-      — 长期接触日本 ACG 文化（20年以上）<br>
-      — 通过动画与音乐积累良好的听解能力与语感<br>
-      — 目前持续系统学习中
-    </li>
-  </ul>
-</div>
+    <div class="cv-section">
+      <h3>数字媒体编辑经验</h3>
+      <ul>
+        <li>曾担任以韩国饮食文化为主题的微信公众号编辑撰稿人（2017.08 – 2017.12）</li>
+      </ul>
+    </div>
 
-<div class="cv-section">
-  <h3>个人价值观与学术取向</h3>
+    <div class="cv-section">
+      <h3>语言能力</h3>
+      <ul>
+        <li>中文：母语</li>
+        <li>韩语：准母语水平（TOPIK 6级）</li>
+        <li>
+          日语：初级（JLPT N5）<br>
+          — 长期接触日本 ACG 文化（20年以上）<br>
+          — 通过动画与音乐积累良好的听解能力与语感<br>
+          — 目前持续系统学习中
+        </li>
+      </ul>
+    </div>
 
-  <p>
-    通过在韩国长期从事学术研究与日常生活的十二余年经历，
-    我逐步形成了坚韧的意志品质、严谨的自律意识以及对他人保持尊重的处世态度。
-    我将善意、耐心与诚实视为贯穿学术研究与人际交往的基本原则。
-    对细节的高度重视、审慎而具前瞻性的思考方式，以及强烈的责任意识，
-    构成了我学术取向的核心基础。
-  </p>
+    <div class="cv-section">
+      <h3>个人价值观与学术取向</h3>
 
-  <p>
-    在学术生涯中，我长期坚持纪律性与可靠性，
-    自基础教育阶段直至博士培养期间，
-    始终对时间管理与任务执行保持严格的自我要求。
-    我并不将准时参与与认真完成任务视为个人优势，
-    而是将其视为维系学术与组织环境中信任关系的基本前提。
-  </p>
+      <p>
+        通过在韩国长期从事学术研究与日常生活的十二余年经历，
+        我逐步形成了坚韧的意志品质、严谨的自律意识以及对他人保持尊重的处世态度。
+        我将善意、耐心与诚实视为贯穿学术研究与人际交往的基本原则。
+        对细节的高度重视、审慎而具前瞻性的思考方式，以及强烈的责任意识，
+        构成了我学术取向的核心基础。
+      </p>
 
-  <p>
-    十七岁时完成的一次减重经历(100kg-70kg)，
-    使我深刻理解长期投入、自我调节与持续一致性的重要意义，
-    并将其内化为学术研究与职业发展的基本方法论。
-  </p>
+      <p>
+        在学术生涯中，我长期坚持纪律性与可靠性，
+        自基础教育阶段直至博士培养期间，
+        始终对时间管理与任务执行保持严格的自我要求。
+        我并不将准时参与与认真完成任务视为个人优势，
+        而是将其视为维系学术与组织环境中信任关系的基本前提。
+      </p>
 
-  <p>
-    此外，我曾在韩国娱乐公司接受了两年多的练习生系统训练，
-    该经历强化了我对文化生产体系、美学规范及创意产业运作机制的理解，
-    并促使我将流行文化视为具有结构性与制度性的研究对象。
-  </p>
+      <p>
+        十七岁时完成的一次减重经历（约100kg减至70kg），
+        使我深刻理解长期投入、自我调节与持续一致性的重要意义，
+        并将其内化为学术研究与职业发展的基本方法论。
+      </p>
 
-  <p>
-    长期海外独立生活的经历，
-    进一步塑造了我在不确定情境中保持冷静、独立应对挑战的能力。
-    结合偏向内省、意义导向的个人特质（INFJ），
-    我在研究中更关注问题的深层结构与长期影响。
-  </p>
+      <p>
+        此外，我曾在韩国娱乐公司接受了两年多的练习生系统训练，
+        该经历强化了我对文化生产体系、美学规范及创意产业运作机制的理解，
+        并促使我将流行文化视为具有结构性与制度性的研究对象。
+      </p>
 
-  <p>
-    总体而言，我认为学术研究不仅依赖于知识能力，
-    更根植于研究者的品格、稳定性与责任意识。
-    这些价值观持续塑造着我在学术研究、合作实践
-    以及多文化研究语境中的参与方式。
-  </p>
-</div>
+      <p>
+        长期海外独立生活的经历，
+        进一步塑造了我在不确定情境中保持冷静、独立应对挑战的能力。
+        结合偏向内省、意义导向的个人特质（INFJ），
+        我在研究中更关注问题的深层结构与长期影响。
+      </p>
+
+      <p>
+        总体而言，我认为学术研究不仅依赖于知识能力，
+        更根植于研究者的品格、稳定性与责任意识。
+        这些价值观持续塑造着我在学术研究、合作实践以及多文化研究语境中的参与方式。
+      </p>
+    </div>
 
   </div>
 </details>
