@@ -46,6 +46,47 @@ details[open].lang summary::before{content:"▾ ";}
 
 .lang-block{margin:.25rem 0 .4rem .8rem;}
 hr{margin:1.6rem 0;opacity:.25;}
+
+ /* ===== FIX: multi-language dropdown typography (details.lang) ===== */
+
+/* 1) 统一 details.lang 区块内所有文字：颜色/透明度/字重 */
+details.lang,
+details.lang *{
+  color:#222 !important;
+  opacity:1 !important;
+  font-weight:400 !important;
+}
+
+/* 2) summary 常被主题“加粗/变灰”——强制拉回，但保留一点强调 */
+details.lang > summary{
+  color:#222 !important;
+  opacity:1 !important;
+  font-weight:600 !important;
+}
+
+/* 3) 下拉内容里如果你用了 strong/b（比如 KR/JP/CN 前缀），去掉黑一截 */
+details.lang strong,
+details.lang b{
+  color:#222 !important;
+  font-weight:400 !important;
+}
+
+/* 4) 斜体 em 容易显灰：补一点字重 */
+details.lang em{
+  color:#222 !important;
+  opacity:1 !important;
+  font-weight:450 !important;
+}
+
+/* 5) 如果你的多语言是用 li/p/span 排版，再兜底一次 */
+details.lang li,
+details.lang p,
+details.lang span{
+  color:#222 !important;
+  opacity:1 !important;
+  font-weight:400 !important;
+}
+ 
 </style>
 
 <div class="pub-wrap">
