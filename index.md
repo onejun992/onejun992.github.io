@@ -399,7 +399,8 @@ main.ap-main details > summary strong{
     <div class="ap-label">Research Focus</div>
     <div class="ap-value">
       Cultural Contents<br>
-      Japanese subculture·ACG culture
+      Japanese subculture<br>
+      ACG culture
     </div>
   </div>
 
