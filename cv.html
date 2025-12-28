@@ -134,6 +134,43 @@ details[open].cv-block > summary::before{content:"▾";}
 .cv-wrap a:hover{
   text-decoration: underline !important;
 }
+
+/* ===== FIX: reduce strong heaviness & unify tone ===== */
+.cv-wrap strong{
+  font-weight: 600 !important;   /* 关键：不要700+，会太黑太突兀 */
+  color: #222 !important;        /* 强制与正文同色阶 */
+}
+
+/* 只让大标题/小标题保持更深色（不要影响正文 strong） */
+.cv-wrap h2,
+.cv-wrap h3,
+.cv-wrap h4{
+  color: #111 !important;
+}
+
+/* 链接不要默认紫色或太跳 */
+.cv-wrap a{
+  color: #444 !important;
+}
+  
+.cv-wrap .cv-journal{
+  font-weight: 600;
+  color: #111;
+}
+
+/* ===== Academic link badge (DOI / RISS) ===== */
+.cv-wrap .cv-link a{
+  color:#1a73e8 !important;        /* 学术蓝 */
+  font-weight:600;
+  text-decoration:none;
+  border-bottom:1px solid rgba(26,115,232,.45);
+  padding:0 .1rem;
+}
+
+.cv-wrap .cv-link a:hover{
+  text-decoration:none;
+  border-bottom:2px solid #1a73e8;
+}
   
 </style>
 
@@ -182,10 +219,12 @@ details[open].cv-block > summary::before{content:"▾";}
         <li>
           Peng, Yuanjun, &amp; Cho, Kyuheon. (2024).
           <em>A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity: Focusing on the “Bainianji” (New Year Festival Program).</em>
-          <strong>The Journal of Foreign Studies</strong>, Foreign Studies Institute.
+          <span class="cv-journal">The Journal of Foreign Studies</span>, Foreign Studies Institute.
           <span class="cv-link">
-            <a href="https://doi.org/10.15755/jfs.2024..70.613" target="_blank" rel="noopener">DOI</a>
-          </span>
+            <a href="https://doi.org/10.15755/jfs.2024..70.613" target="_blank">
+              DOI: 10.15755/jfs.2024..70.613
+            </a>
+         </span>
         </li>
       </ul>
 
@@ -196,7 +235,9 @@ details[open].cv-block > summary::before{content:"▾";}
           <em>A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity: Focusing on the “Bainianji” (New Year Festival Program).</em>
           <em>Proceedings of the Global Cultural Contents Conference</em>, Global Cultural Contents Society, Vol. 2024, No. 8.
           <span class="cv-link">
-            <a href="https://www.riss.kr/link?id=A109225174" target="_blank" rel="noopener">RISS</a>
+            <a href="https://www.riss.kr/link?id=A109225174" target="_blank">
+              RISS record
+            </a>
           </span>
         </li>
         <li>
