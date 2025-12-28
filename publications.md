@@ -4,34 +4,141 @@ title: Publications
 permalink: /publications/
 ---
 
-## Journal Articles
+<style>
+.pub-wrap{max-width:920px;margin:0 auto;}
+.pub-wrap h1{font-size:2.2rem;margin:.3rem 0 1.2rem 0;}
+.pub-wrap h2{font-size:1.55rem;margin:1.4rem 0 .6rem 0;}
+.pub-wrap h3{font-size:1.15rem;margin:1.1rem 0 .4rem 0;}
 
-**Peng, Yuanjun**, Cho, Kyuheon. (2024).  
-* A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:  
-  Focusing on the “Bainianji” (New Year Festival Program).*  
-**The Journal of Foreign Studies**, Foreign Studies Institute, No. 70 (KCI-indexed).  
-DOI: https://doi.org/10.15755/jfs.2024..70.613
+.pub-item{margin:1.1rem 0;line-height:1.75;}
+.pub-authors{font-weight:700;}
+.pub-year{margin-left:.25rem;}
+.pub-title{display:block;margin:.25rem 0;}
+.pub-venue{display:block;opacity:.95;}
 
----
+.pub-meta{margin-top:.3rem;display:flex;flex-wrap:wrap;gap:.6rem;}
+.pub-link a{
+  color:#1a73e8;
+  font-weight:600;
+  text-decoration:none;
+  border-bottom:1px solid rgba(26,115,232,.45);
+}
+.pub-link a:hover{border-bottom:2px solid #1a73e8;}
 
-## Conference Proceedings
+.badge{
+  display:inline-block;
+  font-size:.85rem;
+  padding:.12rem .5rem;
+  border-radius:999px;
+  border:1px solid rgba(0,0,0,.15);
+  background:rgba(0,0,0,.02);
+}
 
-**Peng, Yuanjun**. (2024).  
-* A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:  
-  Focusing on the “Bainianji” (New Year Festival Program).*  
-Proceedings of the Global Cultural Contents Conference,  
-Global Cultural Contents Society, Vol. 2024, No. 8.  
-RISS: https://www.riss.kr/link?id=A109225174
+details.lang{margin:.35rem 0 .1rem 0;}
+details.lang summary{
+  cursor:pointer;
+  font-weight:600;
+  opacity:.9;
+}
+details.lang summary::-webkit-details-marker{display:none;}
+details.lang summary::before{content:"▸ ";font-weight:800;}
+details[open].lang summary::before{content:"▾ ";}
 
----
+.lang-block{margin:.25rem 0 .4rem .8rem;}
+hr{margin:1.6rem 0;opacity:.25;}
+</style>
 
-## Conference Presentations
+<div class="pub-wrap">
 
-**Peng, Yuanjun**. (2024).  
-* A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity.*  
-Global Cultural Contents Conference (Oral Presentation).
+<h1>Publications</h1>
 
-**Peng, Yuanjun**. (2022).  
-* Examining the Relationship between the Chinese Video Platform Bilibili  
-and ACG / Two-Dimensional Culture.*  
-Korean Cultural Contents Joint Academic Conference (Poster Presentation).
+<h2>Journal Articles</h2>
+
+<div class="pub-item">
+  <span class="pub-authors">Peng, Yuanjun</span> (팽원균), &amp; Cho, Kyuheon (조규헌)
+  <span class="pub-year">(2024).</span>
+
+  <span class="pub-title">
+    <strong>
+      A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:
+      Focusing on the “Bainianji” (New Year Festival Program).
+    </strong>
+  </span>
+
+  <span class="pub-venue">
+    <em>The Journal of Foreign Studies</em>, Foreign Studies Institute, No. 70
+    <span class="badge">KCI-indexed</span>
+  </span>
+
+  <div class="pub-meta">
+    <span class="pub-link">
+      <a href="https://doi.org/10.15755/jfs.2024..70.613" target="_blank" rel="noopener">
+        DOI: 10.15755/jfs.2024..70.613
+      </a>
+    </span>
+  </div>
+
+  <details class="lang">
+    <summary>Korean / Japanese / Chinese titles</summary>
+    <div class="lang-block">
+      <p><strong>KR</strong> 문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年紀)를 중심으로</p>
+      <p><strong>JP</strong> 文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――「拜年紀（Bainianji）」を中心に――</p>
+      <p><strong>CN</strong> 文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心</p>
+    </div>
+  </details>
+</div>
+
+<hr>
+
+<h2>Conference Proceedings</h2>
+
+<div class="pub-item">
+  <span class="pub-authors">Peng, Yuanjun</span> (팽원균)
+  <span class="pub-year">(2024).</span>
+
+  <span class="pub-title">
+    <strong>
+      A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:
+      Focusing on the “Bainianji” (New Year Festival Program).
+    </strong>
+  </span>
+
+  <span class="pub-venue">
+    <em>Proceedings of the Global Cultural Contents Conference</em>,  
+    Global Cultural Contents Society, Vol. 2024, No. 8
+  </span>
+
+  <div class="pub-meta">
+    <span class="pub-link">
+      <a href="https://www.riss.kr/link?id=A109225174" target="_blank" rel="noopener">
+        RISS record
+      </a>
+    </span>
+  </div>
+
+  <details class="lang">
+    <summary>Korean / Japanese / Chinese titles</summary>
+    <div class="lang-block">
+      <p><strong>KR</strong> 문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年紀)를 중심으로</p>
+      <p><strong>JP</strong> 文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――「拜年紀（Bainianji）」を中心に――</p>
+      <p><strong>CN</strong> 文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心</p>
+    </div>
+  </details>
+</div>
+
+<div class="pub-item">
+  <span class="pub-authors">Peng, Yuanjun</span> (팽원균)
+  <span class="pub-year">(2022).</span>
+
+  <span class="pub-title">
+    <strong>
+      Examining the Relationship between the Chinese Video Platform Bilibili and
+      ACG / Two-Dimensional Culture.
+    </strong>
+  </span>
+
+  <span class="pub-venue">
+    <em>Proceedings of the Korean Cultural Contents Joint Academic Conference</em>
+  </span>
+
+  <details class=
