@@ -5,181 +5,241 @@ permalink: /publications/
 ---
 
 <style>
-.pub-wrap{max-width:920px;margin:0 auto;}
-.pub-wrap h1{font-size:2.2rem;margin:.3rem 0 1.2rem 0;}
-.pub-wrap h2{font-size:1.55rem;margin:1.4rem 0 .6rem 0;}
-.pub-wrap h3{font-size:1.15rem;margin:1.1rem 0 .4rem 0;}
-
-.pub-item{margin:1.1rem 0;line-height:1.75;}
-.pub-authors{font-weight:700;}
-.pub-year{margin-left:.25rem;}
-.pub-title{display:block;margin:.25rem 0;}
-.pub-venue{display:block;opacity:.95;}
-
-.pub-meta{margin-top:.3rem;display:flex;flex-wrap:wrap;gap:.6rem;}
-.pub-link a{
-  color:#1a73e8;
-  font-weight:600;
-  text-decoration:none;
-  border-bottom:1px solid rgba(26,115,232,.45);
+/* ===== Publications: clean academic layout ===== */
+.pub-wrap{
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 0 .2rem;
+  font-family:
+    ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino,
+    "Noto Serif", "Noto Serif CJK SC", "Noto Serif CJK JP", "Noto Serif CJK KR",
+    "Times New Roman", serif;
+  color:#1b1b1b;
 }
-.pub-link a:hover{border-bottom:2px solid #1a73e8;}
 
-.badge{
+.pub-wrap h1{margin:.2rem 0 1.1rem 0;}
+.pub-sec{margin: 1.35rem 0 0 0;}
+.pub-sec h2{
+  font-size: 1.75rem;
+  margin: 1.2rem 0 .7rem 0;
+  letter-spacing: .2px;
+}
+
+.pub-item{
+  padding: .85rem .95rem;
+  border: 1px solid rgba(0,0,0,.08);
+  border-radius: 16px;
+  margin: .85rem 0;
+  background: rgba(0,0,0,.015);
+}
+
+.pub-auth{
+  font-weight: 650;
+  margin: 0 0 .2rem 0;
+  line-height: 1.55;
+}
+
+.pub-year{font-weight: 500; opacity: .9;}
+.pub-title{
+  margin: .25rem 0 .35rem 0;
+  font-size: 1.08rem;
+  line-height: 1.65;
+  font-weight: 650;
+}
+
+.pub-venue{
+  margin: .25rem 0 .45rem 0;
+  line-height: 1.65;
+  opacity: .95;
+}
+
+.pub-links{
+  display:flex;
+  flex-wrap:wrap;
+  gap:.45rem .55rem;
+  margin:.55rem 0 0 0;
+}
+
+.pub-link{
   display:inline-block;
-  font-size:.85rem;
-  padding:.12rem .5rem;
-  border-radius:999px;
-  border:1px solid rgba(0,0,0,.15);
-  background:rgba(0,0,0,.02);
-}
-
-details.lang{margin:.35rem 0 .1rem 0;}
-details.lang summary{
-  cursor:pointer;
+  padding:.22rem .55rem;
+  border-radius: 999px;
+  border: 1px solid rgba(0,0,0,.10);
+  background: #fff;
+  text-decoration:none !important;
+  color:#1b1b1b !important;
   font-weight:600;
-  opacity:.9;
+  font-size:.95rem;
 }
-details.lang summary::-webkit-details-marker{display:none;}
-details.lang summary::before{content:"▸ ";font-weight:800;}
-details[open].lang summary::before{content:"▾ ";}
 
-.lang-block{margin:.25rem 0 .4rem .8rem;}
-hr{margin:1.6rem 0;opacity:.25;}
+.pub-link:hover{
+  border-color: rgba(0,0,0,.22);
+  transform: translateY(-1px);
+}
 
- /* ===== FIX: multi-language dropdown typography (details.lang) ===== */
+.pub-badge{
+  display:inline-block;
+  padding:.18rem .5rem;
+  border-radius: 999px;
+  background: rgba(0,0,0,.06);
+  border: 1px solid rgba(0,0,0,.10);
+  font-size: .86rem;
+  font-weight: 650;
+  vertical-align: middle;
+  margin-left: .35rem;
+  color:#1b1b1b;
+}
 
-/* 1) 统一 details.lang 区块内所有文字：颜色/透明度/字重 */
-details.lang,
-details.lang *{
-  color:#222 !important;
+/* details: multilingual titles */
+details.pub-lang{
+  margin-top: .6rem;
+  padding-top: .55rem;
+  border-top: 1px dashed rgba(0,0,0,.12);
+}
+
+details.pub-lang > summary{
+  cursor:pointer;
+  list-style:none;
+  font-weight:650;
+  opacity:.95;
+  display:flex;
+  align-items:center;
+  gap:.35rem;
+  user-select:none;
+}
+details.pub-lang > summary::-webkit-details-marker{display:none;}
+details.pub-lang > summary::before{content:"▸"; font-weight:900; transform: translateY(-1px);}
+details[open].pub-lang > summary::before{content:"▾";}
+
+.pub-lang-box{
+  margin-top: .55rem;
+  line-height: 1.75;
+  font-size: .98rem;
+}
+
+.pub-lang-line{
+  margin: .35rem 0;
+}
+
+/* force same darkness */
+.pub-wrap, .pub-wrap *{
+  color:#1b1b1b !important;
   opacity:1 !important;
-  font-weight:400 !important;
 }
-
-/* 2) summary 常被主题“加粗/变灰”——强制拉回，但保留一点强调 */
-details.lang > summary{
-  color:#222 !important;
-  opacity:1 !important;
-  font-weight:600 !important;
-}
-
-/* 3) 下拉内容里如果你用了 strong/b（比如 KR/JP/CN 前缀），去掉黑一截 */
-details.lang strong,
-details.lang b{
-  color:#222 !important;
-  font-weight:400 !important;
-}
-
-/* 4) 斜体 em 容易显灰：补一点字重 */
-details.lang em{
-  color:#222 !important;
-  opacity:1 !important;
-  font-weight:450 !important;
-}
-
-/* 5) 如果你的多语言是用 li/p/span 排版，再兜底一次 */
-details.lang li,
-details.lang p,
-details.lang span{
-  color:#222 !important;
-  opacity:1 !important;
-  font-weight:400 !important;
-}
- 
+.pub-wrap em{font-style: italic;}
+.pub-wrap a{color:#1a4fd8 !important; text-decoration: none;}
+.pub-wrap a:hover{text-decoration: underline;}
 </style>
 
 <div class="pub-wrap">
 
-<h1>Publications</h1>
+  <div class="pub-sec">
+    <h2>Journal Articles</h2>
 
-<h2>Journal Articles</h2>
+    <div class="pub-item">
+      <div class="pub-auth">
+        Peng, Yuanjun (팽원균), &amp; Cho, Kyuheon (조규헌). <span class="pub-year">(2024)</span>
+      </div>
 
-<div class="pub-item">
-  <span class="pub-authors">Peng, Yuanjun</span> (팽원균), &amp; Cho, Kyuheon (조규헌)
-  <span class="pub-year">(2024).</span>
+      <div class="pub-title">
+        A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:
+        Focusing on the “Bainianji” (New Year Festival Program).
+      </div>
 
-  <span class="pub-title">
-    <strong>
-      A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:
-      Focusing on the “Bainianji” (New Year Festival Program).
-    </strong>
-  </span>
+      <div class="pub-venue">
+        <em>The Journal of Foreign Studies</em>, Foreign Studies Institute, No. 70
+        <span class="pub-badge">KCI-indexed</span>
+      </div>
 
-  <span class="pub-venue">
-    <em>The Journal of Foreign Studies</em>, Foreign Studies Institute, No. 70
-    <span class="badge">KCI-indexed</span>
-  </span>
+      <div class="pub-links">
+        <a class="pub-link" href="https://doi.org/10.15755/jfs.2024..70.613" target="_blank" rel="noopener">
+          DOI: 10.15755/jfs.2024..70.613
+        </a>
+      </div>
 
-  <div class="pub-meta">
-    <span class="pub-link">
-      <a href="https://doi.org/10.15755/jfs.2024..70.613" target="_blank" rel="noopener">
-        DOI: 10.15755/jfs.2024..70.613
-      </a>
-    </span>
+      <details class="pub-lang">
+        <summary>Korean / Japanese / Chinese titles</summary>
+        <div class="pub-lang-box">
+          <div class="pub-lang-line"><strong>KR</strong> 문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年紀)를 중심으로</div>
+          <div class="pub-lang-line"><strong>JP</strong> 文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――「拜年紀（Bainianji）」を中心に――</div>
+          <div class="pub-lang-line"><strong>CN</strong> 文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心</div>
+        </div>
+      </details>
+    </div>
   </div>
 
-  <details class="lang">
-    <summary>Korean / Japanese / Chinese titles</summary>
-    <div class="lang-block">
-      <p><strong>KR</strong> 문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年紀)를 중심으로</p>
-      <p><strong>JP</strong> 文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――「拜年紀（Bainianji）」を中心に――</p>
-      <p><strong>CN</strong> 文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心</p>
+  <div class="pub-sec">
+    <h2>Conference Proceedings</h2>
+
+    <div class="pub-item">
+      <div class="pub-auth">
+        Peng, Yuanjun (팽원균). <span class="pub-year">(2024)</span>
+      </div>
+
+      <div class="pub-title">
+        A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:
+        Focusing on the “Bainianji” (New Year Festival Program).
+      </div>
+
+      <div class="pub-venue">
+        <em>Proceedings of the Global Cultural Contents Conference</em>, Global Cultural Contents Society,
+        Vol. 2024, No. 8
+      </div>
+
+      <div class="pub-links">
+        <a class="pub-link" href="https://www.riss.kr/link?id=A109225174" target="_blank" rel="noopener">
+          RISS record
+        </a>
+      </div>
+
+      <details class="pub-lang">
+        <summary>Korean / Japanese / Chinese titles</summary>
+        <div class="pub-lang-box">
+          <div class="pub-lang-line"><strong>KR</strong> 문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年紀)를 중심으로</div>
+          <div class="pub-lang-line"><strong>JP</strong> 文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――「拜年紀（Bainianji）」を中心に――</div>
+          <div class="pub-lang-line"><strong>CN</strong> 文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心</div>
+        </div>
+      </details>
     </div>
-  </details>
-</div>
 
-<hr>
+    <div class="pub-item">
+      <div class="pub-auth">
+        Peng, Yuanjun (팽원균). <span class="pub-year">(2022)</span>
+      </div>
 
-<h2>Conference Proceedings</h2>
+      <div class="pub-title">
+        Examining the Relationship between the Chinese Video Platform Bilibili and ACG / Two-Dimensional Culture.
+      </div>
 
-<div class="pub-item">
-  <span class="pub-authors">Peng, Yuanjun</span> (팽원균)
-  <span class="pub-year">(2024).</span>
+      <div class="pub-venue">
+        <em>Proceedings of the Korean Cultural Contents Joint Academic Conference</em>
+      </div>
 
-  <span class="pub-title">
-    <strong>
-      A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:
-      Focusing on the “Bainianji” (New Year Festival Program).
-    </strong>
-  </span>
-
-  <span class="pub-venue">
-    <em>Proceedings of the Global Cultural Contents Conference</em>,  
-    Global Cultural Contents Society, Vol. 2024, No. 8
-  </span>
-
-  <div class="pub-meta">
-    <span class="pub-link">
-      <a href="https://www.riss.kr/link?id=A109225174" target="_blank" rel="noopener">
-        RISS record
-      </a>
-    </span>
+      <details class="pub-lang">
+        <summary>Korean / Japanese / Chinese titles</summary>
+        <div class="pub-lang-box">
+          <div class="pub-lang-line"><strong>KR</strong> 중국 동영상 플랫폼 비리비리(bilibili)와 ACG/2차원 문화의 관계성 고찰</div>
+          <div class="pub-lang-line"><strong>JP</strong> 中国動画プラットフォームBilibiliとACG／二次元文化の関係性に関する考察</div>
+          <div class="pub-lang-line"><strong>CN</strong> 中国视频平台哔哩哔哩（bilibili）与 ACG／二次元文化关系的考察</div>
+        </div>
+      </details>
+    </div>
   </div>
 
-  <details class="lang">
-    <summary>Korean / Japanese / Chinese titles</summary>
-    <div class="lang-block">
-      <p><strong>KR</strong> 문화혼종성 관점에서 본 중국 동영상 플랫폼 비리비리(bilibili)에 관한 고찰: 세배기(拜年紀)를 중심으로</p>
-      <p><strong>JP</strong> 文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――「拜年紀（Bainianji）」を中心に――</p>
-      <p><strong>CN</strong> 文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心</p>
+  <div class="pub-sec">
+    <h2>Doctoral Dissertation</h2>
+
+    <div class="pub-item">
+      <div class="pub-auth">
+        Ph.D. Dissertation. <span class="pub-year">(Details forthcoming)</span>
+      </div>
+      <div class="pub-title">
+        Sangmyung University, Seoul, South Korea.
+      </div>
+      <div class="pub-venue">
+        (Title and repository link will be added after final confirmation.)
+      </div>
     </div>
-  </details>
+  </div>
+
 </div>
-
-<div class="pub-item">
-  <span class="pub-authors">Peng, Yuanjun</span> (팽원균)
-  <span class="pub-year">(2022).</span>
-
-  <span class="pub-title">
-    <strong>
-      Examining the Relationship between the Chinese Video Platform Bilibili and
-      ACG / Two-Dimensional Culture.
-    </strong>
-  </span>
-
-  <span class="pub-venue">
-    <em>Proceedings of the Korean Cultural Contents Joint Academic Conference</em>
-  </span>
-
-  <details class=
