@@ -198,6 +198,36 @@ details[open].cv-block > summary::before{content:"▾";}
   font-weight:600 !important;
 }
   
+/* ===== FINAL FIX: unify perceived darkness (opacity + weight) ===== */
+
+/* 1) 先把任何透明度统统拉回 1（很多主题会暗搓搓给 em/p 加 opacity） */
+.cv-wrap .cv-content,
+.cv-wrap .cv-content *{
+  opacity: 1 !important;
+}
+
+/* 2) 正文统一字重（否则粗体/斜体会让你觉得“深浅不一”） */
+.cv-wrap .cv-content{
+  font-weight: 400 !important;
+}
+
+/* 3) 斜体视觉会变浅：给它一点点字重补偿 */
+.cv-wrap .cv-content em{
+  font-weight: 450 !important;   /* 关键：让斜体不显灰 */
+}
+
+/* 4) 正文里的 strong / 期刊名不要太黑（标题另算） */
+.cv-wrap .cv-content strong,
+.cv-wrap .cv-journal{
+  font-weight: 520 !important;   /* 比400明显，但不会黑得跳出来 */
+  color: #222 !important;
+}
+
+/* 5) h4 你原来有 opacity:.92，会显得“灰”——改回正常 */
+.cv-wrap h4{
+  opacity: 1 !important;
+}
+  
 </style>
 
 <div class="cv-wrap">
