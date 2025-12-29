@@ -178,7 +178,7 @@ details[open].pub-lang > summary::before{content:"▾";}
 
       <div class="pub-title">
         A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:
-        Focusing on the “Bainianji” (New Year Festival Program).
+        Focusing on “Pay New Year's call period” (Lunar New Year Gala).
       </div>
 
       <div class="pub-venue">
@@ -213,7 +213,7 @@ details[open].pub-lang > summary::before{content:"▾";}
 
       <div class="pub-title">
         A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:
-        Focusing on the “Bainianji” (New Year Festival Program).
+        Focusing on “Pay New Year's call period” (Lunar New Year Gala).
       </div>
 
       <div class="pub-venue">
