@@ -4,68 +4,91 @@ title: Practice-based Research
 permalink: /practice/
 ---
 
+<style>
+.research-figure img {
+  max-width: 600px;
+  width: 100%;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
+}
+.research-figure figcaption {
+  max-width: 600px;
+  margin: 10px auto 0;
+  font-size: 0.92em;
+  line-height: 1.6;
+}
+.character-note {
+  max-width: 600px;
+  margin: 6px auto 0;
+  padding: 6px 10px;
+  font-size: 0.86em;
+  line-height: 1.5;
+  background: #f6f6f6;
+  border-left: 3px solid #999;
+}
+</style>
+
 ## Practice-based Research in Japanese Subculture and ACG Culture
 
 My research on Japanese subculture and ACG (Animation, Comics, Games) culture is grounded not only in textual and theoretical analysis, but also in sustained practice-based research. I employ embodied, performative, and platform-mediated cultural practices as methodological tools to examine how Japanese ACG culture is experienced, reproduced, and recontextualized across transnational contexts.
 
 Cosplay constitutes a core component of this practice-based approach. Rather than treating cosplay as a hobby or auxiliary activity, I conceptualize it as an embodied research practice through which fictional characters are materialized, interpreted, and performed. Through costume production, character embodiment, performative posture, and participation in fan events, cosplay enables an examination of identity performance, gender expression, fan labor, and affective engagement within Japanese subcultural spaces. This embodied engagement provides insights into how ACG characters function as cultural interfaces between media texts, bodies, and audiences.
 
-This embodied practice is further integrated with my research on digital and platform cultures through sustained activity as a virtual streamer (V-Tuber) on the Chinese video-sharing platform Bilibili:  
-<div style="margin: 22px 0; padding: 14px 16px; border-left: 4px solid #ddd;">
-  <p style="margin-top: 0;">
-    <strong>Bilibili (V-Tuber Practice):</strong><br>
-    <a href="https://space.bilibili.com/103596519" target="_blank">
-      https://space.bilibili.com/103596519
-    </a>
-  </p>
-
-  <figure style="margin: 16px 0;">
-    <img src="/assets/img/vtuber-01.png"
-         alt="V-Tuber practice on Bilibili"
-         style="max-width: 100%; border-radius: 14px;">
-    <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
-      <strong>Figure 1.</strong>
-      Screenshot from V-Tuber practice on Bilibili, illustrating virtual embodiment, real-time audience interaction, and platform-mediated performance within Japanese ACG culture.
-    </figcaption>
-  </figure>
-</div>
-
-The content produced on this platform primarily revolves around Japanese ACG culture, including animation- and game-related discussions, virtual performance, and audience interaction. This platform-based practice enables the observation of participatory culture, affective engagement, and community formation within contemporary ACG fandoms.
-
-In addition, my practice-based research includes the performance and production of Japanese anime song covers, which function as an affective and auditory mode of cultural participation within ACG culture. Anime song performance complements visual embodiment practices and extends the analysis of fan creativity, performativity, and transmedia circulation.
-
-Together, cosplay, virtual streaming, and anime song performance form a coherent practice-based research framework that connects embodiment, performance, and platform circulation. This integrated approach enables a multi-layered understanding of Japanese ACG culture as a lived, practiced, and transnational phenomenon, bridging offline fan practices and online digital platforms. Through this methodology, my research foregrounds the role of the body, performance, and creative labor as central analytical sites in the study of contemporary Japanese subculture.
+This embodied practice is further integrated with my research on digital and platform cultures through sustained activity as a virtual streamer (V-Tuber) on the Chinese video-sharing platform Bilibili.
 
 ---
 
 ## Visual Documentation (Selected)
 
-<figure style="margin: 18px 0;">
-  <img src="/assets/img/cosplay-01.jpg"
-       alt="Cosplay as embodied practice 1"
-       style="max-width: 100%; border-radius: 14px;">
-  <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
-    <strong>Figure 2.</strong>
+<!-- Cosplay 01 -->
+<figure class="research-figure">
+  <img src="assets/img/cosplay-01.jpg" alt="Cosplay as embodied practice: Scaramouche">
+  <figcaption>
+    <strong>Figure 1.</strong>
     Embodied interpretation of a Japanese ACG character through costume design and performative posture, illustrating cosplay as an embodied research practice.
   </figcaption>
+  <div class="character-note">
+    <strong>Character portrayed:</strong> Scaramouche (from <em>Genshin Impact</em>)<br>
+    <strong>キャラクター：</strong> 散兵（『原神』）
+  </div>
 </figure>
 
-<figure style="margin: 18px 0;">
-  <img src="/assets/img/cosplay-02.jpg"
-       alt="Cosplay as embodied practice 2"
-       style="max-width: 100%; border-radius: 14px;">
-  <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
-    <strong>Figure 3.</strong>
+<!-- Cosplay 02 -->
+<figure class="research-figure">
+  <img src="assets/img/cosplay-02.jpg" alt="Cosplay as embodied practice: Gojo Satoru">
+  <figcaption>
+    <strong>Figure 2.</strong>
     Character embodiment and pose-based performance in offline fan events, highlighting identity performance within Japanese subcultural contexts.
   </figcaption>
+  <div class="character-note">
+    <strong>Character portrayed:</strong> Satoru Gojo (from <em>Jujutsu Kaisen</em>)<br>
+    <strong>キャラクター：</strong> 五条悟（『呪術廻戦』）
+  </div>
 </figure>
 
-<figure style="margin: 18px 0;">
-  <img src="/assets/img/cosplay-03.jpg"
-       alt="Cosplay as embodied practice 3"
-       style="max-width: 100%; border-radius: 14px;">
-  <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
-    <strong>Figure 4.</strong>
+<!-- Cosplay 03 -->
+<figure class="research-figure">
+  <img src="assets/img/cosplay-03.jpg" alt="Cosplay as embodied practice: Fern">
+  <figcaption>
+    <strong>Figure 3.</strong>
     Public presentation of ACG characters as materialized cultural figures, emphasizing fan labor and affective engagement.
   </figcaption>
+  <div class="character-note">
+    <strong>Character portrayed:</strong> Fern (from <em>Frieren: Beyond Journey’s End</em>)<br>
+    <strong>キャラクター：</strong> フェルン（『葬送のフリーレン』）
+  </div>
+</figure>
+
+<!-- Anime Song Performance -->
+<figure class="research-figure">
+  <img src="assets/img/anison-01.jpg" alt="Anime song performance as affective practice">
+  <figcaption>
+    <strong>Figure 4.</strong>
+    Performance-based engagement with Japanese anime music as an affective and auditory mode of participation within ACG culture.
+  </figcaption>
+  <div class="character-note">
+    <strong>Song performed:</strong> “Secret Base ~Kimi ga Kureta Mono~”, theme song of <em>Anohana: The Flower We Saw That Day</em><br>
+    <strong>楽曲：</strong>「Secret Base ～君がくれたもの～」（『あの日見た花の名前を僕達はまだ知らない。』主題歌）
+  </div>
 </figure>
