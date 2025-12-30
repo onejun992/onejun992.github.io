@@ -411,9 +411,7 @@ main.ap-main details > summary strong{
 ">
   Practice-based Research →
 </a>
-    ">
-      Practice-based Research →
-    </a>
+    ">    
   </div>
 
 </div>
