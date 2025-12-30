@@ -390,6 +390,20 @@ main.ap-main details > summary strong{
 <div class="ap-links">
   <a href="/cv/">CV</a> ·
   <a href="/publications/">Publications</a>
+
+  <a href="/practice/" style="
+    display: inline-block;
+    margin-left: 12px;
+    padding: 7px 12px;
+    font-size: 0.9em;
+    font-weight: 650;
+    border: 1px solid #222;
+    border-radius: 999px;
+    background: #fafafa;
+    text-decoration: none;
+  ">
+    ★ Explore Practice-based Research
+  </a>
 </div>
 
 <div class="ap-profile-block">
