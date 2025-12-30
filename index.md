@@ -409,7 +409,7 @@ main.ap-main details > summary strong{
   margin-left: auto;
   display: inline-flex;
   align-items: center;
-  gap: 6px;
+  gap: 4px;
   padding: 3px 10px;
   font-size: 0.82em;
   font-weight: 650;
@@ -425,7 +425,6 @@ main.ap-main details > summary strong{
   min-width: 0;
   flex: 0 1 auto;
 ">
-  <span style="font-size: 0.9em; flex: 0 0 auto;">★</span>
 
   <span style="
     overflow: hidden;
