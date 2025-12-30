@@ -409,8 +409,6 @@ main.ap-main details > summary strong{
 
 </div>
 
-<div style="clear: both;"></div>
-
 <div class="ap-profile-block">
 
   <!-- 1) Research focus -->
@@ -483,14 +481,6 @@ main.ap-main details > summary strong{
      target="_blank" rel="noopener noreferrer">
     <i class="fa-brands fa-orcid"></i>
     <span>ORCID</span>
-  </a>
-</li>
-
-<li>
-  <a href="https://x.com/hibiki_v2022"
-     target="_blank" rel="noopener noreferrer">
-    <i class="fa-brands fa-x-twitter"></i>
-    <span>X (Twitter)</span>
   </a>
 </li>
 
