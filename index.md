@@ -403,28 +403,26 @@ main.ap-main details > summary strong{
       ACG culture
     </div>
   </div>
-<div class="ap-section">
-  <div style="
-    margin-top: 16px;
-    padding: 12px 14px;
-    border-left: 4px solid #222;
-    background: #fafafa;
+<div style="
+  margin-top: 16px;
+  padding: 12px 14px;
+  border-left: 4px solid #222;
+  background: #fafafa;
+">
+  <strong style="font-size: 1.05em;">
+    Practice-based Research
+  </strong><br>
+  <span style="font-size: 0.95em; color: #444;">
+    Embodied and platform-based research on Japanese ACG culture
+  </span><br>
+  <a href="/practice/" style="
+    display: inline-block;
+    margin-top: 4px;
+    font-size: 0.95em;
+    font-weight: 500;
   ">
-    <strong style="font-size: 1.05em;">
-      Practice-based Research
-    </strong><br>
-    <span style="font-size: 0.95em; color: #444;">
-      Embodied and platform-based research on Japanese ACG culture
-    </span><br>
-    <a href="/practice/" style="
-      display: inline-block;
-      margin-top: 4px;
-      font-size: 0.95em;
-      font-weight: 500;
-    ">
-      → Explore practice-based research framework
-    </a>
-  </div>
+    → Explore practice-based research framework
+  </a>
 </div>
 
   <!-- 2) Academic Background -->
