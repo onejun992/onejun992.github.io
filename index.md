@@ -410,8 +410,7 @@ main.ap-main details > summary strong{
   line-height: 1.2;
 ">
   Practice-based Research →
-</a>
-    ">    
+</a>  
   </div>
 
 </div>
