@@ -409,6 +409,8 @@ main.ap-main details > summary strong{
 
 </div>
 
+<div style="clear: both;"></div>
+
 <div class="ap-profile-block">
 
   <!-- 1) Research focus -->
