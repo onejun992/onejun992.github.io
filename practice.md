@@ -20,7 +20,7 @@ This embodied practice is further integrated with my research on digital and pla
   </p>
 
   <figure style="margin: 16px 0;">
-    <img src="/assets/img/cosplay/vtuber-01.png"
+    <img src="/assets/img/vtuber-01.png"
          alt="V-Tuber practice on Bilibili"
          style="max-width: 100%; border-radius: 14px;">
     <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
@@ -41,7 +41,7 @@ Together, cosplay, virtual streaming, and anime song performance form a coherent
 ## Visual Documentation (Selected)
 
 <figure style="margin: 18px 0;">
-  <img src="/assets/img/cosplay/cosplay-01.jpg"
+  <img src="/assets/img/cosplay-01.jpg"
        alt="Cosplay as embodied practice 1"
        style="max-width: 100%; border-radius: 14px;">
   <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
@@ -51,7 +51,7 @@ Together, cosplay, virtual streaming, and anime song performance form a coherent
 </figure>
 
 <figure style="margin: 18px 0;">
-  <img src="/assets/img/cosplay/cosplay-02.jpg"
+  <img src="/assets/img/cosplay-02.jpg"
        alt="Cosplay as embodied practice 2"
        style="max-width: 100%; border-radius: 14px;">
   <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
@@ -61,7 +61,7 @@ Together, cosplay, virtual streaming, and anime song performance form a coherent
 </figure>
 
 <figure style="margin: 18px 0;">
-  <img src="/assets/img/cosplay/cosplay-03.jpg"
+  <img src="/assets/img/cosplay-03.jpg"
        alt="Cosplay as embodied practice 3"
        style="max-width: 100%; border-radius: 14px;">
   <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
