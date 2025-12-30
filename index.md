@@ -396,12 +396,21 @@ main.ap-main details > summary strong{
   </div>
 
   <div style="margin-top:6px;">
-    <a href="/practice/" style="
-      display:inline-block;
-      white-space:nowrap;
-      font-size:0.9em;
-      font-weight:650;
-      text-decoration:none;
+   <a href="/practice/" style="
+  display: inline-block;
+  white-space: nowrap;
+  font-size: 0.88em;
+  font-weight: 600;
+  padding: 3px 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #fafafa;
+  color: #000;
+  text-decoration: none;
+  line-height: 1.2;
+">
+  Practice-based Research →
+</a>
     ">
       Practice-based Research →
     </a>
