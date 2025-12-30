@@ -416,7 +416,8 @@ main.ap-main details > summary strong{
     background: #fafafa;
     text-decoration: none;
     white-space: nowrap;
-    max-width: 42vw;
+    max-width: 56vw;
+    min-width: 170px;
     overflow: hidden;
     text-overflow: ellipsis;
     line-height: 1.2;
