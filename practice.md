@@ -24,7 +24,7 @@ This embodied practice is further integrated with my research on digital and pla
          alt="V-Tuber practice on Bilibili"
          style="max-width: 100%; border-radius: 14px;">
     <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
-      <strong>Figure 4.</strong>
+      <strong>Figure 1.</strong>
       Screenshot from V-Tuber practice on Bilibili, illustrating virtual embodiment, real-time audience interaction, and platform-mediated performance within Japanese ACG culture.
     </figcaption>
   </figure>
@@ -45,7 +45,7 @@ Together, cosplay, virtual streaming, and anime song performance form a coherent
        alt="Cosplay as embodied practice 1"
        style="max-width: 100%; border-radius: 14px;">
   <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
-    <strong>Figure 1.</strong>
+    <strong>Figure 2.</strong>
     Embodied interpretation of a Japanese ACG character through costume design and performative posture, illustrating cosplay as an embodied research practice.
   </figcaption>
 </figure>
@@ -55,7 +55,7 @@ Together, cosplay, virtual streaming, and anime song performance form a coherent
        alt="Cosplay as embodied practice 2"
        style="max-width: 100%; border-radius: 14px;">
   <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
-    <strong>Figure 2.</strong>
+    <strong>Figure 3.</strong>
     Character embodiment and pose-based performance in offline fan events, highlighting identity performance within Japanese subcultural contexts.
   </figcaption>
 </figure>
@@ -65,7 +65,7 @@ Together, cosplay, virtual streaming, and anime song performance form a coherent
        alt="Cosplay as embodied practice 3"
        style="max-width: 100%; border-radius: 14px;">
   <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
-    <strong>Figure 3.</strong>
+    <strong>Figure 4.</strong>
     Public presentation of ACG characters as materialized cultural figures, emphasizing fan labor and affective engagement.
   </figcaption>
 </figure>
