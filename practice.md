@@ -22,21 +22,32 @@ Together, cosplay, virtual streaming, and anime song performance form a coherent
 
 ## Visual Documentation (Selected)
 
-> The following images are presented as visual documentation for embodied practice-based research. Each figure includes a brief analytical caption (research context and focus).
-
-<!-- 下面是照片占位区：等你把图片放进仓库后，把文件名换掉就行 -->
-<figure>
-  <img src="/assets/img/cosplay/figure-01.jpg" alt="Cosplay documentation figure 1" style="max-width: 100%; border-radius: 12px;">
-  <figcaption style="margin-top: 8px; font-size: 0.95em;">
-    <strong>Figure 1.</strong> Embodied interpretation of a Japanese ACG character through costume design and performative posture, highlighting the materialization of fictional identity in offline fan events.
+<figure style="margin: 18px 0;">
+  <img src="/assets/img/cosplay/cosplay-01.jpg"
+       alt="Cosplay as embodied practice 1"
+       style="max-width: 100%; border-radius: 14px;">
+  <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
+    <strong>Figure 1.</strong>
+    Embodied interpretation of a Japanese ACG character through costume design and performative posture, illustrating cosplay as an embodied research practice.
   </figcaption>
 </figure>
 
-<br>
+<figure style="margin: 18px 0;">
+  <img src="/assets/img/cosplay/cosplay-02.jpg"
+       alt="Cosplay as embodied practice 2"
+       style="max-width: 100%; border-radius: 14px;">
+  <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
+    <strong>Figure 2.</strong>
+    Character embodiment and pose-based performance in offline fan events, highlighting identity performance within Japanese subcultural contexts.
+  </figcaption>
+</figure>
 
-<figure>
-  <img src="/assets/img/cosplay/figure-02.jpg" alt="Cosplay documentation figure 2" style="max-width: 100%; border-radius: 12px;">
-  <figcaption style="margin-top: 8px; font-size: 0.95em;">
-    <strong>Figure 2.</strong> Public presentation and audience-facing performance as a site of participatory culture, where character embodiment and fan interaction intersect.
+<figure style="margin: 18px 0;">
+  <img src="/assets/img/cosplay/cosplay-03.jpg"
+       alt="Cosplay as embodied practice 3"
+       style="max-width: 100%; border-radius: 14px;">
+  <figcaption style="margin-top: 8px; font-size: 0.95em; line-height: 1.6;">
+    <strong>Figure 3.</strong>
+    Public presentation of ACG characters as materialized cultural figures, emphasizing fan labor and affective engagement.
   </figcaption>
 </figure>
