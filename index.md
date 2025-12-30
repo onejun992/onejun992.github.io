@@ -390,19 +390,21 @@ main.ap-main details > summary strong{
 <div class="ap-links">
   <a href="/cv/">CV</a> ·
   <a href="/publications/">Publications</a>
-
   <a href="/practice/" style="
     display: inline-block;
-    margin-left: 12px;
-    padding: 7px 12px;
-    font-size: 0.9em;
-    font-weight: 650;
-    border: 1px solid #222;
-    border-radius: 999px;
-    background: #fafafa;
+    margin-left: 10px;
+    padding: 2px 8px;
+    font-size: 0.82em;
+    font-weight: 600;
+    border: 1px solid #bbb;
+    border-radius: 10px;
+    background: transparent;
     text-decoration: none;
+    vertical-align: baseline;
+    white-space: nowrap;
+    line-height: 1.2;
   ">
-    ★ Explore Practice-based Research
+    Practice-based Research →
   </a>
 </div>
 
