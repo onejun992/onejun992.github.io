@@ -387,25 +387,45 @@ main.ap-main details > summary strong{
   <h1 class="ap-name">Peng Yuanjun</h1>
   <div class="ap-name-krjp">팽원균 · ほうげんきん(彭塬鈞)</div>
 </div>
-<div class="ap-links">
-  <a href="/cv/">CV</a> ·
-  <a href="/publications/">Publications</a>
+<div class="ap-links" style="
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+">
+
+  <!-- Left: CV / Publications -->
+  <div style="display:flex; align-items:center; gap:8px; white-space:nowrap;">
+    <a href="/cv/">CV</a>
+    <span style="opacity:.6;">·</span>
+    <a href="/publications/">Publications</a>
+  </div>
+
+  <!-- Right: Practice-based Research (featured) -->
   <a href="/practice/" style="
-    display: inline-block;
-    margin-left: 10px;
-    padding: 2px 8px;
+    margin-left: auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 10px;
     font-size: 0.82em;
-    font-weight: 600;
+    font-weight: 650;
     border: 1px solid #bbb;
-    border-radius: 10px;
-    background: transparent;
+    border-radius: 999px;
+    background: #fafafa;
     text-decoration: none;
-    vertical-align: baseline;
     white-space: nowrap;
+    max-width: 42vw;
+    overflow: hidden;
+    text-overflow: ellipsis;
     line-height: 1.2;
   ">
-    Practice-based Research →
+    <span style="font-size: 0.9em;">★</span>
+    <span>Practice-based Research</span>
+    <span style="opacity:.7;">→</span>
   </a>
+
 </div>
 
 <div class="ap-profile-block">
