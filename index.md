@@ -393,6 +393,8 @@ main.ap-main details > summary strong{
   gap: 8px;
   flex-wrap: nowrap;
   white-space: nowrap;
+  max-width: 100%;
+  overflow: hidden;
 ">
 
   <!-- Left: CV / Publications -->
@@ -403,29 +405,37 @@ main.ap-main details > summary strong{
   </div>
 
   <!-- Right: Practice-based Research (featured) -->
-  <a href="/practice/" style="
-    margin-left: auto;
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    padding: 3px 10px;
-    font-size: 0.82em;
-    font-weight: 650;
-    border: 1px solid #bbb;
-    border-radius: 999px;
-    background: #fafafa;
-    text-decoration: none;
-    white-space: nowrap;
-    max-width: 56vw;
-    min-width: 170px;
+ <a href="/practice/" style="
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 10px;
+  font-size: 0.82em;
+  font-weight: 650;
+  border: 1px solid #bbb;
+  border-radius: 999px;
+  background: #fafafa;
+  text-decoration: none;
+  line-height: 1.2;
+  white-space: nowrap;
+
+  /* prevent overflow in narrow left column */
+  max-width: 60%;
+  min-width: 0;
+  flex: 0 1 auto;
+">
+  <span style="font-size: 0.9em; flex: 0 0 auto;">★</span>
+
+  <span style="
     overflow: hidden;
     text-overflow: ellipsis;
-    line-height: 1.2;
-  ">
-    <span style="font-size: 0.9em;">★</span>
-    <span>Practice-based Research</span>
-    <span style="opacity:.7;">→</span>
-  </a>
+    white-space: nowrap;
+    min-width: 0;
+  ">Practice-based Research</span>
+
+  <span style="opacity:.7; flex: 0 0 auto;">→</span>
+</a>
 
 </div>
 
