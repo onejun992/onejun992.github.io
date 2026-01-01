@@ -726,11 +726,17 @@ More broadly, my research aims to explore how cultural contents are produced, tr
   Embassy of the People’s Republic of China in the Republic of Korea  
   (Mar 2021 – Jun 2021)
 
-- **President**,  
+- **President (6th Term)**,  
   Sangmyung University Chinese Students and Scholars Association (SMUCSSA),  
   under the guidance of the Education Section,  
   Embassy of the People’s Republic of China in the Republic of Korea  
-  (Jul 2021 – May 2022)
+  (Jul 2021 – May 2022)  
+  *(Official election announcement: https://mp.weixin.qq.com/s/Ym-ubGgLLlgHEIrR4BSEDQ)*
+
+  Following the transition into doctoral studies in March 2022 and increasing academic commitments, voluntarily stepped down from the presidential role. Subsequently facilitated a structured leadership transition by formally endorsing the then Secretary-General—whom I had previously mentored—as the succeeding President, as documented in the official leadership transition meeting  
+  *(https://mp.weixin.qq.com/s/AtlP3RDXTQEWRYuK_CGzxg)*.  
+  
+  *Following the transition into doctoral studies in March 2022 and increasing academic commitments, voluntarily stepped down from the presidential role. Subsequently facilitated a structured leadership transition by formally endorsing the Secretary-General—whom I had previously mentored—as the succeeding President, while continuing to support the association in a Vice Presidential and advisory capacity until mid-2025, fully concluding involvement upon the graduation of the 7th-term President.*
 
 **Summary:** Demonstrated progressive leadership development, academic service experience, organizational management, and cross-cultural coordination within university and official educational frameworks.
 
