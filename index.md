@@ -720,7 +720,7 @@ More broadly, my research aims to explore how cultural contents are produced, tr
   Led and coordinated a representative team participating in the university-wide  
   creative contents exhibition competition on behalf of the department.
 
-- **Director (5th Term)**,  
+- **Director**,  
   Sangmyung University Chinese Students and Scholars Association (SMUCSSA),  
   affiliated with the Education Section, 
   of the Embassy of the People’s Republic of China in the Republic of Korea
