@@ -720,16 +720,16 @@ More broadly, my research aims to explore how cultural contents are produced, tr
   Led and coordinated a representative team participating in the university-wide  
   creative contents exhibition competition on behalf of the department.
 
-- **Director**,  
+- **Director (5th Term)**,  
   Sangmyung University Chinese Students and Scholars Association (SMUCSSA),  
-  under the guidance of the Education Section,  
-  Embassy of the People’s Republic of China in the Republic of Korea  
+  affiliated with the Education Section, 
+  of the Embassy of the People’s Republic of China in the Republic of Korea
   (Mar 2021 – Jun 2021)
 
 - **President (6th Term)**,  
   Sangmyung University Chinese Students and Scholars Association (SMUCSSA),  
-  under the guidance of the Education Section,  
-  Embassy of the People’s Republic of China in the Republic of Korea  
+  affiliated with the Education Section, 
+  of the Embassy of the People’s Republic of China in the Republic of Korea  
   (Jul 2021 – May 2022)  
   *(Official election announcement: https://mp.weixin.qq.com/s/Ym-ubGgLLlgHEIrR4BSEDQ)*
 
