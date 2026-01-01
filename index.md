@@ -390,12 +390,7 @@ main.ap-main details > summary strong{
 <div class="ap-links" style="max-width:100%;">
 
  <!-- CV & Publications -->
-<div style="
-  display:flex;
-  gap:10px;
-  flex-wrap:wrap;
-  white-space:nowrap;
-">
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
 
   <a href="/cv/" style="
     display:inline-block;
@@ -409,9 +404,8 @@ main.ap-main details > summary strong{
     text-decoration:none;
     line-height:1.2;
     box-shadow:0 2px 6px rgba(0,0,0,0.05);
-  ">
-    CV
-  </a>
+    white-space:nowrap;
+  ">CV</a>
 
   <a href="/publications/" style="
     display:inline-block;
@@ -425,9 +419,8 @@ main.ap-main details > summary strong{
     text-decoration:none;
     line-height:1.2;
     box-shadow:0 2px 6px rgba(0,0,0,0.05);
-  ">
-    Publications
-  </a>
+    white-space:nowrap;
+  ">Publications</a>
 
 </div>
 
@@ -454,7 +447,10 @@ main.ap-main details > summary strong{
   </a>
 </div>
 
+<!-- Profile block (make sure it's CLOSED) -->
 <div class="ap-profile-block">
+  <!-- 你的 Research Profile 正文放这里 -->
+</div>
 
   <!-- 1) Research focus -->
   <div class="ap-section ap-focus">
