@@ -500,11 +500,11 @@ main.ap-main details > summary strong{
   <!-- 1) Research focus -->
   <div class="ap-section ap-focus">
     <div class="ap-label">Research Focus</div>
-    <div class="ap-value ap-tags">
+   <div class="ap-value ap-tags">
   <span class="ap-tag">Cultural Contents</span>
-  <span class="ap-tag ap-tag-main">Japanese Subculture</span>
-  <span class="ap-tag">ACG Culture</span>
-    </div>
+  <span class="ap-tag">Cultural Hybridity</span>
+  <span class="ap-tag">Japanese Subculture · ACG Culture</span>
+</div>
   </div>
 
   <!-- 2) Academic Background -->
