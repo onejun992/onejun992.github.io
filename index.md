@@ -389,30 +389,69 @@ main.ap-main details > summary strong{
 </div>
 <div class="ap-links" style="max-width:100%;">
 
-  <div style="white-space:nowrap;">
-    <a href="/cv/">CV</a>
-    <span style="opacity:.6;">·</span>
-    <a href="/publications/">Publications</a>
-  </div>
-
-  <div style="margin-top:6px;">
-   <a href="/practice/" style="
-  display: inline-block;
-  white-space: nowrap;
-  font-size: 0.88em;
-  font-weight: 600;
-  padding: 3px 8px;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  background: #fafafa;
-  color: #000;
-  text-decoration: none;
-  line-height: 1.2;
+ <!-- CV & Publications -->
+<div style="
+  display:flex;
+  gap:10px;
+  flex-wrap:wrap;
+  white-space:nowrap;
 ">
-  Practice-based Research →
-</a>  
-  </div>
 
+  <a href="/cv/" style="
+    display:inline-block;
+    font-size:0.88em;
+    font-weight:600;
+    padding:4px 10px;
+    border:1px solid #ccc;
+    border-radius:8px;
+    background:#fff;
+    color:#000;
+    text-decoration:none;
+    line-height:1.2;
+    box-shadow:0 2px 6px rgba(0,0,0,0.05);
+  ">
+    CV
+  </a>
+
+  <a href="/publications/" style="
+    display:inline-block;
+    font-size:0.88em;
+    font-weight:600;
+    padding:4px 10px;
+    border:1px solid #ccc;
+    border-radius:8px;
+    background:#fff;
+    color:#000;
+    text-decoration:none;
+    line-height:1.2;
+    box-shadow:0 2px 6px rgba(0,0,0,0.05);
+  ">
+    Publications
+  </a>
+
+</div>
+
+<!-- Practice-based Research -->
+<div style="margin-top:10px;">
+  <a href="/practice/" style="
+    display:inline-block;
+    white-space:nowrap;
+    font-size:0.9em;
+    font-weight:600;
+    padding:5px 12px;
+    border:1.5px solid #111;
+    border-radius:999px;
+    background:#fff;
+    color:#111;
+    text-decoration:none;
+    line-height:1.2;
+    transition:all .25s ease;
+  "
+  onmouseover="this.style.background='#111';this.style.color='#fff';"
+  onmouseout="this.style.background='#fff';this.style.color='#111';"
+  >
+    Practice-based Research →
+  </a>
 </div>
 
 <div class="ap-profile-block">
