@@ -392,7 +392,31 @@ main.ap-main details > summary strong{
 .pub-alt-title .pub-en{ letter-spacing: 0.01em; }
 .pub-alt-title .pub-ja{ letter-spacing: 0.02em; }
 .pub-alt-title .pub-zh{ letter-spacing: 0.04em; }
-  
+
+/* ===== Research Focus tags (square, academic) ===== */
+
+.ap-tags{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.ap-tag{
+  font-size: 0.85em;
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;   /* 方角 */
+  background: #fff;
+  line-height: 1.2;
+  font-weight: 400;
+  color: #111;
+}
+
+.ap-tag-main{
+  border-color: #ddd;   /* 不再突出边框 */
+  font-weight: 500;     /* 轻微强调即可 */
+}
+
 </style>
 
 <div class="ap-wrap">
