@@ -8,6 +8,27 @@
     --muted: #666;
     --line: #e9e9e9;
   }
+  
+  /* ===== Research Focus tags ===== */
+.ap-tags{
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px;
+}
+
+.ap-tag{
+  font-size:.85em;
+  padding:3px 8px;
+  border:1px solid #ddd;
+  border-radius:999px;
+  background:#fafafa;
+  line-height:1.2;
+}
+
+.ap-tag-main{
+  border-color:#111;
+  font-weight:600;
+}
 
   /* ===== Academic Pages-like layout ===== */
   .ap-wrap{
@@ -455,10 +476,10 @@ main.ap-main details > summary strong{
   <!-- 1) Research focus -->
   <div class="ap-section ap-focus">
     <div class="ap-label">Research Focus</div>
-    <div class="ap-value">
-      Cultural Contents<br>
-      Japanese subculture<br>
-      ACG culture
+    <div class="ap-value ap-tags">
+  <span class="ap-tag">Cultural Contents</span>
+  <span class="ap-tag ap-tag-main">Japanese Subculture</span>
+  <span class="ap-tag">ACG Culture</span>
     </div>
   </div>
 
