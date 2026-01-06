@@ -501,7 +501,7 @@ main.ap-main details > summary strong{
   <div class="ap-section ap-focus">
     <div class="ap-label">Research Focus</div>
    <div class="ap-value ap-tags">
-  <span class="ap-tag">Cultural Contents</span>
+  <span class="ap-tag">Cultural Content</span>
   <span class="ap-tag">Cultural Hybridity</span>
   <span class="ap-tag">Japanese Subculture · ACG Culture</span>
 </div>
@@ -511,7 +511,7 @@ main.ap-main details > summary strong{
 <div class="ap-section ap-academic-bg">
   <div class="ap-label">ACADEMIC BACKGROUND</div>
   <div class="ap-value">
-    Major in Cultural Contents
+    Major in Cultural Content
   </div>
 </div>
 
@@ -578,16 +578,16 @@ main.ap-main details > summary strong{
 
 ## Research Profile
 
-I received my Ph.D. in Cultural Contents from the Department of Global Cultural Contents at Sangmyung University, Korea.
+I received my Ph.D. in Cultural Contents from the Department of Global Culture Contents at Sangmyung University, Korea.
 
-My primary field of research is Cultural Contents Studies, with cultural hybridity theory and its perspectives forming the core theoretical framework of my research.
+My primary field of research is Cultural Content Studies, with cultural hybridity theory and its perspectives forming the core theoretical framework of my research.
 I focus in particular on Japanese subculture, otaku culture, and two-dimensional · ACG (animation, comics, and games) cultural contents.
 
 Within the socio-cultural context of East Asia and the contemporary new media environment, my research pays close attention to the relationships of integration between subculture and mainstream culture,
 as well as to phenomena of cultural export and reversed cultural flows of cultural contents,
 and analyzes processes of cultural transition and transformation such as globalization, glocalization, and hybridization.
 
-From the perspective of cultural contents re-creation and the reconstruction of meaning,
+From the perspective of cultural content re-creation and the reconstruction of meaning,
 I conduct in-depth analysis and interpretation of cultural commodities and media contents.
 
 ---
@@ -675,7 +675,7 @@ I conduct in-depth analysis and interpretation of cultural commodities and media
 
 ## Research Background
 
-My academic interest lies in cultural contents studies, with a particular focus on ACG (Animation, Comics, and Games) cultures and cultural hybridity in East Asia. My research is grounded in long-term engagement with Japanese popular culture and its transnational circulation, especially within contemporary Chinese digital media environments.
+My academic interest lies in cultural content studies, with a particular focus on ACG (Animation, Comics, and Games) cultures and cultural hybridity in East Asia. My research is grounded in long-term engagement with Japanese popular culture and its transnational circulation, especially within contemporary Chinese digital media environments.
 
 I conceptualize culture as a dynamic and bidirectional process rather than a one-way flow from dominant to peripheral regions. Cultural exchange often involves reciprocal influence, conflict, negotiation, and eventual hybridization, producing new cultural forms and meanings. This perspective has guided my interest in cultural hybridity as a key analytical framework.
 
@@ -745,17 +745,17 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
 ## Education
 
-- **Ph.D. in Global Cultural Contents**,  
+- **Ph.D. in Global Culture Contents**,  
   Graduate School of Humanities and Social Sciences,  
   Sangmyung University, Seoul, South Korea  
   *(Originally enrolled in the M.A. program; formally transferred to the integrated M.A.–Ph.D. track)*  
   (Mar 2022 – Feb 2026)
 
-- **M.A. coursework in Global Cultural Contents**,  
+- **M.A. coursework in Global Culture Contents**,  
   Graduate School of Humanities and Social Sciences,  
   Sangmyung University, Seoul, South Korea (Sep 2020 – Feb 2022)
 
-- **B.A. in Korean–Japanese Cultural Contents**,  
+- **B.A. in Korea-Japan Cultural Content**,  
   College of Humanities and Social Sciences,  
   Sangmyung University, Seoul, South Korea (Sep 2016 – Aug 2020)
 
