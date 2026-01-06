@@ -625,7 +625,7 @@ I conduct in-depth analysis and interpretation of cultural commodities and media
   <div class="lang-ja">
     <p>
       本人は韓国・祥明大学グローバル文化コンテンツ学科文化コンテンツ学専攻にて博士号を取得した。
-      主な研究分野は文化コンテンツ学であり、文化的混種に関する理論およびその見解を研究の中核的な理論枠組として位置づける。
+      主な研究分野は文化コンテンツ学であり、文化的な混種に関する理論およびその見解を研究の中核的な理論枠組として位置づける。
       研究方向は日本のサブカルチャー、御宅文化、ならびに二次元 · ACG（动画·漫画·游戏）の文化内容に集中する。
     </p>
 
@@ -637,7 +637,7 @@ I conduct in-depth analysis and interpretation of cultural commodities and media
     </p>
 
     <p>
-      文化的混種に関する理論およびその見解に基づき、
+      文化的な混種に関する理論およびその見解に基づき、
       文化内容の再創造と意味重構の観点から、
       文化商品および媒体内容を深層的に分析・解釈する。
     </p>
@@ -695,7 +695,7 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
   > *A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity: Focusing on “Pay New Year's call period” (Lunar New Year Gala)*  
 
-  > *文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――  
+  > *文化的な混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――  
   > 「拜年紀（Bainianji）」を中心に――*  
 
   > *文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心*  
@@ -713,7 +713,7 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
   > *A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity: Focusing on “Pay New Year's call period” (Lunar New Year Gala)*  
 
-  > *文化的混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――  
+  > *文化的な混種性の観点からみた中国動画プラットフォームBilibiliに関する考察――  
   > 「拜年紀（Bainianji）」を中心に――*  
 
   > *文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心*  
