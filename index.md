@@ -745,7 +745,7 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
 ## Education
 
-- **Ph.D. in Global Culture Contents**,  
+- **Ph.D.(D.A.) in Global Culture Contents**,  
   Graduate School of Humanities and Social Sciences,  
   Sangmyung University, Seoul, South Korea  
   *(Originally enrolled in the M.A. program; formally transferred to the integrated M.A.–Ph.D. track)*  
