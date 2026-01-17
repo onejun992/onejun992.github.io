@@ -735,27 +735,37 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
   *Proceedings of the Korean Cultural Contents Joint Academic Conference*.
 
-### Doctoral Dissertation
+- **Ph.D. Dissertation**
+  (2026).  
+  Sangmyung University, Graduate School, Seoul, South Korea.  
 
-- **Ph.D. Dissertation**  
-  Sangmyung University, Seoul, South Korea.  
-  (Details forthcoming)
+  중국 동영상 플랫폼 비리비리(bilibili) 세배기(拜年紀) 형성의 문화적 함의에 대한 연구  
+  – 일본 서브컬쳐의 수용에서 중국 주류문화로의 이행까지 –
+
+  > *A Study on the Cultural Implications of the Formation of the Bilibili's Lunar New Year Gala on Chinese Video Platform*  
+  > *– From the acceptance of Japanese subculture to the transition into Chinese mainstream culture –*
+
+  > *中国動画プラットフォームBilibiliにおける「拜年紀（Lunar New Year Gala）」形成の文化的含意に関する研究*  
+  > *— 日本サブカルチャーの受容から中国主流文化への移行まで —*
+
+  > *中国视频平台哔哩哔哩（bilibili）“拜年纪”形成的文化意涵研究*  
+  > *—— 从日本亚文化的受容到中国主流文化的移行 ——*
 
 ---
 
 ## Education
 
-- **Ph.D.(D.A.) in Global Culture Contents**,  
+- **Ph.D.(D.A.) in Global Culture Contents** 
   Graduate School of Humanities and Social Sciences,  
   Sangmyung University, Seoul, South Korea  
   *(Originally enrolled in the M.A. program; formally transferred to the integrated M.A.–Ph.D. track)*  
   (Mar 2022 – Feb 2026)
 
-- **M.A. coursework in Global Culture Contents**,  
+- **M.A. coursework in Global Culture Contents** 
   Graduate School of Humanities and Social Sciences,  
   Sangmyung University, Seoul, South Korea (Sep 2020 – Feb 2022)
 
-- **B.A. in Korea-Japan Cultural Content**,  
+- **B.A. in Korea-Japan Cultural Content** 
   College of Humanities and Social Sciences,  
   Sangmyung University, Seoul, South Korea (Sep 2016 – Aug 2020)
 
