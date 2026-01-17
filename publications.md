@@ -299,7 +299,7 @@ details[open].pub-lang > summary::before{content:"▾";}
           <div class="pub-lang-line">
             <strong>CN</strong> 中国视频平台哔哩哔哩（bilibili）“拜年纪”形成的文化含意研究
             <br>
-            —— 从日本亚文化的受容到中国主流文化的移行 ——
+            — 从日本亚文化的受容到中国主流文化的移行 —
           </div>
         </div>
       </details>
