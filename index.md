@@ -735,8 +735,8 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
   *Proceedings of the Korean Cultural Contents Joint Academic Conference*.
 
-- **Ph.D. Dissertation**
-  (2026).  
+- **Ph.D. Dissertation**  
+  (2026)  
   Sangmyung University, Graduate School, Seoul, South Korea.  
 
   중국 동영상 플랫폼 비리비리(bilibili) 세배기(拜年紀) 형성의 문화적 함의에 대한 연구  
@@ -750,7 +750,7 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
   > *中国视频平台哔哩哔哩（bilibili）“拜年纪”形成的文化意涵研究*  
   > *—— 从日本亚文化的受容到中国主流文化的移行 ——*
-
+ 
 ---
 
 ## Education
