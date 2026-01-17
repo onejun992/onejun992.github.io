@@ -261,19 +261,48 @@ details[open].pub-lang > summary::before{content:"▾";}
     </div>
   </div>
 
-  <div class="pub-sec">
+   <div class="pub-sec">
     <h2>Doctoral Dissertation</h2>
 
     <div class="pub-item">
+      <!-- EN (main) -->
       <div class="pub-auth">
-        Ph.D. Dissertation. <span class="pub-year">(Details forthcoming)</span>
+        Peng, Yuanjun (팽원균). <span class="pub-year">(2026)</span>
       </div>
+
       <div class="pub-title">
-        Sangmyung University, Seoul, South Korea.
+        A Study on the Cultural Implications of the Formation of the Bilibili’s Lunar New Year Gala on Chinese Video Platform
+        <br>
+        – From the acceptance of Japanese subculture to the transition into Chinese mainstream culture –
       </div>
+
       <div class="pub-venue">
-        (Title and repository link will be added after final confirmation.)
+        Doctoral Dissertation (Doctor of Arts, D.A.) in Cultural Content,<br>
+        Sangmyung University, Graduate School, Seoul, South Korea.
       </div>
+
+      <details class="pub-lang">
+        <summary>Korean / Japanese / Chinese titles</summary>
+        <div class="pub-lang-box">
+          <div class="pub-lang-line">
+            <strong>KR</strong> 중국 동영상 플랫폼 비리비리(bilibili) 세배기(拜年紀) 형성의 문화적 함의에 대한 연구
+            <br>
+            – 일본 서브컬쳐의 수용에서 중국 주류문화로의 이행까지 –
+          </div>
+
+          <div class="pub-lang-line">
+            <strong>JP</strong> 中国動画プラットフォームBilibiliにおける「拜年紀（Lunar New Year Gala）」形成の文化的含意に関する研究
+            <br>
+            — 日本サブカルチャーの受容から中国主流文化への移行まで —
+          </div>
+
+          <div class="pub-lang-line">
+            <strong>CN</strong> 中国视频平台哔哩哔哩（bilibili）“拜年纪”形成的文化含意研究
+            <br>
+            —— 从日本亚文化的受容到中国主流文化的移行 ——
+          </div>
+        </div>
+      </details>
     </div>
   </div>
 
