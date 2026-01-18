@@ -726,8 +726,8 @@ More broadly, my research aims to explore how cultural contents are produced, tr
   (2022).  
   중국 동영상 플랫폼 비리비리(bilibili)와 ACG/2차원 문화의 관계성 고찰.  
 
-  > *Examining the Relationship between the Chinese Video Platform Bilibili and  
-  > ACG / Two-Dimensional Culture*  
+  > *A Study on the Relationship between the Chinese Video Platform Bilibili and  
+  > ACG / SubCulture*  
 
   > *中国動画プラットフォームBilibiliとACG／二次元文化の関係性に関する考察*  
 
