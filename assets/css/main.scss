@@ -76,3 +76,67 @@ $max-content-width: {{ site.max_width }};
 .cv-lang-download summary {
   margin-top: 0.3rem;
 }
+/* ===== Practice-based Research page polish ===== */
+
+.practice-page h1 {
+  margin-bottom: 1rem;
+  letter-spacing: -0.02em;
+}
+
+.practice-page h2 {
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+  letter-spacing: -0.01em;
+}
+
+.practice-page h3 {
+  margin-top: 1.6rem;
+  margin-bottom: 0.6rem;
+}
+
+.practice-page p {
+  line-height: 1.85;
+  margin: 0.7rem 0 1rem;
+  color: #2a2a2a;
+  max-width: 75ch;
+}
+
+.practice-lead {
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: #444;
+  max-width: 75ch;
+  margin: 0.8rem 0 1.4rem;
+}
+
+.practice-card {
+  border: 1px solid #e6e6e6;
+  border-radius: 16px;
+  padding: 1.2rem 1.2rem;
+  margin: 1.2rem 0 1.6rem;
+  background: #fff;
+}
+
+.practice-meta {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: -0.2rem;
+}
+
+.practice-kicker {
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #777;
+  margin-bottom: 0.4rem;
+}
+
+.practice-list {
+  margin: 0.6rem 0 1rem 1.2rem;
+  max-width: 75ch;
+}
+
+.practice-list li {
+  margin: 0.35rem 0;
+  line-height: 1.75;
+}
