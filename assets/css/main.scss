@@ -67,3 +67,12 @@ $max-content-width: {{ site.max_width }};
   background: #f5f5f5;
   border-color: #999;
 }
+/* ===== CV language block spacing ===== */
+
+.cv-lang-download {
+  margin-bottom: 1.4rem;
+}
+
+.cv-lang-download summary {
+  margin-top: 0.3rem;
+}
