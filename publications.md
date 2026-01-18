@@ -177,7 +177,7 @@ details[open].pub-lang > summary::before{content:"▾";}
       </div>
 
       <div class="pub-title">
-        A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:
+        A Study on Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:
         Focusing on “Pay New Year's call period” (Lunar New Year Gala).
       </div>
 
@@ -212,7 +212,7 @@ details[open].pub-lang > summary::before{content:"▾";}
       </div>
 
       <div class="pub-title">
-        A Study of the Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:
+        A Study on Chinese Video Platform Bilibili from the Perspective of Cultural Hybridity:
         Focusing on “Pay New Year's call period” (Lunar New Year Gala).
       </div>
 
@@ -243,7 +243,7 @@ details[open].pub-lang > summary::before{content:"▾";}
       </div>
 
       <div class="pub-title">
-  A Study on the Relationship between the Chinese Video Platform Bilibili and ACG / Subculture.
+  A Study on Relationship between the Chinese Video Platform Bilibili and ACG / Subculture.
 </div>
 
 <div class="pub-venue">
