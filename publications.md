@@ -243,21 +243,31 @@ details[open].pub-lang > summary::before{content:"▾";}
       </div>
 
       <div class="pub-title">
-        Examining the Relationship between the Chinese Video Platform Bilibili and ACG / Two-Dimensional Culture.
-      </div>
+  A Study on the Relationship between the Chinese Video Platform Bilibili and ACG / Subculture.
+</div>
 
-      <div class="pub-venue">
-        <em>Proceedings of the Korean Cultural Contents Joint Academic Conference</em>
-      </div>
+<div class="pub-venue">
+  <em>Proceedings of the Korean Cultural Contents Joint Academic Conference</em>
+</div>
 
-      <details class="pub-lang">
-        <summary>Korean / Japanese / Chinese titles</summary>
-        <div class="pub-lang-box">
-          <div class="pub-lang-line"><strong>KR</strong> 중국 동영상 플랫폼 비리비리(bilibili)와 ACG/2차원 문화의 관계성 고찰</div>
-          <div class="pub-lang-line"><strong>JP</strong> 中国動画プラットフォームBilibiliとACG／二次元文化の関係性に関する考察</div>
-          <div class="pub-lang-line"><strong>CN</strong> 中国视频平台哔哩哔哩（bilibili）与 ACG／二次元文化关系的考察</div>
-        </div>
-      </details>
+<p class="pub-extra">
+  📄 <a href="/assets/pdf/2022_Korean_Cultural_Contents_Conference_Poster.pdf" target="_blank">
+    Conference Poster (PDF)
+  </a>
+</p>
+
+<p class="pub-extra-note">
+  Academic poster presented at the conference.
+</p>
+
+<details class="pub-lang">
+  <summary>Korean / Japanese / Chinese titles</summary>
+  <div class="pub-lang-box">
+    <div class="pub-lang-line"><strong>KR</strong> 중국 동영상 플랫폼 비리비리(bilibili)와 ACG/2차원 문화의 관계성 고찰</div>
+    <div class="pub-lang-line"><strong>JP</strong> 中国動画プラットフォームBilibiliとACG／二次元文化の関係性に関する考察</div>
+    <div class="pub-lang-line"><strong>CN</strong> 中国视频平台哔哩哔哩（bilibili）与 ACG／二次元文化关系的考察</div>
+  </div>
+</details>
     </div>
   </div>
 
