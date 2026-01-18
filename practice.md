@@ -37,7 +37,9 @@ permalink: /practice/
 
 <div class="practice-page">
 
+<div class="practice-topic">
   <h2>Practice-based Research in Japanese Subculture and ACG Culture</h2>
+</div>
 
   <p class="practice-lead">
     My research on Japanese subculture and ACG (Animation, Comics, Games) culture combines textual and theoretical analysis with sustained creative practice.
