@@ -27,3 +27,19 @@ $max-content-width: {{ site.max_width }};
 .cv-certificates summary {
   margin-bottom: 1.1rem;
 }
+/* ===== Publication extra materials ===== */
+
+.pub-extra {
+  font-size: 0.9em;
+  margin-top: 0.35em;
+}
+
+.pub-extra a {
+  text-decoration: none;
+}
+
+.pub-extra-note {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: -0.2em;
+}
