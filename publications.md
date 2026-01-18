@@ -243,7 +243,7 @@ details[open].pub-lang > summary::before{content:"▾";}
       </div>
 
       <div class="pub-title">
-  A Study on Relationship between the Chinese Video Platform Bilibili and ACG / Subculture.
+  A Study on the Relationship between the Chinese Video Platform Bilibili and ACG / Subculture.
 </div>
 
 <div class="pub-venue">
