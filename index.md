@@ -578,7 +578,7 @@ main.ap-main details > summary strong{
 
 ## Research Profile
 
-I received my Ph.D. in Cultural Contents from the Department of Global Culture Contents at Sangmyung University, Korea.
+I received my Ph.D. in Cultural Content from the Department of Global Culture Contents at Sangmyung University, Korea.
 
 My primary field of research is Cultural Content Studies, with cultural hybridity theory and its perspectives forming the core theoretical framework of my research.
 I focus in particular on Japanese subculture, otaku culture, and two-dimensional · ACG (animation, comics, and games) cultural contents.
