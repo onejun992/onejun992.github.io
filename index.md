@@ -480,6 +480,74 @@ main.ap-main details > summary strong{
   color:#777;
   margin-bottom: 6px;
 }
+
+/* ===== News multilingual: premium details ===== */
+.ap-updates-sub{
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dashed rgba(0,0,0,0.10);
+}
+
+.ap-updates-sub details{
+  margin: 0;
+}
+
+.ap-updates-sub summary{
+  list-style: none !important;
+  cursor: pointer;
+  user-select: none;
+
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+
+  padding: 6px 10px;
+  border: 1px solid rgba(0,0,0,0.10);
+  border-radius: 999px;
+  background: #fafafa;
+
+  color: #222;
+  font-size: 0.86rem;
+  font-weight: 650;
+}
+
+.ap-updates-sub summary::-webkit-details-marker{ display:none; }
+.ap-updates-sub summary::marker{ content:""; }
+
+.ap-updates-sub summary::before{
+  content: "▸";
+  font-size: 0.95rem;
+  color: #111;
+}
+.ap-updates-sub details[open] summary::before{
+  content: "▾";
+}
+
+.ap-updates-sub .ml-grid{
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: 76px 1fr;
+  row-gap: 10px;
+  column-gap: 12px;
+}
+
+.ap-updates-sub .ml-tag{
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #777;
+  padding-top: 2px;
+}
+
+.ap-updates-sub .ml-text{
+  color: #222;
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+
+.ap-updates-sub .ml-text strong{
+  font-weight: 750;
+}
   
 </style>
 
@@ -647,30 +715,36 @@ main.ap-main details > summary strong{
     <span class="ap-badge">Feb 2026</span>
   </div>
 
-  <p class="ap-updates-main">
-    <strong>Postdoctoral Researcher</strong><br>
-    <strong>K-Culture Creative Content Research Institute</strong><br>
-    <strong>Sangmyung University</strong>
-  </p>
+ <p class="ap-updates-main">
+  <strong>Postdoctoral Researcher</strong><br>
+  <strong>K-Culture Creative Content Research Institute</strong><br>
+  <strong>Sangmyung University</strong>, Seoul, South Korea
+</p>
 
   <div class="ap-updates-sub">
-    <div class="u-label">Multilingual</div>
+  <details>
+    <summary>Multilingual</summary>
 
-    <div class="u-line">
-      <strong>한국어</strong> — 상명대학교 <strong>K-Culture창의콘텐츠연구소</strong><br>
-      <strong>박사후 연구원</strong>
-    </div>
+    <div class="ml-grid">
+      <div class="ml-tag">KR</div>
+      <div class="ml-text">
+        상명대학교 <strong>K-Culture창의콘텐츠연구소</strong><br>
+        <strong>박사후 연구원</strong>
+      </div>
 
-    <div class="u-line">
-      <strong>日本語</strong> — 祥明大学 <strong>K-Culture創意コンテンツ研究所</strong><br>
-      <strong>ポストドクトラル研究員</strong>
-    </div>
+      <div class="ml-tag">JA</div>
+      <div class="ml-text">
+        祥明大学 <strong>K-Culture創意コンテンツ研究所</strong><br>
+        <strong>ポストドクトラル研究員</strong>
+      </div>
 
-    <div class="u-line">
-      <strong>中文</strong> — 祥明大学 <strong>K-文化创意内容研究所</strong><br>
-      <strong>博士后研究员</strong>
+      <div class="ml-tag">ZH</div>
+      <div class="ml-text">
+        韩国祥明大学 <strong>K-Culture创意内容研究所</strong><br>
+        <strong>博士后研究员</strong>
+      </div>
     </div>
-  </div>
+  </details>
 </div>
 
 ## Research Profile
