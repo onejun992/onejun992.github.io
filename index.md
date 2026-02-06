@@ -706,7 +706,7 @@ main.ap-main details > summary strong{
   </aside>
 
   <!-- ===== RIGHT MAIN CONTENT (原文一字不漏) ===== -->
- <main class="ap-main" markdown="1">
+<main class="ap-main" markdown="1">
 
 ## News
 
@@ -715,37 +715,39 @@ main.ap-main details > summary strong{
     <span class="ap-badge">Feb 2026</span>
   </div>
 
- <p class="ap-updates-main">
-  <strong>Postdoctoral Researcher</strong><br>
-  <strong>K-Culture Creative Content Research Institute</strong><br>
-  <strong>Sangmyung University</strong>, Seoul, South Korea
-</p>
+  <p class="ap-updates-main">
+    <strong>Postdoctoral Researcher</strong><br>
+    <strong>K-Culture Creative Content Research Institute</strong><br>
+    <strong>Sangmyung University</strong>, Seoul, South Korea
+  </p>
 
   <div class="ap-updates-sub">
-  <details>
-    <summary>Multilingual</summary>
+    <details>
+      <summary>Multilingual</summary>
 
-    <div class="ml-grid">
-      <div class="ml-tag">KR</div>
-      <div class="ml-text">
-        상명대학교 <strong>K-Culture창의콘텐츠연구소</strong><br>
-        <strong>박사후 연구원</strong>
-      </div>
+      <div class="ml-grid">
+        <div class="ml-tag">KR</div>
+        <div class="ml-text">
+          상명대학교 <strong>K-Culture창의콘텐츠연구소</strong><br>
+          <strong>박사후 연구원</strong>
+        </div>
 
-      <div class="ml-tag">JA</div>
-      <div class="ml-text">
-        祥明大学 <strong>K-Culture創意コンテンツ研究所</strong><br>
-        <strong>ポストドクトラル研究員</strong>
-      </div>
+        <div class="ml-tag">JA</div>
+        <div class="ml-text">
+          祥明大学 <strong>K-Culture創意コンテンツ研究所</strong><br>
+          <strong>ポストドクトラル研究員</strong>
+        </div>
 
-      <div class="ml-tag">ZH</div>
-      <div class="ml-text">
-        韩国祥明大学 <strong>K-Culture创意内容研究所</strong><br>
-        <strong>博士后研究员</strong>
+        <div class="ml-tag">ZH</div>
+        <div class="ml-text">
+          韩国祥明大学 <strong>K-文化创意内容研究所</strong><br>
+          <strong>博士后研究员</strong>
+        </div>
       </div>
-    </div>
-  </details>
-</div>
+    </details>
+  </div>
+
+</div>  <!-- ✅ 关键：补上 ap-updates-card 的关闭标签 -->
 
 <hr />
 
