@@ -747,6 +747,8 @@ main.ap-main details > summary strong{
   </details>
 </div>
 
+<hr />
+
 ## Research Profile
 
 I received my Ph.D. in Cultural Content from the Department of Global Culture Contents at Sangmyung University, Korea.
