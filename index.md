@@ -417,6 +417,70 @@ main.ap-main details > summary strong{
   font-weight: 500;     /* 轻微强调即可 */
 }
 
+/* =========================
+   Academic Updates Card
+   ========================= */
+.ap-updates-card{
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #fff;
+  padding: 14px 16px;
+  margin: 6px 0 18px 0;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+}
+
+.ap-updates-meta{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  margin-bottom: 8px;
+  color:#222;
+}
+
+.ap-updates-meta .ap-badge{
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+  font-size: 0.82rem;
+  font-weight: 750;
+  padding: 4px 10px;
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 999px;
+  background:#fafafa;
+}
+
+.ap-updates-main{
+  font-size: 1.02rem;
+  line-height: 1.65;
+  color:#111;
+  margin: 0;
+}
+
+.ap-updates-main strong{
+  font-weight: 800;
+}
+
+.ap-updates-sub{
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px dashed rgba(0,0,0,0.10);
+  color:#333;
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+.ap-updates-sub .u-line{
+  margin: 0.25rem 0;
+}
+
+.ap-updates-sub .u-label{
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color:#777;
+  margin-bottom: 6px;
+}
+  
 </style>
 
 <div class="ap-wrap">
@@ -574,7 +638,40 @@ main.ap-main details > summary strong{
   </aside>
 
   <!-- ===== RIGHT MAIN CONTENT (原文一字不漏) ===== -->
-  <main class="ap-main" markdown="1">
+ <main class="ap-main" markdown="1">
+
+## News
+
+<div class="ap-updates-card">
+  <div class="ap-updates-meta">
+    <span class="ap-badge">Feb 2026</span>
+  </div>
+
+  <p class="ap-updates-main">
+    <strong>Postdoctoral Researcher</strong><br>
+    <strong>K-Culture Creative Content Research Institute</strong><br>
+    <strong>Sangmyung University</strong>
+  </p>
+
+  <div class="ap-updates-sub">
+    <div class="u-label">Multilingual</div>
+
+    <div class="u-line">
+      <strong>한국어</strong> — 상명대학교 <strong>K-Culture창의콘텐츠연구소</strong><br>
+      <strong>박사후 연구원</strong>
+    </div>
+
+    <div class="u-line">
+      <strong>日本語</strong> — 祥明大学 <strong>K-Culture創意コンテンツ研究所</strong><br>
+      <strong>ポストドクトラル研究員</strong>
+    </div>
+
+    <div class="u-line">
+      <strong>中文</strong> — 祥明大学 <strong>K-文化创意内容研究所</strong><br>
+      <strong>博士后研究员</strong>
+    </div>
+  </div>
+</div>
 
 ## Research Profile
 
