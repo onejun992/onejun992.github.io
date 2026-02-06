@@ -718,7 +718,7 @@ main.ap-main details > summary strong{
   <p class="ap-updates-main">
     <strong>Postdoctoral Researcher</strong><br>
     <strong>K-Culture Creative Content Research Institute</strong><br>
-    <strong>Sangmyung University</strong>, Seoul, South Korea
+    <strong>Sangmyung University, Seoul, South Korea</strong>
   </p>
 
   <div class="ap-updates-sub">
