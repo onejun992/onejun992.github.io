@@ -729,13 +729,13 @@ main.ap-main details > summary strong{
         <div class="ml-tag">KR</div>
         <div class="ml-text">
           상명대학교 <strong>K-Culture창의콘텐츠연구소</strong><br>
-          <strong>박사후 연구원(연구 연계)</strong>
+          <strong>박사후 연구원(연구 협력)</strong>
         </div>
 
         <div class="ml-tag">JA</div>
         <div class="ml-text">
           祥明大学 <strong>K-Culture創意コンテンツ研究所</strong><br>
-          <strong>ポストドクトラル研究員(研究連携)</strong>
+          <strong>ポストドクトラル研究員(研究協力)</strong>
         </div>
 
         <div class="ml-tag">ZH</div>
