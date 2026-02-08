@@ -716,7 +716,7 @@ main.ap-main details > summary strong{
   </div>
 
   <p class="ap-updates-main">
-    <strong>Postdoctoral Researcher</strong><br>
+    <strong>Postdoctoral Researcher(Affiliated)</strong><br>
     <strong>K-Culture Creative Content Research Institute</strong><br>
     <strong>Sangmyung University, Seoul, South Korea</strong>
   </p>
@@ -729,19 +729,19 @@ main.ap-main details > summary strong{
         <div class="ml-tag">KR</div>
         <div class="ml-text">
           상명대학교 <strong>K-Culture창의콘텐츠연구소</strong><br>
-          <strong>박사후 연구원</strong>
+          <strong>박사후 연구원(연구 연계)</strong>
         </div>
 
         <div class="ml-tag">JA</div>
         <div class="ml-text">
           祥明大学 <strong>K-Culture創意コンテンツ研究所</strong><br>
-          <strong>ポストドクトラル研究員</strong>
+          <strong>ポストドクトラル研究員(研究連携)</strong>
         </div>
 
         <div class="ml-tag">ZH</div>
         <div class="ml-text">
           韩国祥明大学 <strong>K-文化创意内容研究所</strong><br>
-          <strong>博士后研究员</strong>
+          <strong>博士后研究员(合作研究)</strong>
         </div>
       </div>
     </details>
