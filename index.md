@@ -50,7 +50,7 @@
   }
 
   .ap-avatar{
-  width: 170px;
+  width: 210px;
   height: auto;              /* ✅ 关键：高度自适应，完整显示照片 */
   border-radius: 12px;       /* 轻微圆角，学术主页常用 */
   object-fit: contain;       /* ✅ 不裁切，完整显示 */
