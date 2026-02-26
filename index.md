@@ -557,7 +557,7 @@ main.ap-main details > summary strong{
   <aside class="ap-sidebar">
     <div class="ap-card">
 
-      <img class="ap-avatar" src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Profile photo">
+      <img class="ap-avatar" src="{{ '/assets/img/profile.png' | relative_url }}" alt="Profile photo">
 
      <div class="ap-name-block">
   <div class="ap-name-zh">彭塬钧</div>
