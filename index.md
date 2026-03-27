@@ -651,7 +651,7 @@ main.ap-main details > summary strong{
   <div class="ap-section ap-degree">
     <div class="ap-label">Degree</div>
     <div class="ap-value">
-      Ph.D. (Doctor of Arts)
+      Doctor of Arts (D.A.)
     </div>
   </div>
 
@@ -753,7 +753,7 @@ main.ap-main details > summary strong{
 
 ## Research Profile
 
-I received my Ph.D. in Cultural Content from the Department of Global Culture Contents at Sangmyung University, Korea.
+I received my Doctor of Arts (D.A.) in Cultural Content from the Department of Global Culture Contents at Sangmyung University, Korea.
 
 My primary field of research is Cultural Content Studies, with cultural hybridity theory and its perspectives forming the core theoretical framework of my research.
 I focus in particular on Japanese subculture, otaku culture, and two-dimensional · ACG (animation, comics, and games) cultural contents.
