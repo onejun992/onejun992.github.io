@@ -548,6 +548,31 @@ main.ap-main details > summary strong{
 .ap-updates-sub .ml-text strong{
   font-weight: 750;
 }
+
+/* ===== Academic Positioning / Degree Context ===== */
+.ap-degree-note-card .ap-updates-main{
+  line-height: 1.7;
+}
+
+.ap-degree-note-card .ap-degree-note-en{
+  display:block;
+  margin-top: 4px;
+  font-size: 0.98rem;
+  font-weight: 400;
+  color:#222;
+}
+
+.ap-degree-note-card .ml-grid{
+  grid-template-columns: 76px 1fr;
+}
+
+.ap-degree-note-card .ml-text{
+  line-height: 1.78;
+}
+
+.ap-degree-note-card .ml-text strong{
+  font-weight: 750;
+}
   
 </style>
 
@@ -707,6 +732,65 @@ main.ap-main details > summary strong{
 
   <!-- ===== RIGHT MAIN CONTENT (原文一字不漏) ===== -->
 <main class="ap-main" markdown="1">
+
+## Academic Positioning
+
+<div class="ap-updates-card ap-degree-note-card">
+  <div class="ap-updates-meta">
+    <span class="ap-badge">Academic Positioning</span>
+  </div>
+
+  <p class="ap-updates-main">
+    <strong>Ph.D.-equivalent research doctorate in Cultural Content</strong><br>
+    <span class="ap-degree-note-en">
+      Although the degree title is formally designated as <strong>Doctor of Arts (D.A.)</strong>,
+      the actual doctoral training, academic requirements, and research pathway were
+      equivalent to those of a <strong>Ph.D.-level research doctorate</strong>.
+    </span>
+  </p>
+
+  <div class="ap-updates-sub">
+    <details>
+      <summary>Multilingual</summary>
+
+      <div class="ml-grid">
+        <div class="ml-tag">EN</div>
+        <div class="ml-text">
+          <strong>Academic Positioning</strong><br>
+          The academic unit in which I pursued my doctoral training was centered on the field of Cultural Content and consisted of three subfields: <strong>Major in Cultural Content</strong>, <strong>Major in Cultural Arts Management</strong>, and <strong>Major in Convergent Arts Content</strong>. Its overall educational framework combined both cultural theory and artistic practice, aiming to cultivate internationally oriented and interdisciplinary scholars in the broader field of cultural content.<br><br>
+          My own specialization was the <strong>Major in Cultural Content</strong>, which followed a theory-based and research-oriented academic track designed primarily for the training of scholars. Its educational objectives and training methods were distinct from, and not directly related to, the more practice- or arts-oriented subfields of Cultural Arts Management and Convergent Arts Content.<br><br>
+          During my doctoral training, I completed rigorous academic requirements including scholarly writing and publication, conference presentations, and participation in academic projects. Therefore, although the degree title on the diploma is formally designated as <strong>Doctor of Arts (D.A.)</strong> due to the historical structure of the academic unit and degree-awarding system, in terms of its actual training pathway, academic standards, and research outcomes, my degree should be understood as a <strong>Ph.D.-equivalent research doctorate</strong>, rather than a professional or practice-based doctorate.
+        </div>
+
+        <div class="ml-tag">KR</div>
+        <div class="ml-text">
+          <strong>학문적 정체성</strong><br>
+          본인 박사과정 수학 당시 소속 학과는 문화콘텐츠 분야를 핵심 양성 방향으로 삼고 있었으며, <strong>문화콘텐츠전공</strong>, <strong>문화예술경영전공</strong>, <strong>융합예술콘텐츠전공</strong>의 세부 전공으로 구성되어 있었다. 해당 학과의 전체 교육 체계는 문화이론 연구와 예술실천 응용을 아우르는 복합적 성격을 지니고 있었으며, 국제적 시야를 갖춘 융복합형 문화콘텐츠 연구 인재 양성을 지향하였다.<br><br>
+          본인이 소속되었던 전공은 <strong>문화콘텐츠전공</strong>으로, 이는 이론 연구를 중심으로 하는 학술형·연구형 박사 양성 경로에 해당한다. 따라서 그 교육 목표와 훈련 방식은 문화예술경영전공 및 융합예술콘텐츠전공과 같은 실천적·예술적 성격의 세부 전공과는 분명히 구별되며, 직접적인 연관성이 없다.<br><br>
+          본인은 박사과정 동안 연구형 박사 기준에 따라 엄격한 학술논문 작성 및 발표, 학술대회 발표, 학술 프로젝트 참여 등 체계적인 학문 훈련을 거쳐 학위를 취득하였다. 따라서 학과의 역사적 구조와 학위 수여 체계의 특성으로 인해 학위명은 형식상 <strong>Doctor of Arts (D.A.)</strong>로 표기되었으나, 실제 양성과정, 학문적 요구 수준 및 연구 성과의 측면에서 본 학위는 <strong>Ph.D.와 동등한 연구형 박사학위</strong>로 이해되어야 하며, 전문실천형 또는 예술실천형 박사학위로 보아서는 안 된다.
+        </div>
+
+        <div class="ml-tag">JA</div>
+        <div class="ml-text">
+          <strong>学術的立場</strong><br>
+          私が博士課程在籍中に所属していた学科は、文化コンテンツ分野を中核的な養成領域とし、<strong>文化コンテンツ学専攻</strong>、<strong>文化芸術経営専攻</strong>、<strong>融合芸術コンテンツ専攻</strong>の三つの細分専攻によって構成されていた。学科全体の教育体系は、文化理論研究と芸術実践応用の双方を含む複合的性格を有しており、国際的視野を備えた複合型の文化コンテンツ研究人材の育成を目的としていた。<br><br>
+          そのうち、私の所属専攻は <strong>文化コンテンツ学専攻</strong> であり、理論研究を中核とする学術型・研究型の博士養成課程に属していた。したがって、その教育目標および訓練方法は、文化芸術経営専攻や融合芸術コンテンツ専攻といった、より実践的・芸術的性格をもつ専攻とは明確に異なり、直接的な関連を有しない。<br><br>
+          私は博士課程において、研究型博士の基準に基づき、厳格な学術論文の執筆・発表、学会発表、学術プロジェクトへの参加など、体系的な学術訓練を経て学位を取得した。したがって、学科全体の歴史的構造および学位授与制度上の事情により、学位名称は形式上 <strong>Doctor of Arts (D.A.)</strong> と表記されているものの、実際の養成経路、学術的要求水準、および研究成果の観点から見れば、本学位は <strong>Ph.D. に相当する研究型博士学位</strong> と理解されるべきであり、専門職学位または実践型博士学位として解されるべきではない。
+        </div>
+
+        <div class="ml-tag">ZH</div>
+        <div class="ml-text">
+          <strong>学术定位说明</strong><br>
+          本人博士培养期间所属学科以文化内容领域为核心培养方向，下设<strong>文化内容学、文化艺术经营、融合艺术内容</strong>三个细分专业领域，整体培养体系兼具文化理论研究与艺术实践应用两种导向，旨在培养具有国际化视野的复合型文化内容人才。<br><br>
+          本人所属的<strong>文化内容学方向</strong>属于以理论研究为核心的学术型培养路径，主要面向研究者养成；其培养目标、训练方式与文化艺术经营、融合艺术内容等偏实践或艺术类导向的细分专业并不相同，亦无直接关联。<br><br>
+          在博士培养过程中，本人依照研究型博士标准，完成了严格的学术论文撰写与发表、学术会议发表、学术项目参与等系统性研究训练，并在持续的学术研究基础上取得博士学位。尽管由于学科整体设置及学位授予体制的历史性原因，学位证书标注为 <strong>Doctor of Arts (D.A.)</strong>，但就其实际培养路径、学术要求与研究成果而言，本人所获学位应被理解为<strong>等同于 Ph.D. 的学术研究型博士学位</strong>，而非专业实践型或艺术实践型博士学位。
+        </div>
+      </div>
+    </details>
+  </div>
+</div>
+
+<hr />
 
 ## News
 
