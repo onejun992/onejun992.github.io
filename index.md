@@ -734,7 +734,7 @@ main.ap-main details > summary strong{
 
         <div class="ml-tag">JA</div>
         <div class="ml-text">
-          祥明大学校 <strong>K-Culture創意コンテンツ研究所</strong><br>
+          祥明大学（サンミョン大学） <strong>K-Culture創意コンテンツ研究所</strong><br>
           <strong>ポストドクトラル研究員(非常勤・研究協力)</strong>
         </div>
 
