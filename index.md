@@ -910,7 +910,7 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
   *Proceedings of the Korean Cultural Contents Joint Academic Conference*.
 
-- **Ph.D. Dissertation**  
+- **Doctoral Dissertation**  
   (2026).  
   Sangmyung University, Graduate School, Seoul, South Korea.  
 
@@ -930,10 +930,10 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
 ## Education
 
-- **D.A. in Global Culture Contents** 
+- **Doctor of Arts (D.A.) in Global Culture Contents** 
   Graduate School of Humanities and Social Sciences,  
   Sangmyung University, Seoul, South Korea  
-  *(Originally enrolled in the M.A. program; formally transferred to the integrated M.A.–Ph.D. track)*  
+  *(Originally enrolled in the M.A. program; formally transferred to the integrated M.A.–D.A.track)*  
   (Mar 2022 – Feb 2026)
 
 - **M.A. coursework in Global Culture Contents** 
