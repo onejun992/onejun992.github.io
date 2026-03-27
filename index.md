@@ -668,7 +668,7 @@ main.ap-main details > summary strong{
 <div class="ap-section ap-academic-bg">
   <div class="ap-label">ACADEMIC BACKGROUND</div>
   <div class="ap-value">
-    Major in Cultural Content
+   Cultural Content Studies
   </div>
 </div>
 
@@ -676,7 +676,10 @@ main.ap-main details > summary strong{
   <div class="ap-section ap-degree">
     <div class="ap-label">Degree</div>
     <div class="ap-value">
-      Doctor of Arts (D.A.)
+      Doctor of Arts (D.A.)<br>
+      <span style="font-size:0.92rem; color:#666; font-style:italic;">
+        Ph.D.-equivalent research doctorate
+      </span>
     </div>
   </div>
 
