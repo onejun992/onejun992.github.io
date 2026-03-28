@@ -743,47 +743,22 @@ main.ap-main details > summary strong{
     <span class="ap-badge">Academic Positioning Statement</span>
   </div>
 
-  <div class="ap-updates-main ap-degree-note-main">
-    <div class="ap-key-statements">
-      <div class="ap-key-line">
-        <span class="ap-key-dot">●</span>
-        <span class="ap-key-text">
-          From <strong>2016</strong> to <strong>2026</strong>, I have pursued a continuous <strong>ten-year academic trajectory</strong> in <strong>Cultural Content Studies</strong>, beginning with a <strong>Bachelor of Cultural Content</strong> with a major in <strong>Korea-Japan Cultural Content</strong> and continuing through doctoral completion.
-        </span>
-      </div>
-
-      <div class="ap-key-line">
-        <span class="ap-key-dot">●</span>
-        <span class="ap-key-text">
-          My graduate education was undertaken through a <strong>full-time</strong>, <strong>humanities-based</strong>, and <strong>theory-driven research pathway</strong>, clearly distinct from <strong>practice-based</strong>, <strong>performance-oriented</strong>, or <strong>mid-career professional tracks</strong>.
-        </span>
-      </div>
-
-      <div class="ap-key-line">
-        <span class="ap-key-dot">●</span>
-        <span class="ap-key-text">
-          Although the degree was formally conferred as <strong>Doctor of Arts (D.A.)</strong>, the academic training, research requirements, and scholarly orientation of my doctorate were equivalent to those of a <strong>Ph.D.-level research doctorate</strong>.
-        </span>
-      </div>
-    </div>
-
-    <div class="ap-degree-note-body">
-      <strong>Research-oriented doctoral positioning in Cultural Content Studies</strong><br>
-      <span class="ap-degree-note-en">
-        Although the degree was formally conferred as <strong>Doctor of Arts (D.A.)</strong>,
-        my actual academic formation was a <strong>full-time</strong>, <strong>humanities-based</strong>,
-        <strong>theory-driven research pathway</strong> in <strong>Cultural Content Studies</strong>.
-        From earning a <strong>Bachelor of Cultural Content</strong> with a major in
-        <strong>Korea-Japan Cultural Content</strong> in <strong>2016</strong> through doctoral
-        completion in <strong>2026</strong>, I have pursued a continuous
-        <strong>ten-year academic trajectory</strong> in the field, distinct from
-        <strong>practice-based</strong>, <strong>performance-oriented</strong>, or
-        <strong>mid-career professional tracks</strong>.
-        In this sense, the academic training, research requirements, and scholarly orientation
-        of my doctorate were equivalent to those of a <strong>Ph.D.-level research doctorate</strong>.
-      </span>
-    </div>
-  </div>
+  <p class="ap-updates-main">
+    <strong>Research-oriented doctoral positioning in Cultural Content Studies</strong><br>
+    <span class="ap-degree-note-en">
+      Although the degree was formally conferred as <strong>Doctor of Arts (D.A.)</strong>,
+      my actual academic formation was a <strong>full-time</strong>, <strong>humanities-based</strong>,
+      <strong>theory-driven research pathway</strong> in <strong>Cultural Content Studies</strong>.
+      From earning a <strong>Bachelor of Cultural Content</strong> with a major in
+      <strong>Korea-Japan Cultural Content</strong> in <strong>2016</strong> through doctoral
+      completion in <strong>2026</strong>, I have pursued a continuous
+      <strong>ten-year academic trajectory</strong> in the field, distinct from
+      <strong>practice-based</strong>, <strong>performance-oriented</strong>, or
+      <strong>mid-career professional tracks</strong>.
+      In this sense, the academic training, research requirements, and scholarly orientation
+      of my doctorate were equivalent to those of a <strong>Ph.D.-level research doctorate</strong>.
+    </span>
+  </p>
 
   <div class="ap-updates-sub">
     <details>
