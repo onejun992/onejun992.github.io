@@ -155,3 +155,19 @@ $max-content-width: {{ site.max_width }};
   line-height: 1.25;
   letter-spacing: -0.015em;
 }
+/* ===== PhD dissertation spacing fix ===== */
+
+.phd-section {
+  margin-top: 1.4rem;      /* 压掉上面过多空白 */
+  margin-bottom: 2.2rem;   /* 给下面 section 呼吸空间 */
+}
+
+.phd-section h3 {
+  margin-top: 0;
+  margin-bottom: 0.8rem;   /* 标题和内容之间 */
+}
+
+.phd-section .cv-pub {
+  margin-top: 0;
+  margin-bottom: 0;
+}
