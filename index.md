@@ -770,7 +770,7 @@ main.ap-main details > summary strong{
           <strong>Academic Positioning Statement</strong><br>
           Since entering Sangmyung University in <strong>2016</strong>, I have continuously pursued the field of <strong>Cultural Content Studies</strong> through the completion of my doctoral degree in <strong>2026</strong>, forming a continuous <strong>ten-year academic trajectory</strong>.<br><br>
 
-          At the undergraduate level, I earned a <strong>Bachelor of Cultural Content</strong>. My academic field was <strong>Cultural Content Studies</strong>, and my departmental affiliation was the <strong>Korea-Japan Cultural Content Major</strong>. At the graduate level, I was affiliated with <strong>글로벌문화콘텐츠학과 (Department of Global Culture Contents)</strong>. Across my undergraduate, master’s, and doctoral training, my academic foundation consistently remained within <strong>Cultural Content Studies</strong>.<br><br>
+          At the undergraduate level, I earned a <strong>Bachelor of Cultural Content</strong>. My academic field was <strong>Cultural Content Studies</strong>, and my departmental affiliation was the <strong>Korea-Japan Cultural Content Major</strong>. At the graduate level, I was affiliated with <strong>Department of Global Culture Contents</strong>. Across my undergraduate, master’s, and doctoral training, my academic foundation consistently remained within <strong>Cultural Content Studies</strong>.<br><br>
 
           The graduate academic unit to which I belonged during my master’s and doctoral training had previously been part of a professional graduate-school structure and was later reorganized into the general graduate school in <strong>2020</strong>. At Sangmyung University, the distinction between the general graduate school and the professional graduate school is institutionally clear: the former follows a full-time educational model oriented toward academic research training, whereas the latter is primarily intended for working professionals and does not offer doctoral programs. When I entered the program, the field had not yet been fully subdivided into later specializations. From undergraduate study through the doctorate, my academic pathway consistently remained centered on <strong>Cultural Content Studies</strong> as a <strong>humanities-based</strong>, <strong>theory-driven</strong>, and <strong>research-oriented</strong> formation.<br><br>
 
@@ -814,7 +814,7 @@ main.ap-main details > summary strong{
 
           本人本科阶段即取得 <strong>文化内容学学士</strong> 学位。本人本科的专业领域为 <strong>文化内容学</strong>，所属学科为 <strong>韩日文化内容学科</strong>；研究生阶段所属学科为 <strong>全球文化内容学科（Department of Global Culture Contents）</strong>。贯穿本科、硕士与博士全过程的学术基础，始终是 <strong>文化内容学（Cultural Content Studies）</strong>。<br><br>
 
-          本人研究生硕博阶段所属学科曾隶属于特殊研究生院，后于 <strong>2020年</strong> 调整变更为一般研究生院学科。祥明大学研究生院体制中，一般研究生院与特殊研究生院有明确区分：一般研究生院采取常规全时制教学与研究模式，以培养学术研究型人才为主；特殊研究生院则主要面向在职社会人士，且不开设博士课程。本人入学时，学科尚未完全进行专业细分；而本人自本科至博士阶段所持续从事的，始终是以 <strong>文化内容学</strong> 为核心的 <strong>纯文科</strong>、<strong>理论主导</strong>、<strong>研究导向</strong> 的学术培养路径。<br><br>
+          本人研究生硕博阶段所属学科曾隶属于特殊研究生院，后于 <strong>2020年</strong> 调整变更为一般研究生院学科。祥明大学研究生院体制中，一般研究生院与特殊研究生院有明确区分：一般研究生院采取常规全日制教学与研究模式，以培养学术研究型人才为主；特殊研究生院则主要面向在职社会人士，且不开设博士课程。本人入学时，学科尚未完全进行专业细分；而本人自本科至博士阶段所持续从事的，始终是以 <strong>文化内容学</strong> 为核心的 <strong>纯文科</strong>、<strong>理论主导</strong>、<strong>研究导向</strong> 的学术培养路径。<br><br>
 
           因此，本人大学院阶段所接受的是 <strong>全日制研究型学术培养路径</strong>，这不仅区别于该领域历史上较多见的在职、大龄文化艺术界从业者修学模式，也与其后逐渐分化出的更偏实践或艺术类导向的方向存在明确差异。<br><br>
 
