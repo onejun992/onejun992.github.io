@@ -170,3 +170,63 @@ $max-content-width: {{ site.max_width }};
   margin-top: 0;
   margin-bottom: 0;
 }
+
+.ap-degree-note-main {
+  display: flex;
+  flex-direction: column;
+  gap: 1.35rem;
+}
+
+.ap-key-statements {
+  display: flex;
+  flex-direction: column;
+  gap: 0.95rem;
+  margin-top: 0.15rem;
+  margin-bottom: 0.2rem;
+}
+
+.ap-key-line {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  font-size: 1.06rem;
+  line-height: 1.85;
+  font-weight: 700;
+  color: #222;
+}
+
+.ap-key-dot {
+  flex-shrink: 0;
+  font-size: 1.15rem;
+  line-height: 1.6;
+  font-weight: 800;
+  color: #111;
+  margin-top: 0.02rem;
+}
+
+.ap-key-text {
+  display: inline-block;
+}
+
+.ap-key-text,
+.ap-key-text strong {
+  font-weight: 700;
+}
+
+.ap-degree-note-body {
+  font-size: 1.06rem;
+  line-height: 1.95;
+  font-weight: 700;
+  color: #222;
+}
+
+.ap-degree-note-body strong,
+.ap-degree-note-en strong {
+  font-weight: 800;
+}
+
+.ap-degree-note-en {
+  display: inline-block;
+  font-weight: 700;
+  color: #222;
+}
