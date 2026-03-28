@@ -736,19 +736,27 @@ main.ap-main details > summary strong{
   <!-- ===== RIGHT MAIN CONTENT (原文一字不漏) ===== -->
 <main class="ap-main" markdown="1">
 
-## Academic Positioning
+## Academic Positioning Statement
 
 <div class="ap-updates-card ap-degree-note-card">
   <div class="ap-updates-meta">
-    <span class="ap-badge">Academic Positioning</span>
+    <span class="ap-badge">Academic Positioning Statement</span>
   </div>
 
   <p class="ap-updates-main">
-    <strong>Ph.D.-equivalent research doctorate in Cultural Content</strong><br>
+    <strong>Research-oriented doctoral positioning in Cultural Content Studies</strong><br>
     <span class="ap-degree-note-en">
-      Although the degree title is formally designated as <strong>Doctor of Arts (D.A.)</strong>,
-      the actual doctoral training, academic requirements, and research pathway were
-      equivalent to those of a <strong>Ph.D.-level research doctorate</strong>.
+      Although the degree was formally conferred as <strong>Doctor of Arts (D.A.)</strong>,
+      my actual academic formation was a <strong>full-time</strong>, <strong>humanities-based</strong>,
+      <strong>theory-driven research pathway</strong> in <strong>Cultural Content Studies</strong>.
+      From earning a <strong>Bachelor of Cultural Content</strong> with a major in
+      <strong>Korea-Japan Cultural Content</strong> in <strong>2016</strong> through doctoral
+      completion in <strong>2026</strong>, I have pursued a continuous
+      <strong>ten-year academic trajectory</strong> in the field, distinct from
+      <strong>practice-based</strong>, <strong>performance-oriented</strong>, or
+      <strong>mid-career professional tracks</strong>.
+      In this sense, the academic training, research requirements, and scholarly orientation
+      of my doctorate were equivalent to those of a <strong>Ph.D.-level research doctorate</strong>.
     </span>
   </p>
 
@@ -759,34 +767,58 @@ main.ap-main details > summary strong{
       <div class="ml-grid">
         <div class="ml-tag">EN</div>
         <div class="ml-text">
-          <strong>Academic Positioning</strong><br>
-          The academic unit in which I pursued my doctoral training was centered on the field of Cultural Content and consisted of three subfields: <strong>Major in Cultural Content</strong>, <strong>Major in Cultural Arts Management</strong>, and <strong>Major in Convergent Arts Content</strong>. Its overall educational framework combined both cultural theory and artistic practice, aiming to cultivate internationally oriented and interdisciplinary scholars in the broader field of cultural content.<br><br>
-          My own specialization was the <strong>Major in Cultural Content</strong>, which followed a theory-based and research-oriented academic track designed primarily for the training of scholars. Its educational objectives and training methods were distinct from, and not directly related to, the more practice- or arts-oriented subfields of Cultural Arts Management and Convergent Arts Content.<br><br>
-          During my doctoral training, I completed rigorous academic requirements including scholarly writing and publication, conference presentations, and participation in academic projects. Therefore, although the degree title on the diploma is formally designated as <strong>Doctor of Arts (D.A.)</strong> due to the historical structure of the academic unit and degree-awarding system, in terms of its actual training pathway, academic standards, and research outcomes, my degree should be understood as a <strong>Ph.D.-equivalent research doctorate</strong>, rather than a professional or practice-based doctorate.
+          <strong>Academic Positioning Statement</strong><br>
+          · Since entering Sangmyung University in <strong>2016</strong>, I have continuously pursued the field of <strong>Cultural Content Studies</strong>, from undergraduate training through doctoral completion in <strong>2026</strong>, forming a continuous <strong>ten-year academic trajectory</strong>.<br><br>
+
+          · At the undergraduate level, I earned a <strong>Bachelor of Cultural Content</strong> with a major in <strong>Korea-Japan Cultural Content</strong>. At the graduate level, my academic training was conducted in the unit officially named <strong>Department of Global Culture Contents</strong>. Across these stages, my academic formation consistently remained within the broader field of <strong>Cultural Content Studies</strong>.<br><br>
+
+          · Although this graduate unit historically evolved from a former professional graduate-school structure and later diversified into multiple subfields, my own specialization belonged to the <strong>Cultural Content</strong> track, which was fundamentally <strong>humanities-based</strong>, <strong>theory-driven</strong>, and <strong>research-oriented</strong>, rather than <strong>practice-based</strong> or <strong>arts-performance-centered</strong>.<br><br>
+
+          · My graduate education and supervision were undertaken through a <strong>full-time academic training pathway</strong>. In this respect, my formation should be clearly distinguished both from the mid-career professional profiles often associated with the earlier institutional structure, and from the more practice- or arts-oriented subfields such as <strong>Cultural Arts Management</strong> and <strong>Convergent Arts Content</strong>.<br><br>
+
+          · During my doctoral training, I completed rigorous scholarly requirements including academic writing, publication, conference presentations, and participation in research projects. Therefore, although the diploma formally designates the degree as <strong>Doctor of Arts (D.A.)</strong>, the actual training pathway, academic standards, and research outcomes should be understood as those of a <strong>Ph.D.-level research doctorate</strong> in the humanities, rather than a professional or practice-based doctorate.
         </div>
 
         <div class="ml-tag">KR</div>
         <div class="ml-text">
-          <strong>학문적 정체성</strong><br>
-          본인 박사과정 수학 당시 소속 학과는 문화콘텐츠 분야를 핵심 양성 방향으로 삼고 있었으며, <strong>문화콘텐츠전공</strong>, <strong>문화예술경영전공</strong>, <strong>융합예술콘텐츠전공</strong>의 세부 전공으로 구성되어 있었다. 해당 학과의 전체 교육 체계는 문화이론 연구와 예술실천 응용을 아우르는 복합적 성격을 지니고 있었으며, 국제적 시야를 갖춘 융복합형 문화콘텐츠 연구 인재 양성을 지향하였다.<br><br>
-          본인이 소속되었던 전공은 <strong>문화콘텐츠전공</strong>으로, 이는 이론 연구를 중심으로 하는 학술형·연구형 박사 양성 경로에 해당한다. 따라서 그 교육 목표와 훈련 방식은 문화예술경영전공 및 융합예술콘텐츠전공과 같은 실천적·예술적 성격의 세부 전공과는 분명히 구별되며, 직접적인 연관성이 없다.<br><br>
-          본인은 박사과정 동안 연구형 박사 기준에 따라 엄격한 학술논문 작성 및 발표, 학술대회 발표, 학술 프로젝트 참여 등 체계적인 학문 훈련을 거쳐 학위를 취득하였다. 따라서 학과의 역사적 구조와 학위 수여 체계의 특성으로 인해 학위명은 형식상 <strong>Doctor of Arts (D.A.)</strong>로 표기되었으나, 실제 양성과정, 학문적 요구 수준 및 연구 성과의 측면에서 본 학위는 <strong>Ph.D.와 동등한 연구형 박사학위</strong>로 이해되어야 하며, 전문실천형 또는 예술실천형 박사학위로 보아서는 안 된다.
+          <strong>학문적 정체성 및 설명</strong><br>
+          · 본인은 <strong>2016년</strong> 상명대학교 학부 입학 이후 <strong>2026년</strong> 박사과정 수료에 이르기까지, <strong>10년간</strong> 문화콘텐츠학 분야를 지속적으로 연구해 왔다.<br><br>
+
+          · 학부에서는 <strong>문화콘텐츠학사</strong> 학위를 취득하였으며, 전공은 <strong>한일문화콘텐츠학과</strong>였다. 대학원에서는 공식 영문 명칭상 <strong>Department of Global Culture Contents</strong>에 소속되어 수학하였다. 이 전 과정을 관통하는 본인의 학문적 기반은 일관되게 <strong>문화콘텐츠학</strong>에 있었다.<br><br>
+
+          · 해당 학과는 역사적으로 특수대학원 체계를 배경으로 출발하여 이후 일반대학원 학과로 조정·발전하는 과정에서 복합적인 성격을 띠게 되었으나, 본인이 속한 전공은 어디까지나 <strong>문화콘텐츠학</strong>으로서, 본질적으로 <strong>순수 인문학 기반</strong>, <strong>이론 중심</strong>, <strong>연구 중심</strong>의 학술 경로에 해당한다.<br><br>
+
+          · 본인의 대학원 과정은 <strong>전일제 학술 연구 과정</strong>으로 진행되었으며, 이는 과거 학과 구조와 연관되어 자주 언급되는 재직자·실무자 중심의 수학 유형이나, <strong>문화예술경영</strong> 및 <strong>융합예술콘텐츠</strong>와 같은 보다 실천적·예술적 성격의 세부 분야와는 분명히 구별된다.<br><br>
+
+          · 본인은 박사과정 동안 학술논문 작성 및 발표, 학술대회 발표, 학술 프로젝트 참여 등 연구형 박사 수준의 엄격한 학문 훈련을 수행하였다. 따라서 학위명은 형식상 <strong>Doctor of Arts (D.A.)</strong>로 표기되어 있으나, 실제 양성과정과 학문적 요구 수준, 연구 성과의 측면에서 본 학위는 <strong>인문학 기반의 Ph.D. 상응 연구형 박사학위</strong>로 이해되어야 하며, 전문실천형 또는 예술실천형 박사와 동일시되어서는 안 된다.
         </div>
 
         <div class="ml-tag">JA</div>
         <div class="ml-text">
-          <strong>学術的立場</strong><br>
-          私が博士課程在籍中に所属していた学科は、文化コンテンツ分野を中核的な養成領域とし、<strong>文化コンテンツ学専攻</strong>、<strong>文化芸術経営専攻</strong>、<strong>融合芸術コンテンツ専攻</strong>の三つの細分専攻によって構成されていた。学科全体の教育体系は、文化理論研究と芸術実践応用の双方を含む複合的性格を有しており、国際的視野を備えた複合型の文化コンテンツ研究人材の育成を目的としていた。<br><br>
-          そのうち、私の所属専攻は <strong>文化コンテンツ学専攻</strong> であり、理論研究を中核とする学術型・研究型の博士養成課程に属していた。したがって、その教育目標および訓練方法は、文化芸術経営専攻や融合芸術コンテンツ専攻といった、より実践的・芸術的性格をもつ専攻とは明確に異なり、直接的な関連を有しない。<br><br>
-          私は博士課程において、研究型博士の基準に基づき、厳格な学術論文の執筆・発表、学会発表、学術プロジェクトへの参加など、体系的な学術訓練を経て学位を取得した。したがって、学科全体の歴史的構造および学位授与制度上の事情により、学位名称は形式上 <strong>Doctor of Arts (D.A.)</strong> と表記されているものの、実際の養成経路、学術的要求水準、および研究成果の観点から見れば、本学位は <strong>Ph.D. に相当する研究型博士学位</strong> と理解されるべきであり、専門職学位または実践型博士学位として解されるべきではない。
+          <strong>学術的立場および説明</strong><br>
+          · 私は <strong>2016年</strong> に祥明大学学部へ入学して以来、<strong>2026年</strong> の博士課程修了に至るまで、<strong>10年間</strong> にわたり文化コンテンツ学の領域を継続して研究してきた。<br><br>
+
+          · 学部では <strong>文化コンテンツ学学士</strong> の学位を取得し、専攻は <strong>韓日文化コンテンツ学科</strong> であった。大学院では公式英語名称上 <strong>Department of Global Culture Contents</strong> に所属して研鑽を積んだ。これら一連の過程を通じて、私の学問的基盤は一貫して <strong>文化コンテンツ学</strong> に置かれていた。<br><br>
+
+          · 当該学科は歴史的には特殊大学院系の制度的背景を有し、その後一般大学院へと再編・発展する過程で複合的性格を帯びるようになったが、私の所属していたのはあくまで <strong>文化コンテンツ学</strong> の系統であり、その本質は <strong>純粋人文学的基盤</strong>・<strong>理論中心</strong>・<strong>研究中心</strong> の学術的養成過程であった。<br><br>
+
+          · 私の大学院での履修および研究指導は <strong>全日制の学術研究課程</strong> として行われており、学科の制度的沿革と結びついてしばしば想起される在職者・実務家中心の履修形態や、<strong>文化芸術経営</strong> および <strong>融合芸術コンテンツ</strong> のような、より実践的・芸術的性格を有する細分分野とは明確に区別される。<br><br>
+
+          · 博士課程において私は、学術論文の執筆・発表、学会発表、学術プロジェクトへの参加など、研究型博士に相応する厳格な学術訓練を経て学位を取得した。したがって、学位名称は制度上形式的に <strong>Doctor of Arts (D.A.)</strong> と表記されているものの、実際の養成経路、学術的要求水準、および研究成果の観点から見れば、本学位は <strong>人文学基盤の Ph.D. 相当研究型博士学位</strong> と理解されるべきであり、専門職学位または実践型博士学位として解されるべきではない。
         </div>
 
         <div class="ml-tag">ZH</div>
         <div class="ml-text">
-          <strong>学术定位说明</strong><br>
-          本人博士培养期间所属学科以文化内容领域为核心培养方向，下设<strong>文化内容学、文化艺术经营、融合艺术内容</strong>三个细分专业领域，整体培养体系兼具文化理论研究与艺术实践应用两种导向，旨在培养具有国际化视野的复合型文化内容人才。<br><br>
-          本人所属的<strong>文化内容学方向</strong>属于以理论研究为核心的学术型培养路径，主要面向研究者养成；其培养目标、训练方式与文化艺术经营、融合艺术内容等偏实践或艺术类导向的细分专业并不相同，亦无直接关联。<br><br>
-          在博士培养过程中，本人依照研究型博士标准，完成了严格的学术论文撰写与发表、学术会议发表、学术项目参与等系统性研究训练，并在持续的学术研究基础上取得博士学位。尽管由于学科整体设置及学位授予体制的历史性原因，学位证书标注为 <strong>Doctor of Arts (D.A.)</strong>，但就其实际培养路径、学术要求与研究成果而言，本人所获学位应被理解为<strong>等同于 Ph.D. 的学术研究型博士学位</strong>，而非专业实践型或艺术实践型博士学位。
+          <strong>学术定位与说明</strong><br>
+          · 本人自 <strong>2016年</strong> 进入祥明大学学部起，至 <strong>2026年</strong> 完成博士培养为止，已在 <strong>文化内容学领域持续学习与研究整整10年</strong>。<br><br>
+
+          · 本人学部阶段即获得 <strong>文化内容学学士</strong> 学位，本科专业为 <strong>韩日文化内容学</strong>；大学院阶段所属学科官方英文名称为 <strong>Department of Global Culture Contents</strong>。贯穿学部、硕士与博士全过程的学术基础，始终是 <strong>文化内容学（Cultural Content Studies）</strong>。<br><br>
+
+          · 该学科在历史上曾与韩国特殊大学院体制相关，后于2020年前后调整为一般大学院学科，并在发展过程中逐渐形成复合性的培养结构。然而，本人所属与坚持的始终是 <strong>文化内容学方向</strong>，其本质为 <strong>纯文科</strong>、<strong>理论主导</strong>、<strong>研究导向</strong> 的学术培养路径，而非艺术实践或专业应用导向。<br><br>
+
+          · 本人大学院阶段的培养方式与授课形式均为 <strong>全日制学术研究路径</strong>，这与该学科历史上较多见的在职、大龄文化艺术界从业者修学模式，及其后细分出的 <strong>文化艺术经营</strong>、<strong>融合艺术内容</strong> 等更偏实践或艺术类导向的方向，均有明确区别。<br><br>
+
+          · 在博士培养过程中，本人完成了严格的学术论文撰写与发表、学术会议发表、学术项目参与等系统性研究训练。尽管由于学科整体设置与学位授予体制的历史性原因，学位证书形式上标注为 <strong>Doctor of Arts (D.A.)</strong>，但就实际培养路径、学术要求与研究成果而言，本人所获学位应被理解为 <strong>以人文学训练为基础、等同于 Ph.D. 层级的学术研究型博士学位</strong>，而不应被视为专业实践型或艺术实践型博士学位。
         </div>
       </div>
     </details>
