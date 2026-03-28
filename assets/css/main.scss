@@ -1,4 +1,3 @@
-
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
@@ -24,12 +23,13 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
 /* CV – language certificates spacing */
 .cv-certificates summary {
   margin-bottom: 1.1rem;
 }
-/* ===== Publication extra materials ===== */
 
+/* ===== Publication extra materials ===== */
 .pub-extra {
   font-size: 0.9em;
   margin-top: 0.35em;
@@ -44,8 +44,8 @@ $max-content-width: {{ site.max_width }};
   color: #666;
   margin-top: -0.2em;
 }
-/* ===== CV language download pills ===== */
 
+/* ===== CV language download pills ===== */
 .cv-lang-pills {
   margin-top: 0.6rem;
   display: flex;
@@ -68,8 +68,8 @@ $max-content-width: {{ site.max_width }};
   background: #f5f5f5;
   border-color: #999;
 }
-/* ===== CV language block spacing ===== */
 
+/* ===== CV language block spacing ===== */
 .cv-lang-download {
   margin-bottom: 1.4rem;
 }
@@ -77,8 +77,8 @@ $max-content-width: {{ site.max_width }};
 .cv-lang-download summary {
   margin-top: 0.3rem;
 }
-/* ===== Practice-based Research page polish ===== */
 
+/* ===== Practice-based Research page polish ===== */
 .practice-page h1 {
   margin-bottom: 1rem;
   letter-spacing: -0.02em;
@@ -141,8 +141,8 @@ $max-content-width: {{ site.max_width }};
   margin: 0.35rem 0;
   line-height: 1.75;
 }
-/* ===== Practice research topic header ===== */
 
+/* ===== Practice research topic header ===== */
 .practice-topic {
   margin: 1.6rem 0 1.8rem;
   padding-left: 1.1rem;
@@ -155,19 +155,133 @@ $max-content-width: {{ site.max_width }};
   line-height: 1.25;
   letter-spacing: -0.015em;
 }
-/* ===== PhD dissertation spacing fix ===== */
 
+/* ===== PhD dissertation spacing fix ===== */
 .phd-section {
-  margin-top: 1.4rem;      /* 压掉上面过多空白 */
-  margin-bottom: 2.2rem;   /* 给下面 section 呼吸空间 */
+  margin-top: 1.4rem;
+  margin-bottom: 2.2rem;
 }
 
 .phd-section h3 {
   margin-top: 0;
-  margin-bottom: 0.8rem;   /* 标题和内容之间 */
+  margin-bottom: 0.8rem;
 }
 
 .phd-section .cv-pub {
   margin-top: 0;
   margin-bottom: 0;
+}
+
+/* =========================================================
+   Global emergency fixes for header / footer / overflow
+   ========================================================= */
+
+/* 1) 防止整站横向溢出 */
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden !important;
+}
+
+/* 2) 给 fixed 顶栏让出空间，避免正文钻进 header 下面 */
+body {
+  padding-top: 72px !important;
+}
+
+@media (max-width: 768px) {
+  body {
+    padding-top: 64px !important;
+  }
+}
+
+/* 3) 顶部栏层级和背景修正 */
+header,
+.site-header,
+.navbar,
+.fixed-top,
+.navbar.fixed-top,
+header.fixed-top {
+  z-index: 1000 !important;
+  background: #fff !important;
+}
+
+/* 4) 主体内容保持在正常文档流中 */
+main,
+.page-content,
+.page,
+.post,
+.wrapper {
+  position: relative;
+  z-index: 1;
+}
+
+/* 5) footer 不允许悬浮压在正文上 */
+footer,
+.site-footer,
+.fixed-bottom,
+footer.fixed-bottom,
+.sticky-bottom,
+footer.sticky-bottom {
+  position: static !important;
+  inset: auto !important;
+  top: auto !important;
+  right: auto !important;
+  bottom: auto !important;
+  left: auto !important;
+  width: 100% !important;
+  transform: none !important;
+  z-index: 1 !important;
+}
+
+/* 6) 给 footer 和正文拉开一点距离 */
+footer,
+.site-footer {
+  margin-top: 2rem !important;
+}
+
+/* 7) 隐藏异常冒出来的导航/搜索触发器 */
+.nav-trigger,
+input.nav-trigger,
+.menu-icon,
+.search-toggle,
+.search-trigger,
+.search-placeholder {
+  display: none !important;
+}
+
+/* 8) 修正 header 里 kbd / shortcut 方块过大问题 */
+header kbd,
+.navbar kbd,
+header .kbd,
+.navbar .kbd {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: auto !important;
+  max-width: 100% !important;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+/* 9) 防止 header 内部元素撑爆布局 */
+header *,
+.site-header *,
+.navbar * {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+/* 10) 防止某些全宽元素把页面从左上角撑出奇怪长条 */
+img,
+iframe,
+embed,
+object,
+video,
+canvas {
+  max-width: 100%;
+}
+
+/* 11) details/summary 只保留你页面内需要的正常行为 */
+details summary {
+  cursor: pointer;
 }
