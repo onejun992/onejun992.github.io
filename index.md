@@ -1049,19 +1049,20 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
 ## Education
 
-- **Doctor of Arts (D.A.) in Global Culture Contents** 
-  Graduate School of Humanities and Social Sciences,  
-  Sangmyung University, Seoul, South Korea  
-  *(Originally enrolled in the M.A. program; formally transferred to the integrated M.A.–D.A.track)*  
+- **Doctor of Arts in Cultural Content Studies**  
+  Graduate School (Humanities and Social Sciences), Sangmyung University, Seoul, South Korea  
+  Department of Global Culture Contents  
+  *(Initially admitted to the master's program and transferred to an integrated master's–doctoral track in March 2022)*  
   (Mar 2022 – Feb 2026)
 
-- **M.A. coursework in Global Culture Contents** 
-  Graduate School of Humanities and Social Sciences,  
-  Sangmyung University, Seoul, South Korea (Sep 2020 – Feb 2022)
+- **Master of Arts coursework completed in Global Culture Contents**  
+  Graduate School (Humanities and Social Sciences), Sangmyung University, Seoul, South Korea  
+  (Sep 2020 – Feb 2022)
 
-- **B.A. in Korea-Japan Cultural Content** 
-  College of Humanities and Social Sciences,  
-  Sangmyung University, Seoul, South Korea (Sep 2016 – Aug 2020)
+- **Bachelor of Arts in Cultural Content Studies**  
+  College of Humanities and Social Sciences, Sangmyung University, Seoul, South Korea  
+  *Major in Korea-Japan Cultural Content*  
+  (Sep 2016 – Aug 2020)
 
 ---
 
@@ -1172,19 +1173,12 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
 ## Public Engagement & Media
 
-- **Public Cultural Communication through Digital Media (Overseas Perspective)**.  
-  Operated a China-oriented overseas cultural information account on Sina Weibo with official *Orange V* verification,  
-  reaching approximately **128,000 followers** (September 2014 – December 2022).  
-  The platform primarily targeted China-based audiences interested in Korean culture,  
-  providing first-hand introductions to everyday life in Korea, including food culture, lifestyle practices,  
-  and local social trends.  
-  Following shifts in platform dynamics and audience engagement, content dissemination gradually transitioned  
-  to emerging social media platforms such as Rednot.  
+- **Public Cultural Communication through Digital Media (Overseas Perspective).**  
+  Operated a China-oriented overseas cultural communication account on Sina Weibo with official *Orange V* verification, with follower count peaking at approximately **129,000** during its active period (September 2014 – December 2022). The account primarily introduced everyday life in Korea to China-based audiences, including food culture, lifestyle practices, and local social trends. Following shifts in platform dynamics and the discontinuation of account operation, content dissemination gradually expanded to emerging platforms such as Rednote, while the account’s follower count later declined significantly.  
   *(Weibo profile: https://weibo.com/u/1202236810)*
 
-- **Editorial Experience in Public Digital Media**.  
-  Served as an editorial contributor for a WeChat public account specializing in Korean food culture  
-  (August 2017 – December 2017).
+- **Editorial Experience in Public Digital Media.**  
+  Served as an editorial contributor for a WeChat public account specializing in Korean food culture (August 2017 – December 2017).
 
 ---
 
