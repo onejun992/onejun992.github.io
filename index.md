@@ -736,7 +736,15 @@ main.ap-main details > summary strong{
 <!-- ===== RIGHT MAIN CONTENT (Academic Positioning Statement / revised full version) ===== -->
 <main class="ap-main" markdown="1">
 
-## Academic Positioning Statement
+<h2 style="font-weight:800; letter-spacing:-0.025em; margin-bottom:0.4rem;">
+  Academic Positioning Statement
+</h2>
+
+<div style="margin: -0.15rem 0 1rem 0;">
+  <span style="display:inline-block; padding:0.28rem 0.72rem; border:1px solid rgba(0,0,0,0.12); border-radius:999px; font-size:0.92rem; font-weight:600; opacity:0.9;">
+    ※ Important academic clarification
+  </span>
+</div>
 
 <div class="ap-updates-card ap-degree-note-card">
   <div class="ap-updates-meta">
