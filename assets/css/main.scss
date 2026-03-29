@@ -285,37 +285,3 @@ canvas {
 details summary {
   cursor: pointer;
 }
-
-/* ===== Global footer / page height fix ===== */
-html, body {
-  min-height: 100%;
-  height: auto;
-}
-
-body {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-}
-
-main {
-  flex: 1 0 auto;
-}
-
-footer,
-.site-footer {
-  flex-shrink: 0;
-  margin-top: 0 !important;
-}
-
-/* ===== Guard against extra blank space on subpages ===== */
-.container,
-.container.mt-5,
-.post,
-.post-content,
-.page-content,
-.cv-wrap,
-.ap-main {
-  min-height: auto !important;
-  height: auto !important;
-}
