@@ -574,14 +574,45 @@ main.ap-main details > summary strong{
   font-weight: 750;
 }
 
-.ap-name-krjp ruby {
+.ap-name-zh {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #555;
+  margin-bottom: 0.35rem;
+}
+
+.ap-name {
+  margin: 0 0 0.65rem 0;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1.05;
+  letter-spacing: -0.03em;
+  color: #111;
+}
+
+.ap-name-ko {
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: #666;
+  line-height: 1.35;
+  margin-bottom: 0.15rem;
+}
+
+.ap-name-ja {
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: #666;
+  line-height: 1.45;
+}
+
+.ap-name-ja ruby {
   ruby-align: center;
   ruby-position: over;
 }
 
-.ap-name-krjp rt {
-  font-size: 0.62em;
-  letter-spacing: 0.02em;
+.ap-name-ja rt {
+  font-size: 0.78em;
+  letter-spacing: 0.03em;
 }
   
 </style>
@@ -595,9 +626,10 @@ main.ap-main details > summary strong{
       <img class="ap-avatar" src="{{ '/assets/img/profile.png' | relative_url }}" alt="Profile photo">
 
      <div class="ap-name-block">
-  <div class="ap-name-zh">彭塬钧</div>
+<div class="ap-name-zh">彭塬钧</div>
 <h1 class="ap-name">Peng Yuanjun</h1>
-<div class="ap-name-krjp">팽원균 · <ruby>彭塬鈞<rt>ほうげんきん</rt></ruby></div>
+<div class="ap-name-ko">팽원균</div>
+<div class="ap-name-ja"><ruby>彭塬鈞<rt>ほうげんきん</rt></ruby></div>
 </div>
 <div class="ap-links" style="max-width:100%;">
 
