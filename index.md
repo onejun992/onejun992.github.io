@@ -579,10 +579,11 @@ main.ap-main details > summary strong{
   font-weight: 500;
   color: #555;
   margin-bottom: 0.35rem;
+  line-height: 1.2;
 }
 
 .ap-name {
-  margin: 0 0 0.65rem 0;
+  margin: 0 0 0.7rem 0;
   font-size: 3rem;
   font-weight: 800;
   line-height: 1.05;
@@ -590,19 +591,33 @@ main.ap-main details > summary strong{
   color: #111;
 }
 
-.ap-name-ko {
+.ap-name-krjp {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.45rem;
+  flex-wrap: nowrap;
   font-size: 1.05rem;
   font-weight: 500;
   color: #666;
-  line-height: 1.35;
-  margin-bottom: 0.15rem;
+  line-height: 1.2;
+  margin-bottom: 0.35rem;
+  white-space: nowrap;
+}
+
+.ap-name-ko {
+  display: inline-block;
+}
+
+.ap-name-sep {
+  display: inline-block;
+  color: #888;
+  transform: translateY(-0.02em);
 }
 
 .ap-name-ja {
-  font-size: 1.05rem;
-  font-weight: 500;
-  color: #666;
-  line-height: 1.45;
+  display: inline-block;
+  white-space: nowrap;
 }
 
 .ap-name-ja ruby {
@@ -611,8 +626,9 @@ main.ap-main details > summary strong{
 }
 
 .ap-name-ja rt {
-  font-size: 0.78em;
-  letter-spacing: 0.03em;
+  font-size: 0.72em;
+  line-height: 1;
+  letter-spacing: 0.02em;
 }
   
 </style>
@@ -628,8 +644,10 @@ main.ap-main details > summary strong{
      <div class="ap-name-block">
 <div class="ap-name-zh">彭塬钧</div>
 <h1 class="ap-name">Peng Yuanjun</h1>
-<div class="ap-name-ko">팽원균</div>
-<div class="ap-name-ja"><ruby>彭塬鈞<rt>ほうげんきん</rt></ruby></div>
+<div class="ap-name-krjp">
+  <span class="ap-name-ko">팽원균</span>
+  <span class="ap-name-sep">·</span>
+  <span class="ap-name-ja"><ruby>彭塬鈞<rt>ほうげんきん</rt></ruby></span>
 </div>
 <div class="ap-links" style="max-width:100%;">
 
