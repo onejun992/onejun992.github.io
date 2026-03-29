@@ -573,6 +573,16 @@ main.ap-main details > summary strong{
 .ap-degree-note-card .ml-text strong{
   font-weight: 750;
 }
+
+.ap-name-krjp ruby {
+  ruby-align: center;
+  ruby-position: over;
+}
+
+.ap-name-krjp rt {
+  font-size: 0.62em;
+  letter-spacing: 0.02em;
+}
   
 </style>
 
@@ -586,8 +596,8 @@ main.ap-main details > summary strong{
 
      <div class="ap-name-block">
   <div class="ap-name-zh">彭塬钧</div>
-  <h1 class="ap-name">Peng Yuanjun</h1>
-  <div class="ap-name-krjp">팽원균 · ほうげんきん(彭塬鈞)</div>
+<h1 class="ap-name">Peng Yuanjun</h1>
+<div class="ap-name-krjp">팽원균 · <ruby>彭塬鈞<rt>ほうげんきん</rt></ruby></div>
 </div>
 <div class="ap-links" style="max-width:100%;">
 
