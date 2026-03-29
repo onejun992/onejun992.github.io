@@ -215,30 +215,6 @@ main,
   z-index: 1;
 }
 
-/* 5) footer 不允许悬浮压在正文上 */
-footer,
-.site-footer,
-.fixed-bottom,
-footer.fixed-bottom,
-.sticky-bottom,
-footer.sticky-bottom {
-  position: static !important;
-  inset: auto !important;
-  top: auto !important;
-  right: auto !important;
-  bottom: auto !important;
-  left: auto !important;
-  width: 100% !important;
-  transform: none !important;
-  z-index: 1 !important;
-}
-
-/* 6) 给 footer 和正文拉开一点距离 */
-footer,
-.site-footer {
-  margin-top: 2rem !important;
-}
-
 /* 7) 隐藏异常冒出来的导航/搜索触发器 */
 .nav-trigger,
 input.nav-trigger,
