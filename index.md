@@ -1173,6 +1173,10 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
 ## Public Engagement & Media
 
+- **Practice-based Research and Creative Activity through Digital Media.**  
+  Continuously engaged in practice-based research centered on Japanese subculture and ACG-related media practice. Through sustained creative activity on the Chinese video platform Bilibili, cultural production is approached not as a supplementary interest, but as a methodological site where cultural meaning, identity, and affective experience are explored through virtual performance, anime-song covers, and media production.  
+  *(Bilibili: https://space.bilibili.com/103596519)*
+
 - **Public Cultural Communication through Digital Media (Overseas Perspective).**  
   Operated a China-oriented overseas cultural communication account on Sina Weibo with official *Orange V* verification, with follower count peaking at approximately **129,000** during its active period (September 2014 – December 2022). The account primarily introduced everyday life in Korea to China-based audiences, including food culture, lifestyle practices, and local social trends. Following shifts in platform dynamics and the discontinuation of account operation, content dissemination gradually expanded to emerging platforms such as Rednote, while the account’s follower count later declined significantly.  
   *(Weibo profile: https://weibo.com/u/1202236810)*
