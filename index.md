@@ -746,11 +746,6 @@ main.ap-main details > summary strong{
   </span>
 </div>
 
-<div class="ap-updates-card ap-degree-note-card">
-  <div class="ap-updates-meta">
-    <span class="ap-badge">Academic Positioning Statement</span>
-  </div>
-
   <p class="ap-updates-main">
     <strong>Research-oriented doctoral positioning in Cultural Content Studies</strong><br>
     <span class="ap-degree-note-en">
