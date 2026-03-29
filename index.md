@@ -842,7 +842,7 @@ main.ap-main details > summary strong{
     </div>
   </details>
 </div>
-</div>
+
 
 <hr />
 
