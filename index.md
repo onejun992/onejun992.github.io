@@ -784,8 +784,7 @@ main.ap-main details > summary strong{
           Within that institutional setting, however, my own pathway belonged clearly to the <strong>Cultural Content Studies</strong> direction, characterized by a <strong>humanities-based</strong>, <strong>theory-driven</strong>, and <strong>research-oriented</strong> formation. It should therefore be distinguished both from historically common <strong>professional and in-service study patterns</strong> and from the more <strong>arts- or practice-led doctoral profiles</strong> that were associated with other directions in the broader field.<br><br>
 
           During my doctoral training, I completed rigorous scholarly work including academic writing and publication, conference presentations, and participation in research projects. Therefore, although the diploma formally designates the degree as <strong>Doctor of Arts (D.A.)</strong>, the actual training pathway, academic standards, and research outcomes should be understood as those of a <strong>Ph.D.-level research doctorate</strong> in the humanities. In this sense, the doctoral title conferred upon me should be regarded as <strong>academically equivalent in standing and function to a Ph.D.</strong>, rather than as a professional, arts-based, or practice-led doctorate.
-        </div>
-
+       
         <div class="ml-tag">KR</div>
         <div class="ml-text">
           <strong>학문적 정체성 및 설명</strong><br>
