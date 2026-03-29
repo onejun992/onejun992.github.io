@@ -747,21 +747,18 @@ main.ap-main details > summary strong{
 </div>
 
   <p class="ap-updates-main">
-    <strong>Research-oriented doctoral positioning in Cultural Content Studies</strong><br>
-    <span class="ap-degree-note-en">
-      Although the degree was formally conferred as <strong>Doctor of Arts (D.A.)</strong>,
-      my actual academic formation was a <strong>full-time</strong>, <strong>humanities-based</strong>,
-      <strong>theory-driven research pathway</strong> in <strong>Cultural Content Studies</strong>.
-      From earning a <strong>Bachelor of Arts in Cultural Content Studies</strong> with a major in
-      <strong>Korea-Japan Cultural Content</strong> in <strong>2016</strong> through doctoral
-      degree completion in <strong>2026</strong>, I have pursued a continuous
-      <strong>ten-year academic trajectory</strong> in the field, distinct from
-      <strong>practice-based</strong>, <strong>performance-oriented</strong>, or
-      <strong>mid-career professional tracks</strong>.
-      In this sense, the academic training, research requirements, and scholarly orientation
-      of my doctorate were equivalent to those of a <strong>Ph.D.-level research doctorate</strong>.
-    </span>
-  </p>
+  <strong>Research-oriented doctoral positioning in Cultural Content Studies</strong><br>
+  <span class="ap-degree-note-en">
+    Although the degree was formally conferred as <strong>Doctor of Arts (D.A.)</strong>,
+    my actual academic formation was a full-time, humanities-based, theory-driven research pathway in
+    <strong>Cultural Content Studies</strong>.
+    From earning a Bachelor of Arts in Cultural Content Studies with a major in Korea-Japan Cultural Content in 2016
+    through doctoral degree completion in 2026, I have pursued a continuous ten-year academic trajectory in the field,
+    distinct from practice-based, performance-oriented, or mid-career professional tracks.
+    In this sense, the academic training, research requirements, and scholarly orientation of my doctorate were
+    equivalent to those of a <strong>Ph.D.-level research doctorate</strong>.
+  </span>
+</p>
 
   <div class="ap-updates-sub">
   <details>
