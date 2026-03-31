@@ -595,15 +595,15 @@ main.ap-main details > summary strong{
 }
 
 .ap-name-krjp{
-  display:flex;
-  align-items:flex-end;
-  flex-wrap:wrap;
-  gap:0.9rem;
+  display:block;
+  white-space:nowrap;
+  line-height:1.6;
 }
 
 .ap-name-krjp .ap-dot{
+  display:inline-block;
+  margin:0 0.55rem;
   opacity:.65;
-  margin:0 0.25rem;
 }
 
 .ap-name-krjp ruby{
