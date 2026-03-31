@@ -593,6 +593,22 @@ main.ap-main details > summary strong{
   margin-top: 0.18rem;
   letter-spacing: 0.01em;
 }
+
+.ap-name-krjp{
+  display:flex;
+  align-items:flex-end;
+  flex-wrap:wrap;
+  gap:0.9rem;
+}
+
+.ap-name-krjp .ap-dot{
+  opacity:.65;
+  margin:0 0.25rem;
+}
+
+.ap-name-krjp ruby{
+  ruby-align:center;
+}
   
 </style>
 
@@ -605,7 +621,6 @@ main.ap-main details > summary strong{
       <img class="ap-avatar" src="{{ '/assets/img/profile.png' | relative_url }}" alt="Profile photo">
 
      <div class="ap-name-block">
-<div class="ap-name-zh">彭塬钧</div>
 <h1 class="ap-name">Peng Yuanjun</h1>
 <div class="ap-name-krjp">
   彭塬钧 <span class="ap-dot">·</span> 팽원균 <span class="ap-dot">·</span>
