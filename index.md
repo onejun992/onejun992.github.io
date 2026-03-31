@@ -605,9 +605,12 @@ main.ap-main details > summary strong{
       <img class="ap-avatar" src="{{ '/assets/img/profile.png' | relative_url }}" alt="Profile photo">
 
      <div class="ap-name-block">
-  <div class="ap-name-zh">彭塬钧</div>
+<div class="ap-name-zh">彭塬钧</div>
 <h1 class="ap-name">Peng Yuanjun</h1>
-<div class="ap-name-krjp">팽원균&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;<ruby>彭塬鈞<rt>ほうげんきん</rt></ruby></div>
+<div class="ap-name-krjp">
+  彭塬钧 <span class="ap-dot">·</span> 팽원균 <span class="ap-dot">·</span>
+  <ruby>彭塬鈞<rt>ほうげんきん</rt></ruby>
+</div>
 </div>
 <div class="ap-links" style="max-width:100%;">
 
