@@ -245,43 +245,47 @@ permalink: /practice/
   <h3>Image Copyright Statement / 图片版权敬告声明 / 画像の著作権に関する声明 / 이미지 저작권 성명</h3>
 
   <div class="notice-block">
-    <strong>English</strong>
-    <p>
-      All cosplay-related images on this page are presented solely as visual documentation of my own practice-based academic research.
-      No institution, organization, platform, or individual is permitted to reproduce, repost, redistribute, modify, commercially use, or otherwise appropriate these images without prior written permission.
-      The use of these images for AI training, machine-learning datasets, image generation models, automated scraping, or any other form of unauthorized data collection is strictly prohibited.
-      Any unauthorized use may result in legal action and claims for damages where applicable.
-    </p>
-  </div>
+  <strong>English</strong>
+  <p>
+    All cosplay-related images on this page are used solely as case-presentation materials and visual reference materials for my own practice-based academic research.
+    All cosplay cases shown here feature my own appearance and interpretive performance. Substantial personal creative labor has been invested in the process, including character styling, makeup, costume preparation, visual presentation, and post-production editing.
+    No institution, organization, platform, or individual is permitted to reproduce, repost, redistribute, modify, commercially use, or otherwise appropriate these images without prior written permission.
+    The use of these images for AI training, machine-learning datasets, image generation models, automated scraping, or any other form of unauthorized data collection is strictly prohibited.
+   If any unauthorized use is identified, I reserve the right to take legal action, hold the responsible parties liable, and seek compensation for any resulting damages.
+  </p>
+</div>
 
-  <div class="notice-block">
-    <strong>中文</strong>
-    <p>
-      本页面所有 cosplay 相关图像仅作为本人基于实践的学术研究之视觉记录与案例展示使用。
-      未经本人事先书面许可，任何机构、组织、平台或个人不得以任何形式复制、转载、搬运、再发布、修改、商用或挪用本页面图像。
-      严禁将本页面图像用于 AI 训练、机器学习数据集、图像生成模型、自动爬取，或任何未经授权的数据收集。
-      如发现未经授权使用，本人保留依法采取法律措施、追究相关责任并请求损害赔偿的权利。
-    </p>
-  </div>
+<div class="notice-block">
+  <strong>中文</strong>
+  <p>
+    本页面所有 cosplay 相关图片，均仅作为本人实践型学术研究的案例展示材料与图像资料使用。
+    本页面所展示的所有 cosplay 案例均由本人出镜并进行角色演绎；从角色妆造、服装准备、视觉呈现到图片后期处理，均凝结了本人投入的大量时间、劳动与创作心血。
+    未经本人事先书面许可，任何机构、组织、平台或个人不得以任何形式复制、转载、搬运、再发布、修改、商用或挪用本页面图片。
+    严禁将本页面图片用于 AI 训练、机器学习数据集、图像生成模型、自动爬取，或任何未经授权的数据收集。
+    如发现未经授权使用，本人保留依法采取法律措施、追究相关责任，并要求相关责任方赔偿损失的权利。
+  </p>
+</div>
 
-  <div class="notice-block">
-    <strong>日本語</strong>
-    <p>
-      本ページに掲載されているコスプレ関連画像は、本人による実践型学術研究の視覚的記録および事例提示のみを目的として使用されています。
-      本人の事前の書面による許可なく、いかなる機関、団体、プラットフォーム、または個人による複製、転載、再配布、改変、商用利用、その他の無断利用を禁じます。
-      また、AI学習、機械学習用データセット、画像生成モデル、自動収集・スクレイピング、その他の無断データ収集への利用を固く禁じます。
-      無断使用が確認された場合、法的措置および損害賠償請求を含む対応を行う場合があります。
-    </p>
-  </div>
+<div class="notice-block">
+  <strong>日本語</strong>
+  <p>
+    本ページに掲載されているコスプレ関連画像は、本人による実践型学術研究における事例提示資料および画像資料としてのみ使用されています。
+    本ページに示されているすべてのコスプレ事例は、本人が被写体として出演し、キャラクターの解釈および表現を行ったものです。キャラクターのスタイリング、メイク、衣装準備、視覚的表現、画像の後処理に至るまで、本人による多くの時間、労力、創作上の工夫が投入されています。
+    本人の事前の書面による許可なく、いかなる機関、団体、プラットフォーム、または個人による複製、転載、再配布、改変、商用利用、その他の無断利用を禁じます。
+    また、AI学習、機械学習用データセット、画像生成モデル、自動収集・スクレイピング、その他の無断データ収集への利用を固く禁じます。
+    無断使用が確認された場合、法的措置を講じ、関係する責任者に対して損害の賠償を求める権利を留保します。
+  </p>
+</div>
 
-  <div class="notice-block">
-    <strong>한국어</strong>
-    <p>
-      본 페이지의 코스프레 관련 이미지는 본인의 실천 기반 학술 연구에 대한 시각적 기록 및 사례 제시 목적으로만 게시되었습니다.
-      본인의 사전 서면 허가 없이 어떠한 기관, 단체, 플랫폼 또는 개인도 해당 이미지를 복제, 전재, 재배포, 수정, 상업적으로 이용하거나 기타 방식으로 무단 사용할 수 없습니다.
-      또한 해당 이미지를 AI 학습, 머신러닝 데이터셋, 이미지 생성 모델, 자동 수집·스크래핑 또는 기타 무단 데이터 수집에 사용하는 것을 엄격히 금지합니다.
-      무단 사용이 확인될 경우, 법적 조치 및 손해배상 청구를 포함한 대응을 할 수 있습니다.
-    </p>
-  </div>
+<div class="notice-block">
+  <strong>한국어</strong>
+  <p>
+    본 페이지의 코스프레 관련 이미지는 본인의 실천 기반 학술 연구에서 사례 제시 자료 및 이미지 자료로만 사용됩니다.
+    본 페이지에 제시된 모든 코스프레 사례는 본인이 직접 출연하고 캐릭터를 해석·표현한 것입니다. 캐릭터 스타일링, 메이크업, 의상 준비, 시각적 표현, 이미지 후반 작업에 이르기까지 본인의 많은 시간, 노동, 창작적 노력이 투입되었습니다.
+    본인의 사전 서면 허가 없이 어떠한 기관, 단체, 플랫폼 또는 개인도 해당 이미지를 복제, 전재, 재배포, 수정, 상업적으로 이용하거나 기타 방식으로 무단 사용할 수 없습니다.
+    또한 해당 이미지를 AI 학습, 머신러닝 데이터셋, 이미지 생성 모델, 자동 수집·스크래핑 또는 기타 무단 데이터 수집에 사용하는 것을 엄격히 금지합니다.
+    무단 사용이 확인될 경우, 필요한 법적 조치를 취하고 관련 책임자에게 손해 배상을 요구할 권리를 보유합니다.
+  </p>
+</div>
 </div>
 </div>
