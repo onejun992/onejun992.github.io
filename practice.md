@@ -166,7 +166,7 @@ permalink: /practice/
       <img src="/assets/img/cosplay-01.jpg" alt="Cosplay practice: Scaramouche">
       <figcaption>
         <strong>Figure 2.</strong>
-        Visual documentation of embodied character interpretation within Japanese ACG culture.
+        Visual documentation of embodied character interpretation within ACG culture.
       </figcaption>
       <div class="character-note">
         <strong>Character referenced:</strong> Scaramouche (from <em>Genshin Impact</em>)<br>
