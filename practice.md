@@ -159,7 +159,7 @@ permalink: /practice/
     <h3>What I examine</h3>
     <ul class="practice-list">
       <li>How character design and visual semiotics are translated into embodied presence.</li>
-      <li>How bodies, media texts, and affective stances interact within Japanese ACG-related cosplay cultures.</li>
+      <li>How bodies, media texts, and affective stances interact within ACG-related cosplay cultures.</li>
     </ul>
 
     <figure class="research-figure">
@@ -200,10 +200,10 @@ permalink: /practice/
 
     <figure class="research-figure">
   <img src="/assets/img/cosplay-04.jpg" alt="Cosplay practice: Ellen Joe">
-  <figcaption>
-    <strong>Figure 5.</strong>
-    Visual material supporting practice-based reflection on character embodiment and visual interpretation within contemporary ACG culture.
-  </figcaption>
+ <figcaption>
+  <strong>Figure 5.</strong>
+  Visual documentation of cosplay practice as an embodied interpretation of character design within contemporary ACG culture.
+</figcaption>
   <div class="character-note">
     <strong>Character referenced:</strong> Ellen Joe (from <em>Zenless Zone Zero</em>)<br>
     <strong>Costume referenced:</strong> Ellen: On Campus<br>
@@ -242,7 +242,7 @@ permalink: /practice/
   </div>
 
 <div class="image-rights-notice">
-  <h3>Image Use Notice / 图像使用声明 / 画像使用に関する注意 / 이미지 사용 안내</h3>
+  <h3>Image Copyright Statement / 图片版权敬告声明 / 画像の著作権に関する声明 / 이미지 저작권 성명</h3>
 
   <div class="notice-block">
     <strong>English</strong>
