@@ -158,6 +158,20 @@ permalink: /practice/
       </div>
     </figure>
 
+    <figure class="research-figure">
+  <img src="/assets/img/cosplay-04.jpg" alt="Cosplay practice: Ellen Joe">
+  <figcaption>
+    <strong>Figure 5.</strong>
+    Visual material supporting practice-based reflection on character embodiment and visual interpretation within contemporary ACG culture.
+  </figcaption>
+  <div class="character-note">
+    <strong>Character referenced:</strong> Ellen Joe (from <em>Zenless Zone Zero</em>)<br>
+    <strong>Costume referenced:</strong> Ellen: On Campus<br>
+    <strong>キャラクター：</strong> エレン・ジョー（『ゼンレスゾーンゼロ』）<br>
+    <strong>コスチューム：</strong> エレン「月曜から金曜まで」
+  </div>
+</figure>
+
     <h3>Interpretive note</h3>
     <p style="max-width:600px; margin: 10px auto 0; font-size: 0.9em; line-height: 1.7;">
       Within Japanese “two-dimensional” (subcultural) and cosplay cultures, real-world gender is often de-emphasized or rendered secondary to character-based identification. As a result, cosplay practices are generally not constrained by the cosplayer’s biological or social gender. Grounded in a shared affection for Japanese ACG culture and a strong sense of fandom-based identification, cosplay participants frequently suspend their “three-dimensional” (real-world) identity markers and engage with one another primarily within the “two-dimensional” cultural imaginary. Through this process, cosplay contributes to the formation of distinctive <em>subcultural social networks (circle layers)</em>, in which mutual recognition is structured around characters, aesthetics, and shared cultural knowledge rather than real-world demographic attributes.
