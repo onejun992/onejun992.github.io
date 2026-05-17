@@ -33,6 +33,46 @@ permalink: /practice/
   padding: 14px 16px;
   border-left: 4px solid #ddd;
 }
+  .image-rights-notice {
+  margin: 3rem 0 1rem;
+  padding: 1.4rem 1.6rem;
+  border: 1px solid #ddd;
+  border-left: 5px solid #222;
+  border-radius: 10px;
+  background: #fafafa;
+  color: #222;
+  line-height: 1.7;
+}
+
+.image-rights-notice h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.image-rights-notice .notice-block {
+  margin-top: 1rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid #e5e5e5;
+}
+
+.image-rights-notice .notice-block:first-of-type {
+  border-top: none;
+  padding-top: 0;
+}
+
+.image-rights-notice .notice-block strong {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.image-rights-notice p {
+  margin: 0;
+  font-size: 0.92rem;
+}
 </style>
 
 <div class="practice-page">
