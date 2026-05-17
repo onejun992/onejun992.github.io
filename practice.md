@@ -201,4 +201,47 @@ permalink: /practice/
     </p>
   </div>
 
+<div class="image-rights-notice">
+  <h3>Image Use Notice / 图像使用声明 / 画像使用に関する注意 / 이미지 사용 안내</h3>
+
+  <div class="notice-block">
+    <strong>English</strong>
+    <p>
+      All cosplay-related images on this page are presented solely as visual documentation of my own practice-based academic research.
+      No institution, organization, platform, or individual is permitted to reproduce, repost, redistribute, modify, commercially use, or otherwise appropriate these images without prior written permission.
+      The use of these images for AI training, machine-learning datasets, image generation models, automated scraping, or any other form of unauthorized data collection is strictly prohibited.
+      Any unauthorized use may result in legal action and claims for damages where applicable.
+    </p>
+  </div>
+
+  <div class="notice-block">
+    <strong>中文</strong>
+    <p>
+      本页面所有 cosplay 相关图像仅作为本人基于实践的学术研究之视觉记录与案例展示使用。
+      未经本人事先书面许可，任何机构、组织、平台或个人不得以任何形式复制、转载、搬运、再发布、修改、商用或挪用本页面图像。
+      严禁将本页面图像用于 AI 训练、机器学习数据集、图像生成模型、自动爬取，或任何未经授权的数据收集。
+      如发现未经授权使用，本人保留依法采取法律措施、追究相关责任并请求损害赔偿的权利。
+    </p>
+  </div>
+
+  <div class="notice-block">
+    <strong>日本語</strong>
+    <p>
+      本ページに掲載されているコスプレ関連画像は、本人による実践型学術研究の視覚的記録および事例提示のみを目的として使用されています。
+      本人の事前の書面による許可なく、いかなる機関、団体、プラットフォーム、または個人による複製、転載、再配布、改変、商用利用、その他の無断利用を禁じます。
+      また、AI学習、機械学習用データセット、画像生成モデル、自動収集・スクレイピング、その他の無断データ収集への利用を固く禁じます。
+      無断使用が確認された場合、法的措置および損害賠償請求を含む対応を行う場合があります。
+    </p>
+  </div>
+
+  <div class="notice-block">
+    <strong>한국어</strong>
+    <p>
+      본 페이지의 코스프레 관련 이미지는 본인의 실천 기반 학술 연구에 대한 시각적 기록 및 사례 제시 목적으로만 게시되었습니다.
+      본인의 사전 서면 허가 없이 어떠한 기관, 단체, 플랫폼 또는 개인도 해당 이미지를 복제, 전재, 재배포, 수정, 상업적으로 이용하거나 기타 방식으로 무단 사용할 수 없습니다.
+      또한 해당 이미지를 AI 학습, 머신러닝 데이터셋, 이미지 생성 모델, 자동 수집·스크래핑 또는 기타 무단 데이터 수집에 사용하는 것을 엄격히 금지합니다.
+      무단 사용이 확인될 경우, 법적 조치 및 손해배상 청구를 포함한 대응을 할 수 있습니다.
+    </p>
+  </div>
+</div>
 </div>
