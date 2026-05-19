@@ -291,9 +291,12 @@ details[open].pub-lang > summary::before{content:"▾";}
         Sangmyung University, Graduate School, Seoul, South Korea.
       </div>
 
-      <div class="pub-links">
-  <a class="pub-link" href="https://你的博士论文公开URL" target="_blank" rel="noopener">
-    Dissertation (Full text)
+   <div class="pub-links">
+  <a class="pub-link"
+     href="http://www.dcollection.net/handler/smulib/200000955978"
+     target="_blank"
+     rel="noopener noreferrer">
+    Dissertation Full Text
   </a>
 </div>
 
