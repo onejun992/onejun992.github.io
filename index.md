@@ -1103,21 +1103,22 @@ More broadly, my research aims to explore how cultural contents are produced, tr
 
 ## Education
 
-- **Doctor of Arts in Cultural Content Studies**  
+- **Doctor of Arts**  
   Graduate School (Humanities and Social Sciences), Sangmyung University, Seoul, South Korea  
   Department of Global Culture Contents  
-  *(Initially admitted to the master's program and transferred to an integrated master's–doctoral track in March 2022)*  
+  *Major: Cultural Contents*  
+  *(Initially admitted to the master's program and transferred to the Integrated Master's and Doctoral Course in March 2022)*  
   (Mar 2022 – Feb 2026)
 
-- **Master of Arts coursework completed in Global Culture Contents**  
+- **Master's Program in Global Culture Contents**  
   Graduate School (Humanities and Social Sciences), Sangmyung University, Seoul, South Korea  
+  *(Transferred to the Integrated Master's and Doctoral Course in March 2022)*  
   (Sep 2020 – Feb 2022)
 
-- **Bachelor of Arts in Cultural Content Studies**  
-  College of Humanities and Social Sciences, Sangmyung University, Seoul, South Korea  
-  *Major in Korea-Japan Cultural Content*  
+- **Bachelor of Cultural Content**  
+  School of Humanities and Cultural Contents, Sangmyung University, Seoul, South Korea  
+  Department of Korea-Japan Cultural Content  
   (Sep 2016 – Aug 2020)
-
 ---
 
 ## Language Proficiency
