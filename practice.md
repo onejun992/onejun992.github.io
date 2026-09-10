@@ -4,21 +4,36 @@ title: Practice-based Research
 permalink: /practice/
 ---
 
-<!-- Keep page-specific figure styling (unchanged) -->
+<!-- Keep page-specific figure styling -->
 <style>
+.cosplay-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px 24px;
+  align-items: start;
+  margin-top: 24px;
+}
+
+.research-figure {
+  margin: 0;
+}
+
 .research-figure img {
   max-width: 600px;
   width: 100%;
+  height: auto;
   border-radius: 12px;
   display: block;
   margin: 0 auto;
 }
+
 .research-figure figcaption {
   max-width: 600px;
   margin: 10px auto 0;
   font-size: 0.92em;
   line-height: 1.6;
 }
+
 .character-note {
   max-width: 600px;
   margin: 6px auto 0;
@@ -28,12 +43,20 @@ permalink: /practice/
   background: #f6f6f6;
   border-left: 3px solid #999;
 }
+
+@media (max-width: 800px) {
+  .cosplay-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 .callout {
   margin: 22px 0;
   padding: 14px 16px;
   border-left: 4px solid #ddd;
 }
-  .image-rights-notice {
+
+.image-rights-notice {
   margin: 3rem 0 1rem;
   padding: 1.4rem 1.6rem;
   border: 1px solid #ddd;
@@ -175,9 +198,21 @@ permalink: /practice/
     </figure>
 
     <figure class="research-figure">
-      <img src="/assets/img/cosplay-02.jpg" alt="Cosplay practice: Gojo Satoru">
+      <img src="/assets/img/cosplay-06.jpg" alt="Cosplay practice: Saber Alter">
       <figcaption>
         <strong>Figure 3.</strong>
+        Visual exploration of altered heroic identity, visual symbolism, and embodied character reconstruction within ACG culture.
+      </figcaption>
+      <div class="character-note">
+        <strong>Character referenced:</strong> Saber Alter (from <em>Fate/stay night</em>)<br>
+        <strong>キャラクター：</strong> セイバーオルタ（『Fate/stay night』）
+      </div>
+    </figure>
+
+    <figure class="research-figure">
+      <img src="/assets/img/cosplay-02.jpg" alt="Cosplay practice: Gojo Satoru">
+      <figcaption>
+        <strong>Figure 4.</strong>
         Visual exploration of character imagery and bodily alignment in cosplay-based practice.
       </figcaption>
       <div class="character-note">
@@ -189,7 +224,7 @@ permalink: /practice/
     <figure class="research-figure">
       <img src="/assets/img/cosplay-03.jpg" alt="Cosplay practice: Hitori Gotoh">
       <figcaption>
-        <strong>Figure 4.</strong>
+        <strong>Figure 5.</strong>
         Visual material supporting practice-based reflection on character embodiment.
       </figcaption>
       <div class="character-note">
@@ -203,7 +238,7 @@ permalink: /practice/
     <figure class="research-figure">
   <img src="/assets/img/cosplay-04.jpg" alt="Cosplay practice: Asuka Shikinami Langley">
  <figcaption>
-  <strong>Figure 5.</strong>
+  <strong>Figure 6.</strong>
   Visual documentation of cosplay practice as an embodied interpretation of character design within contemporary ACG culture.
 </figcaption>
   <div class="character-note">
@@ -217,7 +252,7 @@ permalink: /practice/
 <figure class="research-figure">
   <img src="/assets/img/cosplay-05.jpg" alt="Cosplay practice: Ellen Joe">
  <figcaption>
-  <strong>Figure 6.</strong>
+  <strong>Figure 7.</strong>
   Visual documentation of cosplay practice as an embodied interpretation of character design within contemporary ACG culture.
 </figcaption>
   <div class="character-note">
@@ -229,6 +264,16 @@ permalink: /practice/
     <h3>Interpretive note</h3>
     <p style="max-width:600px; margin: 10px auto 0; font-size: 0.9em; line-height: 1.7;">
       Within Japanese “two-dimensional” (subcultural) and cosplay cultures, real-world gender is often de-emphasized or rendered secondary to character-based identification. As a result, cosplay practices are generally not constrained by the cosplayer’s biological or social gender. Grounded in a shared affection for Japanese ACG culture and a strong sense of fandom-based identification, cosplay participants frequently suspend their “three-dimensional” (real-world) identity markers and engage with one another primarily within the “two-dimensional” cultural imaginary. Through this process, cosplay contributes to the formation of distinctive <em>subcultural social networks (circle layers)</em>, in which mutual recognition is structured around characters, aesthetics, and shared cultural knowledge rather than real-world demographic attributes.
+      <br><br>
+      The selected cosplay cases presented above further demonstrate the diversity of embodied participation across different media forms within ACG culture. Jeanne d'Arc (Alter) and Saber Alter belong to the broader Fate transmedia franchise, in which character identities circulate across visual novels, animation, games, and related media. Satoru Gojo and Hitori Gotoh represent characters whose cultural visibility has developed through the interaction between manga and animation, showing how textual and visual character representations are subsequently reconstructed through fan-based bodily practice.
+      <br><br>
+      The Asuka case demonstrates another form of transmedia circulation. As an established character originating from the Evangelion anime franchise, Asuka is reconfigured here through a contemporary game collaboration and an alternative costume design, illustrating how existing anime characters can acquire new visual meanings when transferred into different media and commercial contexts. Ellen Joe, by contrast, represents a character originating from a Chinese-developed two-dimensional game, demonstrating the increasingly transnational circulation of ACG aesthetics and character cultures beyond Japan and across East Asian digital media industries.
+      <br><br>
+      From a practice-based research perspective, cosplay enables the researcher to engage with cultural texts through bodily and visual reconstruction rather than textual interpretation alone. Costume selection, character styling, posture, facial expression, photographic composition, and visual presentation all involve interpretive decisions through which fictional characters are translated into embodied form. In this sense, cosplay functions not merely as fan consumption, but as a form of participatory cultural production through which characters, visual symbols, and affective meanings are actively reproduced and renegotiated.
+      <br><br>
+      These practices also position the researcher simultaneously as observer, participant, and cultural practitioner. By entering the same <em>subcultural social networks (circle layers)</em> that constitute the object of study, practice-based research can provide access to forms of affective, embodied, and relational knowledge that may be difficult to capture through external observation alone. This dual position makes it possible to examine ACG culture not only as a media phenomenon, but also as a lived cultural practice shaped through participation, identification, creative labor, and social interaction.
+      <br><br>
+      Ultimately, the works and characters examined through these cosplay practices are themselves part of ACG culture. These embodied practices therefore return directly to my central research field: <strong>ACG cultural content and two-dimensional cultural content</strong>. My research is characterized by the integration of theoretical analysis with sustained first-person cultural practice. Rather than approaching ACG and two-dimensional culture solely as external objects of observation, I engage with them simultaneously as a researcher, participant, content practitioner, and member of the relevant <em>subcultural social networks (circle layers)</em>. This combined position allows me to connect textual and theoretical analysis with embodied experience, visual production, fan participation, and everyday cultural practice. In this sense, my work develops a distinctive practice-based approach to ACG cultural content and two-dimensional cultural content, in which theory and lived cultural participation are treated as mutually informing dimensions of research.
     </p>
   </div>
 
