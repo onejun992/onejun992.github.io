@@ -334,16 +334,12 @@ permalink: /practice/
     </p>
   </div>
 
-<details>
-  <summary>
-    Image Copyright Statement / 图片版权敬告声明 / 画像の著作権に関する声明 / 이미지 저작권 성명
-  </summary>
+<div class="image-rights-notice">
+  <h3>Image Copyright Statement / 图片版权敬告声明 / 画像の著作権に関する声明 / 이미지 저작권 성명</h3>
 
-  <div class="image-rights-notice">
-
-    <div class="notice-block">
-      <strong>English</strong>
-      <p>
+  <div class="notice-block">
+  <strong>English</strong>
+  <p>
     All cosplay-related images on this page are used solely as case-presentation materials and visual reference materials for my own practice-based academic research.
     All cosplay cases shown here feature my own appearance and interpretive performance. Substantial personal creative labor has been invested in the process, including character styling, makeup, costume preparation, visual presentation, and post-production editing.
     No institution, organization, platform, or individual is permitted to reproduce, repost, redistribute, modify, commercially use, or otherwise appropriate these images without prior written permission.
