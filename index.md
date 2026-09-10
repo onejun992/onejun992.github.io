@@ -1119,6 +1119,7 @@ More broadly, my research aims to explore how cultural contents are produced, tr
   School of Humanities and Cultural Contents, Sangmyung University, Seoul, South Korea  
   Department of Korea-Japan Cultural Content  
   (Sep 2016 – Aug 2020)
+  
 ---
 
 ## Language Proficiency
