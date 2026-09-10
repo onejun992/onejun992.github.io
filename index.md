@@ -698,7 +698,7 @@ main.ap-main details > summary strong{
    <div class="ap-value ap-tags">
   <span class="ap-tag">Cultural Content</span>
   <span class="ap-tag">Cultural Hybridity</span>
-  <span class="ap-tag">Japanese Two-Dimensional Culture · ACG Culture</span>
+  <span class="ap-tag">Japanese Subculture · ACG Culture</span>
 </div>
   </div>
 
