@@ -944,7 +944,7 @@ From the perspective of cultural content re-creation and the reconstruction of m
     <p>
       본인은 한국 상명대학교 글로벌문화콘텐츠학과 문화콘텐츠 전공에서 박사학위를 취득하였다.
       주요 연구분야는 문화콘텐츠학이며, 문화혼종 이론 및 그 관점을 연구의 핵심 이론적 프레임으로 설정한다.
-      연구방향은 2차원(Nijigen) 문화와 ACG(애니메이션·만화·게임) 문화를 핵심 연구 대상으로 하며, 일본 서브컬쳐와 오타쿠 문화 등 관련 문화영역에도 지속적으로 주목한다.
+      연구방향은 2차원 문화와 ACG(애니메이션·만화·게임) 문화를 핵심 연구 대상으로 하며, 일본 서브컬쳐와 오타쿠 문화 등 관련 문화영역에도 지속적으로 주목한다.
     </p>
 
     <p>
@@ -972,7 +972,7 @@ From the perspective of cultural content re-creation and the reconstruction of m
     <p>
       本人は韓国・祥明大学グローバル文化コンテンツ学科文化コンテンツ学専攻にて博士号を取得した。
       主な研究分野は文化コンテンツ学であり、文化的な混種に関する理論およびその見解を研究の中核的な理論枠組として位置づける。
-      研究方向は二次元（Nijigen）文化およびACG（アニメーション・漫画・ゲーム）文化を中核的な研究対象とし、日本のサブカルチャー、御宅文化などの関連文化領域にも継続的に注目する。
+      研究方向は二次元文化およびACG（アニメーション・漫画・ゲーム）文化を中核的な研究対象とし、日本のサブカルチャー、御宅文化などの関連文化領域にも継続的に注目する。
     </p>
 
     <p>
@@ -1000,7 +1000,7 @@ From the perspective of cultural content re-creation and the reconstruction of m
     <p>
       本人毕业于韩国祥明大学全球文化内容学科文化内容学专业，并取得博士学位。
       主要研究领域为文化内容学，并以文化混种理论及其观点作为研究的核心理论框架，
-      研究方向以二次元（Nijigen）文化与ACG（动画·漫画·游戏）文化为核心研究对象，同时持续关注日本亚文化、御宅文化等相关文化领域。
+      研究方向以二次元文化与ACG（动画·漫画·游戏）文化为核心研究对象，同时持续关注日本亚文化、御宅文化等相关文化领域。
     </p>
 
     <p>
@@ -1023,13 +1023,15 @@ From the perspective of cultural content re-creation and the reconstruction of m
 
 ## Research Background
 
-My academic interest lies in cultural content studies, with a particular focus on ACG (Animation, Comics, and Games) cultures and cultural hybridity in East Asia. My research is grounded in long-term engagement with Japanese popular culture and its transnational circulation, especially within contemporary Chinese digital media environments.
+My research background is rooted in long-term engagement with Japanese Two-Dimensional (Nijigen) Culture and ACG (Animation, Comics, and Games) Culture, as well as sustained academic interest in their circulation and transformation across East Asia. This long-term engagement gradually developed into a broader interest in how cultural contents originating within particular cultural contexts are received, reinterpreted, and re-created as they move across national, social, and media boundaries, especially within contemporary Chinese digital media environments.
 
-I conceptualize culture as a dynamic and bidirectional process rather than a one-way flow from dominant to peripheral regions. Cultural exchange often involves reciprocal influence, conflict, negotiation, and eventual hybridization, producing new cultural forms and meanings. This perspective has guided my interest in cultural hybridity as a key analytical framework.
+Rather than understanding culture as a one-way flow from dominant cultural centers to peripheral regions, I approach cultural circulation as a dynamic and bidirectional process involving reception, adaptation, negotiation, conflict, and re-creation. Through these processes, cultural elements may acquire new meanings and forms within different local contexts. This perspective led me to adopt cultural hybridity as a central theoretical framework for examining the movement, transformation, and reconstruction of cultural contents.
 
-My recent research has focused on the Chinese video-sharing platform Bilibili as a representative site of cultural hybridity, where Japanese subcultural elements, local youth cultures, and platform-based participatory practices intersect. In parallel, I examine the development of China’s cultural industries in the context of global cultural circulation, including the international expansion of digital games and animation since 2020.
+Building on Homi K. Bhabha’s theory of cultural hybridity, I further argue that Two-Dimensional (Nijigen) Culture and ACG Culture can be reconstructed and reinterpreted in ways that enable them to function as cultural bridges linking subcultural formations with popular and traditional cultures. Within this extended theoretical framework, Two-Dimensional Culture, as well as other forms of “subculture” positioned in contrast to mainstream culture, may be incorporated into mainstream cultural formations and transformed through processes of hybridization. Through this process, previously distinct cultural elements can be recombined and endowed with new cultural attributes and meanings, gradually forming a new “third culture” that differs from, yet emerges out of, the cultural formations from which it originated.
 
-More broadly, my research aims to explore how cultural contents are produced, transformed, and circulated under conditions of globalization, and how platformization and transnational media practices contribute to the reconfiguration of cultural industries and cultural identities in contemporary East Asia.
+A major focus of my research has been the Chinese video-sharing platform Bilibili, which provides a particularly significant site for observing these processes. Emerging from a cultural environment deeply influenced by Japanese ACG and subcultural practices, Bilibili has developed into a major Chinese digital platform where Japanese subcultural elements, local youth cultures, mainstream cultural expressions, and platform-based participatory practices continuously intersect and interact. My research therefore examines Bilibili not simply as a media platform, but as a cultural space in which imported cultural elements are localized, hybridized, re-created, and increasingly incorporated into broader cultural formations.
+
+Building on this research trajectory, I also examine the changing position of Chinese cultural contents within contemporary global cultural circulation. In particular, the international expansion of Chinese digital games, animation, and other ACG-related cultural contents since 2020 has drawn my attention to increasingly complex and multidirectional cultural flows in East Asia. My broader research seeks to understand how cultural contents move between subcultural and mainstream contexts, how their meanings and identities are reconstructed through transnational circulation, and how globalization, platformization, and participatory media practices contribute to the continuing transformation of contemporary East Asian cultural environments.environments.
 
 ---
 
