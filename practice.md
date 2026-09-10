@@ -163,14 +163,14 @@ permalink: /practice/
     </ul>
 
     <figure class="research-figure">
-      <img src="/assets/img/cosplay-01.jpg" alt="Cosplay practice: Scaramouche">
+      <img src="/assets/img/cosplay-01.jpg" alt="Cosplay practice: Jeanne d'Arc (Alter)">
       <figcaption>
         <strong>Figure 2.</strong>
         Visual documentation of embodied character interpretation within ACG culture.
       </figcaption>
       <div class="character-note">
-        <strong>Character referenced:</strong> Scaramouche (from <em>Genshin Impact</em>)<br>
-        <strong>キャラクター：</strong> 散兵（『原神』）
+        <strong>Character referenced:</strong> Jeanne d'Arc (Alter) (from <em>Fate/Grand Order</em>)<br>
+        <strong>キャラクター：</strong> ジャンヌ・ダルク〔オルタ〕（『Fate/Grand Order』）
       </div>
     </figure>
 
@@ -187,28 +187,42 @@ permalink: /practice/
     </figure>
 
     <figure class="research-figure">
-      <img src="/assets/img/cosplay-03.jpg" alt="Cosplay practice: Fern">
+      <img src="/assets/img/cosplay-03.jpg" alt="Cosplay practice: Hitori Gotoh">
       <figcaption>
         <strong>Figure 4.</strong>
         Visual material supporting practice-based reflection on character embodiment.
       </figcaption>
       <div class="character-note">
-        <strong>Character referenced:</strong> Fern (from <em>Frieren: Beyond Journey’s End</em>)<br>
-        <strong>キャラクター：</strong> フェルン（『葬送のフリーレン』）
+        <strong>Character referenced:</strong> Hitori Gotoh (Bocchi) (from <em>Bocchi the Rock!</em>)<br>
+        <strong>Costume referenced:</strong> Maid costume<br>
+        <strong>キャラクター：</strong> 後藤ひとり（ぼっち）（『ぼっち・ざ・ろっく！』）<br>
+        <strong>コスチューム：</strong> メイド衣装
       </div>
     </figure>
 
     <figure class="research-figure">
-  <img src="/assets/img/cosplay-04.jpg" alt="Cosplay practice: Ellen Joe">
+  <img src="/assets/img/cosplay-04.jpg" alt="Cosplay practice: Asuka Shikinami Langley">
  <figcaption>
   <strong>Figure 5.</strong>
   Visual documentation of cosplay practice as an embodied interpretation of character design within contemporary ACG culture.
 </figcaption>
   <div class="character-note">
+    <strong>Character referenced:</strong> Asuka Shikinami Langley: WILLE (from <em>GODDESS OF VICTORY: NIKKE × Evangelion</em>)<br>
+    <strong>Costume referenced:</strong> Lonely Ocean Concerto<br>
+    <strong>キャラクター：</strong> 式波・アスカ・ラングレー：WILLE（『勝利の女神：NIKKE × エヴァンゲリオン』）<br>
+    <strong>コスチューム：</strong> 孤海の楽章
+  </div>
+</figure>
+
+<figure class="research-figure">
+  <img src="/assets/img/cosplay-05.jpg" alt="Cosplay practice: Ellen Joe">
+ <figcaption>
+  <strong>Figure 6.</strong>
+  Visual documentation of cosplay practice as an embodied interpretation of character design within contemporary ACG culture.
+</figcaption>
+  <div class="character-note">
     <strong>Character referenced:</strong> Ellen Joe (from <em>Zenless Zone Zero</em>)<br>
-    <strong>Costume referenced:</strong> Ellen: On Campus<br>
-    <strong>キャラクター：</strong> エレン・ジョー（『ゼンレスゾーンゼロ』）<br>
-    <strong>コスチューム：</strong> エレン「月曜から金曜まで」
+    <strong>キャラクター：</strong> エレン・ジョー（『ゼンレスゾーンゼロ』）
   </div>
 </figure>
 
