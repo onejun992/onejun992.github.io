@@ -697,7 +697,7 @@ main.ap-main details > summary strong{
     <div class="ap-label">Research Focus</div>
    <div class="ap-value ap-tags">
   <span class="ap-tag">Cultural Content</span>
-  <span class="ap-tag">Two-Dimensional Culture</span>
+  <span class="ap-tag">Two-Dimensional(Nijigen) Culture</span>
   <span class="ap-tag">ACG Culture</span>
   <span class="ap-tag">Cultural Hybridity</span>
 </div>
@@ -886,7 +886,7 @@ main.ap-main details > summary strong{
 
 <div class="ap-updates-card">
   <div class="ap-updates-meta">
-    <span class="ap-badge">Feb 2026</span>
+    <span class="ap-badge">Mar 2026</span>
   </div>
 
   <p class="ap-updates-main">
@@ -929,15 +929,11 @@ main.ap-main details > summary strong{
 
 I received my Doctor of Arts (D.A.) in Cultural Content from the Department of Global Culture Contents at Sangmyung University, Korea.
 
-My primary field of research is Cultural Content Studies, with cultural hybridity theory and its perspectives forming the core theoretical framework of my research.
-I focus in particular on Japanese subculture, otaku culture, and two-dimensional · ACG (animation, comics, and games) cultural contents.
+My primary field of research is Cultural Content Studies, with cultural hybridity serving as a central theoretical framework for my research. My work focuses particularly on Two-Dimensional (Nijigen) Culture and ACG (Animation, Comics, and Games) Culture, with related interests in Japanese subculture and otaku culture.
 
-Within the socio-cultural context of East Asia and the contemporary new media environment, my research pays close attention to the relationships of integration between subculture and mainstream culture,
-as well as to phenomena of cultural export and reversed cultural flows of cultural contents,
-and analyzes processes of cultural transition and transformation such as globalization, glocalization, and hybridization.
+Within the socio-cultural context of East Asia and the contemporary new media environment, my research examines the interactions between subcultural and mainstream cultural formations, as well as processes of cultural circulation, cultural export, and reverse cultural flows. Particular attention is given to processes of cultural transition and transformation, including globalization, glocalization, and hybridization.
 
-From the perspective of cultural content re-creation and the reconstruction of meaning,
-I conduct in-depth analysis and interpretation of cultural commodities and media contents.
+From the perspective of cultural content re-creation and the reconstruction of meaning, I conduct in-depth analyses and interpretations of cultural commodities and media content, with particular attention to how cultural meanings are produced, transformed, and reconfigured across different social and media contexts.
 
 ---
 
