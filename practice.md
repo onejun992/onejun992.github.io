@@ -295,7 +295,7 @@ permalink: /practice/
   </div>
 </figure>
 
-    <h3>Interpretive note</h3>
+    <h3>Analytical Perspective</h3>
     <p style="max-width:600px; margin: 10px auto 0; font-size: 0.9em; line-height: 1.7;">
       Within Japanese “two-dimensional” (subcultural) and cosplay cultures, real-world gender is often de-emphasized or rendered secondary to character-based identification. As a result, cosplay practices are generally not constrained by the cosplayer’s biological or social gender. Grounded in a shared affection for Japanese ACG culture and a strong sense of fandom-based identification, cosplay participants frequently suspend their “three-dimensional” (real-world) identity markers and engage with one another primarily within the “two-dimensional” cultural imaginary. Through this process, cosplay contributes to the formation of distinctive <em>subcultural social networks (circle layers)</em>, in which mutual recognition is structured around characters, aesthetics, and shared cultural knowledge rather than real-world demographic attributes.
       <br><br>
@@ -334,12 +334,16 @@ permalink: /practice/
     </p>
   </div>
 
-<div class="image-rights-notice">
-  <h3>Image Copyright Statement / 图片版权敬告声明 / 画像の著作権に関する声明 / 이미지 저작권 성명</h3>
+<details>
+  <summary>
+    Image Copyright Statement / 图片版权敬告声明 / 画像の著作権に関する声明 / 이미지 저작권 성명
+  </summary>
 
-  <div class="notice-block">
-  <strong>English</strong>
-  <p>
+  <div class="image-rights-notice">
+
+    <div class="notice-block">
+      <strong>English</strong>
+      <p>
     All cosplay-related images on this page are used solely as case-presentation materials and visual reference materials for my own practice-based academic research.
     All cosplay cases shown here feature my own appearance and interpretive performance. Substantial personal creative labor has been invested in the process, including character styling, makeup, costume preparation, visual presentation, and post-production editing.
     No institution, organization, platform, or individual is permitted to reproduce, repost, redistribute, modify, commercially use, or otherwise appropriate these images without prior written permission.
