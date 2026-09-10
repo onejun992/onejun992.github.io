@@ -185,79 +185,113 @@ permalink: /practice/
       <li>How bodies, media texts, and affective stances interact within ACG-related cosplay cultures.</li>
     </ul>
 
-    <figure class="research-figure">
-      <img src="/assets/img/cosplay-01.jpg" alt="Cosplay practice: Jeanne d'Arc (Alter)">
-      <figcaption>
-        <strong>Figure 2.</strong>
-        Visual documentation of embodied character interpretation within ACG culture.
-      </figcaption>
-      <div class="character-note">
-        <strong>Character referenced:</strong> Jeanne d'Arc (Alter) (from <em>Fate/Grand Order</em>)<br>
-        <strong>キャラクター：</strong> ジャンヌ・ダルク〔オルタ〕（『Fate/Grand Order』）
-      </div>
-    </figure>
+   <figure class="research-figure">
+  <img src="/assets/img/cosplay-01.jpg" alt="Cosplay practice: Jeanne d'Arc (Alter)">
+  <figcaption>
+    <strong>Figure 2.</strong>
+    Visual documentation of embodied character interpretation within ACG culture.
+  </figcaption>
+  <div class="character-note">
+    <strong>Character referenced:</strong> Jeanne d'Arc (Alter) (from <em>Fate/Grand Order</em>)<br>
+    <strong>キャラクター：</strong> ジャンヌ・ダルク〔オルタ〕（『Fate/Grand Order』）
+  </div>
+  <div class="character-note">
+    <strong>Bilibili (Cosplay Practice):</strong><br>
+    <a href="https://b23.tv/95tKwG7" target="_blank" rel="noopener noreferrer">
+      https://b23.tv/95tKwG7
+    </a>
+  </div>
+</figure>
 
-    <figure class="research-figure">
-      <img src="/assets/img/cosplay-06.jpg" alt="Cosplay practice: Saber Alter">
-      <figcaption>
-        <strong>Figure 3.</strong>
-        Visual exploration of altered heroic identity, visual symbolism, and embodied character reconstruction within ACG culture.
-      </figcaption>
-      <div class="character-note">
-        <strong>Character referenced:</strong> Saber Alter (from <em>Fate/stay night</em>)<br>
-        <strong>キャラクター：</strong> セイバーオルタ（『Fate/stay night』）
-      </div>
-    </figure>
+<figure class="research-figure">
+  <img src="/assets/img/cosplay-06.jpg" alt="Cosplay practice: Saber Alter">
+  <figcaption>
+    <strong>Figure 3.</strong>
+    Visual exploration of altered heroic identity, visual symbolism, and embodied character reconstruction within ACG culture.
+  </figcaption>
+  <div class="character-note">
+    <strong>Character referenced:</strong> Saber Alter (from <em>Fate/stay night</em>)<br>
+    <strong>キャラクター：</strong> セイバーオルタ（『Fate/stay night』）
+  </div>
+  <div class="character-note">
+    <strong>Bilibili (Cosplay Practice):</strong><br>
+    <span>Video link to be added.</span>
+  </div>
+</figure>
 
-    <figure class="research-figure">
-      <img src="/assets/img/cosplay-02.jpg" alt="Cosplay practice: Gojo Satoru">
-      <figcaption>
-        <strong>Figure 4.</strong>
-        Visual exploration of character imagery and bodily alignment in cosplay-based practice.
-      </figcaption>
-      <div class="character-note">
-        <strong>Character referenced:</strong> Satoru Gojo (from <em>Jujutsu Kaisen</em>)<br>
-        <strong>キャラクター：</strong> 五条悟（『呪術廻戦』）
-      </div>
-    </figure>
+<figure class="research-figure">
+  <img src="/assets/img/cosplay-02.jpg" alt="Cosplay practice: Gojo Satoru">
+  <figcaption>
+    <strong>Figure 4.</strong>
+    Visual exploration of character imagery and bodily alignment in cosplay-based practice.
+  </figcaption>
+  <div class="character-note">
+    <strong>Character referenced:</strong> Satoru Gojo (from <em>Jujutsu Kaisen</em>)<br>
+    <strong>キャラクター：</strong> 五条悟（『呪術廻戦』）
+  </div>
+  <div class="character-note">
+    <strong>Bilibili (Cosplay Practice):</strong><br>
+    <a href="https://b23.tv/WdW4nxT" target="_blank" rel="noopener noreferrer">
+      https://b23.tv/WdW4nxT
+    </a>
+  </div>
+</figure>
 
-    <figure class="research-figure">
-      <img src="/assets/img/cosplay-03.jpg" alt="Cosplay practice: Hitori Gotoh">
-      <figcaption>
-        <strong>Figure 5.</strong>
-        Visual material supporting practice-based reflection on character embodiment.
-      </figcaption>
-      <div class="character-note">
-        <strong>Character referenced:</strong> Hitori Gotoh (Bocchi) (from <em>Bocchi the Rock!</em>)<br>
-        <strong>Costume referenced:</strong> Maid costume<br>
-        <strong>キャラクター：</strong> 後藤ひとり（ぼっち）（『ぼっち・ざ・ろっく！』）<br>
-        <strong>コスチューム：</strong> メイド衣装
-      </div>
-    </figure>
+<figure class="research-figure">
+  <img src="/assets/img/cosplay-03.jpg" alt="Cosplay practice: Hitori Gotoh">
+  <figcaption>
+    <strong>Figure 5.</strong>
+    Visual material supporting practice-based reflection on character embodiment.
+  </figcaption>
+  <div class="character-note">
+    <strong>Character referenced:</strong> Hitori Gotoh (Bocchi) (from <em>Bocchi the Rock!</em>)<br>
+    <strong>Costume referenced:</strong> Maid costume<br>
+    <strong>キャラクター：</strong> 後藤ひとり（ぼっち）（『ぼっち・ざ・ろっく！』）<br>
+    <strong>コスチューム：</strong> メイド衣装
+  </div>
+  <div class="character-note">
+    <strong>Bilibili (Cosplay Practice):</strong><br>
+    <a href="https://b23.tv/5WYWato" target="_blank" rel="noopener noreferrer">
+      https://b23.tv/5WYWato
+    </a>
+  </div>
+</figure>
 
-    <figure class="research-figure">
+<figure class="research-figure">
   <img src="/assets/img/cosplay-04.jpg" alt="Cosplay practice: Asuka Shikinami Langley">
- <figcaption>
-  <strong>Figure 6.</strong>
-  Visual documentation of cosplay practice as an embodied interpretation of character design within contemporary ACG culture.
-</figcaption>
+  <figcaption>
+    <strong>Figure 6.</strong>
+    Visual documentation of cosplay practice as an embodied interpretation of character design within contemporary ACG culture.
+  </figcaption>
   <div class="character-note">
     <strong>Character referenced:</strong> Asuka Shikinami Langley: WILLE (from <em>GODDESS OF VICTORY: NIKKE × Evangelion</em>)<br>
     <strong>Costume referenced:</strong> Lonely Ocean Concerto<br>
     <strong>キャラクター：</strong> 式波・アスカ・ラングレー：WILLE（『勝利の女神：NIKKE × エヴァンゲリオン』）<br>
     <strong>コスチューム：</strong> 孤海の楽章
   </div>
+  <div class="character-note">
+    <strong>Bilibili (Cosplay Practice):</strong><br>
+    <a href="https://b23.tv/5kV8k0x" target="_blank" rel="noopener noreferrer">
+      https://b23.tv/5kV8k0x
+    </a>
+  </div>
 </figure>
 
 <figure class="research-figure">
   <img src="/assets/img/cosplay-05.jpg" alt="Cosplay practice: Ellen Joe">
- <figcaption>
-  <strong>Figure 7.</strong>
-  Visual documentation of cosplay practice as an embodied interpretation of character design within contemporary ACG culture.
-</figcaption>
+  <figcaption>
+    <strong>Figure 7.</strong>
+    Visual documentation of cosplay practice as an embodied interpretation of character design within contemporary ACG culture.
+  </figcaption>
   <div class="character-note">
     <strong>Character referenced:</strong> Ellen Joe (from <em>Zenless Zone Zero</em>)<br>
     <strong>キャラクター：</strong> エレン・ジョー（『ゼンレスゾーンゼロ』）
+  </div>
+  <div class="character-note">
+    <strong>Bilibili (Cosplay Practice):</strong><br>
+    <a href="https://b23.tv/KfGYLbY" target="_blank" rel="noopener noreferrer">
+      https://b23.tv/KfGYLbY
+    </a>
   </div>
 </figure>
 
