@@ -101,24 +101,24 @@ permalink: /practice/
 <div class="practice-page">
 
 <div class="practice-topic">
-  <h2>Practice-based Research in Japanese Subculture and ACG Culture</h2>
+  <h2>Practice-based Research in Japanese Two-Dimensional and ACG Culture</h2>
 </div>
 
-  <p class="practice-lead">
-    My research on Japanese subculture and ACG (Animation, Comics, Games) culture combines textual and theoretical analysis with sustained creative practice.
-    I conceptualize cultural production not as a supplementary interest, but as a methodological site where cultural meanings, identities, and affective relations are produced, negotiated, and embodied.
-  </p>
+ <p class="practice-lead">
+  My research on Japanese ACG (Animation, Comics, Games) and two-dimensional culture combines textual and theoretical analysis with sustained creative practice, particularly cosplay and V-Tuber-related production.
+  I approach cultural production not as a supplementary activity, but as a methodological site through which cultural meanings, identities, affective relations, and transnational cultural processes can be examined from within practice.
+</p>
 
-  <div class="practice-card">
-    <div class="practice-kicker">Research framing</div>
+<div class="practice-card">
+  <div class="practice-kicker">Research framing</div>
 
-    <h3>What this approach examines</h3>
-    <ul class="practice-list">
-      <li>How Japanese ACG culture is lived, reproduced, and recontextualized across transnational and digital environments.</li>
-      <li>How embodied, performative, and platform-mediated practices shape contemporary youth, Generation Z, and fandom cultures.</li>
-      <li>How identities and affective relations emerge through participatory cultural practices.</li>
-    </ul>
-  </div>
+  <h3>What this approach examines</h3>
+  <ul class="practice-list">
+    <li>How Japanese ACG and two-dimensional cultures are lived, reproduced, and recontextualized across transnational, digital, and platform environments.</li>
+    <li>How embodied and performative practices—including cosplay, character enactment, and virtual self-presentation—mediate identity, fandom participation, and cultural hybridity.</li>
+    <li>How participatory cultural practices generate affective relations, subcultural social networks, and new forms of cultural identification.</li>
+  </ul>
+</div>
 
   <div class="practice-card">
     <div class="practice-kicker">Platform-mediated practice</div>
