@@ -891,7 +891,7 @@ main.ap-main details > summary strong{
 
   <p class="ap-updates-main">
     <strong>Postdoctoral Researcher(Non-full-time，Affiliated)</strong><br>
-    <strong>K-Culture Creative Content Research Institute</strong><br>
+    <strong>Institute of K-Culture Creative Contents Research & Development</strong><br>
     <strong>Sangmyung University, Seoul, South Korea</strong>
   </p>
 
