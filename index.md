@@ -1085,6 +1085,9 @@ Building on this research trajectory, I also examine the changing position of Ch
 
   *Proceedings of the Korean Cultural Contents Joint Academic Conference*.
 
+  📄 <a href="/assets/pdf/2022_Korean_Cultural_Contents_Conference_Poster.pdf" target="_blank">Conference Poster (PDF)</a>  
+
+  Academic poster presented at the conference.
 - **Doctoral Dissertation**  
   (2026).  
   Sangmyung University, Graduate School, Seoul, South Korea.  
