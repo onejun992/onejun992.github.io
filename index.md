@@ -926,12 +926,12 @@ main.ap-main details > summary strong{
 
 <div class="ap-updates-card">
   <div class="ap-updates-meta">
-    <span class="ap-badge">Apr 2026</span>
+    <span class="ap-badge">Apr 2026–Mar 2027</span>
   </div>
 
   <p class="ap-updates-main">
-    <strong>Launch of Cosplay Practice-based Research</strong><br>
-    Began sustained cosplay practice as part of ongoing practice-based research on Japanese subculture and ACG media, combining character-based representation, embodied performance, visual production, and participation in fan culture.
+    <strong>Ongoing Cosplay Practice and ACG Cultural Content Production</strong><br>
+    Conducting sustained cosplay practice and ACG-related cultural content production across China and South Korea, with Bilibili serving as the primary platform for publication and audience engagement. As Bilibili has also been a central object of my previous academic research, this practice further connects platform-based cultural production with ongoing practice-based research.
   </p>
 
 </div>
@@ -971,6 +971,19 @@ main.ap-main details > summary strong{
   <p class="ap-updates-main">
     <strong>16th ICG Anime & Game Expo</strong><br>
     Participated in the 16th ICG Anime & Game Expo in Shanghai, China, continuing cosplay practice and on-site engagement with ACG and fan cultures.
+  </p>
+
+</div>
+
+
+<div class="ap-updates-card">
+  <div class="ap-updates-meta">
+    <span class="ap-badge">Sep 2026</span>
+  </div>
+
+  <p class="ap-updates-main">
+    <strong>Bilibili Channel Surpassed 10,000 Followers and Received Platform Support</strong><br>
+    My Bilibili channel surpassed 10,000 followers in early September 2026 and received an official milestone certificate from Bilibili. During this period, the channel also began receiving increased platform-level creator support, including content promotion, activity-based rewards, creator incentives, and direct communication through official Bilibili creator channels. This growing platform engagement further strengthens Bilibili's role as both the primary venue for my cosplay and ACG-related cultural production and an important site of ongoing practice-based research.
   </p>
 
 </div>
