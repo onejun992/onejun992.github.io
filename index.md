@@ -939,12 +939,12 @@ main.ap-main details > summary strong{
 
 <div class="ap-updates-card">
   <div class="ap-updates-meta">
-    <span class="ap-badge">Apr–Sep 2026</span>
+    <span class="ap-badge">Apr 2026–Present</span>
   </div>
 
   <p class="ap-updates-main">
     <strong>Ongoing Cosplay Field Practice and Visual Production</strong><br>
-    Continued a series of offline cosplay shoots, character-based visual productions, and participation in ACG-related cultural activities across China and South Korea.
+    Continued a series of offline cosplay shoots, character-based visual productions, and participation in ACG-related cultural activities across China.
   </p>
 
 </div>
