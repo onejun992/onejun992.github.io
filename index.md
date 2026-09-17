@@ -1051,7 +1051,7 @@ Building on this research trajectory, I also examine the changing position of Ch
   > *文化混种性观点下的中国视频平台哔哩哔哩（bilibili）考察——以“拜年纪”为中心*  
 
   *The Journal of Foreign Studies*, Foreign Studies Institute.  
-  DOI: https://doi.org/10.15755/jfs.2024..70.613
+  DOI: <a href="https://doi.org/10.15755/jfs.2024..70.613" target="_blank" rel="noopener noreferrer">https://doi.org/10.15755/jfs.2024..70.613</a>
 
 ---
 
@@ -1070,7 +1070,7 @@ Building on this research trajectory, I also examine the changing position of Ch
 
   *Proceedings of the Global Cultural Contents Conference*,  
   Global Cultural Contents Society, Vol. 2024, No. 8.  
-  Available at: https://www.riss.kr/link?id=A109225174
+  Available at: <a href="https://www.riss.kr/link?id=A109225174" target="_blank" rel="noopener noreferrer">https://www.riss.kr/link?id=A109225174</a>
 
 - **Peng, Yuanjun(팽원균)**.  
   (2022).  
@@ -1088,6 +1088,7 @@ Building on this research trajectory, I also examine the changing position of Ch
 - **Doctoral Dissertation**  
   (2026).  
   Sangmyung University, Graduate School, Seoul, South Korea.  
+  Available at: <a href="https://smulib.dcollection.net/srch/srchDetail/200000955978" target="_blank" rel="noopener noreferrer">https://smulib.dcollection.net/srch/srchDetail/200000955978</a>
 
   중국 동영상 플랫폼 비리비리(bilibili) 세배기(拜年紀) 형성의 문화적 함의에 대한 연구  
   – 일본 서브컬쳐의 수용에서 중국 주류문화로의 이행까지 –
@@ -1174,10 +1175,10 @@ Building on this research trajectory, I also examine the changing position of Ch
   affiliated with the Education Section, 
   of the Embassy of the People’s Republic of China in the Republic of Korea  
   (Jul 2021 – May 2022)  
-  *(Official election announcement: https://mp.weixin.qq.com/s/Ym-ubGgLLlgHEIrR4BSEDQ)*
+  *(Official election announcement: <a href="https://mp.weixin.qq.com/s/Ym-ubGgLLlgHEIrR4BSEDQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/Ym-ubGgLLlgHEIrR4BSEDQ</a>)*
 
 \*Following the transition into doctoral studies in March 2022 and increasing academic commitments, voluntarily stepped down from the presidential role. Subsequently facilitated a structured leadership transition by formally endorsing the Secretary-General—whom I had previously mentored—as the succeeding President, while continuing to support the association in a Vice Presidential and advisory capacity until mid-2025, fully concluding involvement upon the graduation of the 7th-term President.*<br>
-*(Official election announcement(7th-term)：https://mp.weixin.qq.com/s/AtlP3RDXTQEWRYuK_CGzxg)*.  
+*(Official election announcement(7th-term)：<a href="https://mp.weixin.qq.com/s/AtlP3RDXTQEWRYuK_CGzxg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/AtlP3RDXTQEWRYuK_CGzxg</a>)*.  
 
 **Summary:** Demonstrated progressive leadership development, academic service experience, organizational management, and cross-cultural coordination within university and official educational frameworks.
 
@@ -1203,41 +1204,41 @@ Building on this research trajectory, I also examine the changing position of Ch
   *코로나 체인지* (Corona Change).  
   Lettre Publishing, January 15, 2021.  
   ISBN: 9791197230219.  
-  https://www.yes24.com/Product/Goods/96836878
+ <a href="https://www.yes24.com/Product/Goods/96836878" target="_blank" rel="noopener noreferrer">https://www.yes24.com/Product/Goods/96836878</a>
 
 - **Book Chapter Contributor**.  
   *문화, 콘텐츠에 빠지다* (Immersed in Culture and Contents).  
   Lettre Publishing, December 30, 2021.  
   ISBN: 9791197230233.  
-  https://www.yes24.com/Product/Goods/105894052
+  <a href="https://www.yes24.com/Product/Goods/105894052" target="_blank" rel="noopener noreferrer">https://www.yes24.com/Product/Goods/105894052</a>
 
 - **Book Chapter Contributor**.  
   *한류와 문화콘텐츠: 한류를 보는 다양한 시선들*  
   (Hallyu and Cultural Contents: Diverse Perspectives on Hallyu).  
   Lettre Publishing, February 6, 2023.  
   ISBN: 9791197230264.  
-  https://www.yes24.com/Product/Goods/117303953
+  <a href="https://www.yes24.com/Product/Goods/117303953" target="_blank" rel="noopener noreferrer">https://www.yes24.com/Product/Goods/117303953</a>
 
 - **Practice-based Research in Japanese Subculture and ACG Media**.  
-  Conducted sustained digital cultural practice on Bilibili as a virtual streamer (V-Tuber),  
-  producing content centered on Japanese ACG (Anime, Comics, and Games) culture,  
-  including virtual performances and Japanese anime song covers.  
-  This practice functioned as research-in-action, enabling in-depth, experiential analysis of  
-  Japanese subcultural aesthetics, virtual identity construction, audience participation,  
-  and platform-mediated cultural interaction within contemporary East Asian digital subcultures.  
-  *(Bilibili channel: https://space.bilibili.com/103596519)*
+  Conducted sustained cultural practice through both virtual performance and cosplay,  
+  including long-term activity on Bilibili as a virtual streamer (V-Tuber) and the production of cosplay works based on Japanese ACG characters and media.  
+  Related practices include virtual performances, Japanese anime song covers, character-based visual representation, and participation in cosplay culture and events.  
+  These practices functioned as research-in-action, enabling in-depth, experiential analysis of  
+  Japanese subcultural aesthetics, virtual and character-based identity construction, audience participation,  
+  embodied representation, fan practices, and platform-mediated cultural interaction within contemporary East Asian subcultures.  
+  *(Bilibili channel: <a href="https://space.bilibili.com/103596519" target="_blank" rel="noopener noreferrer">https://space.bilibili.com/103596519</a>)*
 
 ---
 
 ## Public Engagement & Media
 
-- **Practice-based Research and Creative Activity through Digital Media.**  
-  Continuously engaged in practice-based research centered on Japanese subculture and ACG-related media practice. Through sustained creative activity on the Chinese video platform Bilibili, cultural production is approached not as a supplementary interest, but as a methodological site where cultural meaning, identity, and affective experience are explored through virtual performance, anime-song covers, and media production.  
-  *(Bilibili: https://space.bilibili.com/103596519)*
+- **Practice-based Research and Creative Activity in Japanese Subculture and ACG Media.**  
+  Continuously engaged in practice-based research centered on Japanese subculture and ACG-related media practice. Through sustained creative activity on the Chinese video platform Bilibili and continued participation in cosplay practice, cultural production is approached not as a supplementary interest, but as a methodological site where cultural meaning, identity, embodiment, and affective experience are explored through virtual performance, anime-song covers, media production, character-based representation, and cosplay activity.  
+  *(Bilibili: <a href="https://space.bilibili.com/103596519" target="_blank" rel="noopener noreferrer">https://space.bilibili.com/103596519</a>)*
 
 - **Public Cultural Communication through Digital Media (Overseas Perspective).**  
   Operated a China-oriented overseas cultural communication account on Sina Weibo with official *Orange V* verification, with follower count peaking at approximately **129,000** during its active period (September 2014 – December 2022). The account primarily introduced everyday life in Korea to China-based audiences, including food culture, lifestyle practices, and local social trends. Following shifts in platform dynamics and the discontinuation of account operation, content dissemination gradually expanded to emerging platforms such as Rednote, while the account’s follower count later declined significantly.  
-  *(Weibo profile: https://weibo.com/u/1202236810)*
+  *(Weibo profile: <a href="https://weibo.com/u/1202236810" target="_blank" rel="noopener noreferrer">https://weibo.com/u/1202236810</a>)*
 
 - **Editorial Experience in Public Digital Media.**  
   Served as an editorial contributor for a WeChat public account specializing in Korean food culture (August 2017 – December 2017).
