@@ -926,12 +926,12 @@ main.ap-main details > summary strong{
 
 <div class="ap-updates-card">
   <div class="ap-updates-meta">
-    <span class="ap-badge">Apr 2026–Mar 2027</span>
+    <span class="ap-badge">Apr 2026–Present</span>
   </div>
 
   <p class="ap-updates-main">
     <strong>Ongoing Cosplay Practice and ACG Cultural Content Production</strong><br>
-    Conducting sustained cosplay practice and ACG-related cultural content production across China and South Korea, with Bilibili serving as the primary platform for publication and audience engagement. As Bilibili has also been a central object of my previous academic research, this practice further connects platform-based cultural production with ongoing practice-based research.
+    Conducting sustained cosplay practice and ACG-related cultural content production in China, with Bilibili serving as the primary platform for publication and audience engagement. As Bilibili has also been a central object of my previous academic research, this practice further connects platform-based cultural production with ongoing practice-based research.
   </p>
 
 </div>
