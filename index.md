@@ -995,8 +995,8 @@ main.ap-main details > summary strong{
   </div>
 
   <p class="ap-updates-main">
-    <strong>Scheduled Participation — 7th Jinling Youth Culture and Arts Expo</strong><br>
-    Scheduled to participate in the 7th Jinling Youth Culture and Arts Expo in Nanjing, Jiangsu, China.
+    <strong>7th Jinling Youth Culture and Arts Expo</strong><br>
+    Participation in the 7th Jinling Youth Culture and Arts Expo in Nanjing, Jiangsu, China.
   </p>
 
 </div>
@@ -1008,8 +1008,8 @@ main.ap-main details > summary strong{
   </div>
 
   <p class="ap-updates-main">
-    <strong>Scheduled Participation — ComicQuest 5.0</strong><br>
-    Scheduled to participate in ComicQuest 5.0, the 5th comprehensive exhibition for anime art creation and doujin cultural exchange, in Shanghai, China.
+    <strong>ComicQuest 5.0</strong><br>
+    Participation in ComicQuest 5.0, the 5th comprehensive exhibition for anime art creation and doujin cultural exchange, in Shanghai, China.
   </p>
 
 </div>
