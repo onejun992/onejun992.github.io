@@ -923,6 +923,84 @@ main.ap-main details > summary strong{
 
 </div>  <!-- ✅ 关键：补上 ap-updates-card 的关闭标签 -->
 
+
+<div class="ap-updates-card">
+  <div class="ap-updates-meta">
+    <span class="ap-badge">Apr 2026</span>
+  </div>
+
+  <p class="ap-updates-main">
+    <strong>Launch of Cosplay Practice-based Research</strong><br>
+    Began sustained cosplay practice as part of ongoing practice-based research on Japanese subculture and ACG media, combining character-based representation, embodied performance, visual production, and participation in fan culture.
+  </p>
+
+</div>
+
+
+<div class="ap-updates-card">
+  <div class="ap-updates-meta">
+    <span class="ap-badge">Apr–Sep 2026</span>
+  </div>
+
+  <p class="ap-updates-main">
+    <strong>Ongoing Cosplay Field Practice and Visual Production</strong><br>
+    Continued a series of offline cosplay shoots, character-based visual productions, and participation in ACG-related cultural activities across China and South Korea.
+  </p>
+
+</div>
+
+
+<div class="ap-updates-card">
+  <div class="ap-updates-meta">
+    <span class="ap-badge">Jul 2026</span>
+  </div>
+
+  <p class="ap-updates-main">
+    <strong>6th Jinling Youth Culture Expo</strong><br>
+    Participated in the 6th Jinling Youth Culture Expo in Nanjing, Jiangsu, China, as part of ongoing cosplay and field-based cultural practice.
+  </p>
+
+</div>
+
+
+<div class="ap-updates-card">
+  <div class="ap-updates-meta">
+    <span class="ap-badge">Aug 2026</span>
+  </div>
+
+  <p class="ap-updates-main">
+    <strong>16th ICG Anime & Game Expo</strong><br>
+    Participated in the 16th ICG Anime & Game Expo in Shanghai, China, continuing cosplay practice and on-site engagement with ACG and fan cultures.
+  </p>
+
+</div>
+
+
+<div class="ap-updates-card">
+  <div class="ap-updates-meta">
+    <span class="ap-badge">Oct 2026</span>
+  </div>
+
+  <p class="ap-updates-main">
+    <strong>Scheduled Participation — 7th Jinling Youth Culture and Arts Expo</strong><br>
+    Scheduled to participate in the 7th Jinling Youth Culture and Arts Expo in Nanjing, Jiangsu, China.
+  </p>
+
+</div>
+
+
+<div class="ap-updates-card">
+  <div class="ap-updates-meta">
+    <span class="ap-badge">Oct 2026</span>
+  </div>
+
+  <p class="ap-updates-main">
+    <strong>Scheduled Participation — ComicQuest 5.0</strong><br>
+    Scheduled to participate in ComicQuest 5.0, the 5th comprehensive exhibition for anime art creation and doujin cultural exchange, in Shanghai, China.
+  </p>
+
+</div>
+
 <hr />
 
 ## Research Profile
