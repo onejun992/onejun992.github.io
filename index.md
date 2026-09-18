@@ -924,6 +924,8 @@ main.ap-main details > summary strong{
 </div>  <!-- ✅ 关键：补上 ap-updates-card 的关闭标签 -->
 
 
+### Practice-based Research in ACG and Cosplay Culture
+
 <div class="ap-updates-card">
   <div class="ap-updates-meta">
     <span class="ap-badge">Apr 2026–Present</span>
@@ -944,37 +946,25 @@ main.ap-main details > summary strong{
 
   <p class="ap-updates-main">
     <strong>Ongoing Cosplay Field Practice and Visual Production</strong><br>
-    Continued a series of offline cosplay shoots, character-based visual productions, and participation in ACG-related cultural activities across China.
+    Continued a series of offline cosplay shoots, character-based visual productions, and participation in ACG-related cultural activities across China.<br><br>
+
+    <strong>Jul 2026 — 6th Jinling Youth Culture Expo</strong><br>
+    Participated in the 6th Jinling Youth Culture Expo in Nanjing, Jiangsu, China, as part of ongoing cosplay and field-based cultural practice.<br><br>
+
+    <strong>Aug 2026 — 16th ICG Anime & Game Expo</strong><br>
+    Participated in the 16th ICG Anime & Game Expo in Shanghai, China, continuing cosplay practice and on-site engagement with ACG and fan cultures.<br><br>
+
+    <strong>Oct 2026 — 7th Jinling Youth Culture and Arts Expo</strong><br>
+    Participation in the 7th Jinling Youth Culture and Arts Expo in Nanjing, Jiangsu, China.<br><br>
+
+    <strong>Oct 2026 — ComicQuest 5.0</strong><br>
+    Participation in ComicQuest 5.0, the 5th comprehensive exhibition for anime art creation and doujin cultural exchange, in Shanghai, China.
   </p>
 
 </div>
 
 
-<div class="ap-updates-card">
-  <div class="ap-updates-meta">
-    <span class="ap-badge">Jul 2026</span>
-  </div>
-
-  <p class="ap-updates-main">
-    <strong>6th Jinling Youth Culture Expo</strong><br>
-    Participated in the 6th Jinling Youth Culture Expo in Nanjing, Jiangsu, China, as part of ongoing cosplay and field-based cultural practice.
-  </p>
-
-</div>
-
-
-<div class="ap-updates-card">
-  <div class="ap-updates-meta">
-    <span class="ap-badge">Aug 2026</span>
-  </div>
-
-  <p class="ap-updates-main">
-    <strong>16th ICG Anime & Game Expo</strong><br>
-    Participated in the 16th ICG Anime & Game Expo in Shanghai, China, continuing cosplay practice and on-site engagement with ACG and fan cultures.
-  </p>
-
-</div>
-
+### Selected Milestones in Practice-based Research
 
 <div class="ap-updates-card">
   <div class="ap-updates-meta">
@@ -984,32 +974,6 @@ main.ap-main details > summary strong{
   <p class="ap-updates-main">
     <strong>Bilibili Channel Surpassed 10,000 Followers and Received Platform Support</strong><br>
     My Bilibili channel surpassed 10,000 followers in early September 2026 and received an official milestone certificate from Bilibili. During this period, the channel also began receiving increased platform-level creator support, including content promotion, activity-based rewards, creator incentives, and direct communication through official Bilibili creator channels. This growing platform engagement further strengthens Bilibili's role as both the primary venue for my cosplay and ACG-related cultural production and an important site of ongoing practice-based research.
-  </p>
-
-</div>
-
-
-<div class="ap-updates-card">
-  <div class="ap-updates-meta">
-    <span class="ap-badge">Oct 2026</span>
-  </div>
-
-  <p class="ap-updates-main">
-    <strong>7th Jinling Youth Culture and Arts Expo</strong><br>
-    Participation in the 7th Jinling Youth Culture and Arts Expo in Nanjing, Jiangsu, China.
-  </p>
-
-</div>
-
-
-<div class="ap-updates-card">
-  <div class="ap-updates-meta">
-    <span class="ap-badge">Oct 2026</span>
-  </div>
-
-  <p class="ap-updates-main">
-    <strong>ComicQuest 5.0</strong><br>
-    Participation in ComicQuest 5.0, the 5th comprehensive exhibition for anime art creation and doujin cultural exchange, in Shanghai, China.
   </p>
 
 </div>
