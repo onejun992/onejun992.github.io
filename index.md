@@ -813,7 +813,15 @@ main.ap-main details > summary strong{
 
         At the undergraduate level, I earned a <strong>Bachelor of Arts in Cultural Content Studies</strong>, with a <strong>major in Korea-Japan Cultural Content</strong>. At the graduate level, I was affiliated with the <strong>Department of Global Culture Contents</strong>. Across my undergraduate, master’s, and doctoral training, my academic foundation consistently remained within <strong>Cultural Content Studies</strong>.<br><br>
 
-        The academic lineage of the graduate field to which I belonged can be traced to the earlier <strong>Creative Contents</strong> program structure under Sangmyung University’s former <strong>professional graduate school</strong> system (Korean: <strong>특수대학원 창의콘텐츠학과</strong>). This point is crucial for understanding the formal designation and institutional particularity of my degree. The former professional graduate school system primarily served <strong>in-service, working adult, and often older students</strong>, was generally <strong>not organized as a full-time academic training system</strong>, and in principle granted <strong>master’s degrees as its highest academic qualification</strong>.<br><br>
+       
+The <strong>Department of Global Culture Contents</strong>, to which I belonged during my graduate studies, was established in 2020 as a new department within the General Graduate School of Sangmyung University. Its institutional lineage can be traced back to the former <strong>Department of Creative Contents under Sangmyung University’s Special Graduate School</strong> (Korean: <strong>특수대학원 창의콘텐츠학과</strong>). I was <strong>the first foreign national to enroll in the department and the first foreign national to earn a doctoral degree from it</strong>.<br><br>
+
+Compared with established departments with ten or even several decades of institutional history, the department was relatively new. Its academic structure, education and research supervision systems, and degree-conferral framework were still undergoing gradual development and refinement, while also being influenced by existing institutional structures and their historical legacy.<br><br>
+
+The former <strong>Special Graduate School</strong> primarily served <strong>working professionals and adult learners pursuing graduate education alongside their professional careers</strong>. Its institutional orientation differed from that of the General Graduate School, which was primarily oriented toward academic research and researcher training. In principle, the former Special Graduate School <strong>offered master's degree programs rather than doctoral programs</strong>.<br><br>
+
+This institutional lineage, together with the developmental context of the newly established department, is essential to understanding the formal designation of my doctoral degree and its particular institutional background.<br><br>
+
 
         Because my graduate field inherited part of that earlier institutional framework, it retained certain <strong>structural limitations and residual features of the old system</strong>, while also enrolling a substantial number of students from <strong>arts- and practice-oriented backgrounds</strong>. As a result, the degree designation in my case reflects not the actual nature of my own academic training, but the <strong>historical constraints and transitional legacy of the older departmental and degree-granting system</strong>.<br><br>
 
@@ -831,7 +839,15 @@ main.ap-main details > summary strong{
 
         학부에서는 <strong>문화콘텐츠학사</strong> 학위를 취득하였고, <strong>한일문화콘텐츠학</strong>을 전공하였다. 대학원에서는 <strong>글로벌문화콘텐츠학과 (Department of Global Culture Contents)</strong>에 소속되어 수학하였다. 학부, 석사, 박사 전 과정을 관통하는 본인의 학문적 기반은 일관되게 <strong>문화콘텐츠학</strong>에 있었다.<br><br>
 
-        본인이 석사·박사 과정에서 소속되었던 학문 영역의 제도적 계보는, 상명대학교의 과거 <strong>특수대학원 창의콘텐츠학과</strong> 체계에까지 소급될 수 있다. 이 점은 본인의 학위 명칭과 제도적 특수성을 이해하는 데 매우 중요하다. 당시 <strong>특수대학원</strong>은 대체로 <strong>재직자 및 사회인, 즉 사실상 재직자 중심의 대학원생과 비교적 연령대가 높은 학습자들</strong>을 주된 대상으로 운영되었으며, 일반적으로 <strong>전일제 학술연구 체계가 아니었고</strong>, 제도상 최고 학위 역시 <strong>석사학위에 한정</strong>되어 있었다.<br><br>
+       
+본인이 대학원 재학 당시 소속되었던 <strong>글로벌문화콘텐츠학과</strong>는 2020년 상명대학교 일반대학원에 신설된 학과로, 그 제도적 연혁은 상명대학교의 과거 <strong>특수대학원 창의콘텐츠학과</strong> 체계에까지 소급될 수 있다. 본인은 해당 학과에 <strong>최초로 입학한 외국 국적 학생이자, 최초로 박사학위를 취득한 외국 국적 학생</strong>이기도 하다.<br><br>
+
+설립된 지 10년 또는 수십 년에 이르는 전통적인 학과들과 비교할 때, 해당 학과는 신설된 지 오래되지 않아 학문 및 교육과정 체계, 교육·연구 지도체계와 학위수여제도가 단계적으로 정비되고 발전하는 과정에 있으며, 기존 학과의 제도와 역사적 연혁의 영향 또한 받고 있다.<br><br>
+
+그 전신에 해당하는 <strong>특수대학원</strong>은 주로 <strong>재직자 및 사회인 등 직업 활동과 학업을 병행하는 대학원생</strong>을 대상으로 운영되는 교육제도로서, 일반대학원의 전일제 학술연구자 양성과는 구별되는 제도적 성격을 지니고 있었다. 또한 원칙적으로 <strong>석사과정을 중심으로 설치·운영되었으며, 박사과정은 개설하지 않는</strong> 교육기관이었다.<br><br>
+
+이와 같이 과거 특수대학원에서 일반대학원의 신설 학과로 이어지는 제도적 연혁과 학과 설립 초기의 발전 배경은, 본인의 학위 명칭과 그 제도적 특수성을 이해하는 데 매우 중요한 의미를 지닌다.<br><br>
+
 
         본인이 속한 석·박사 단계의 학과는 이러한 과거 체계의 연장선상에 있었기 때문에, <strong>구 제도의 잔존적 한계와 구조적 문제</strong>를 일정 부분 그대로 안고 있었으며, 동시에 <strong>예술·실기 계열 학생들</strong>이 다수 유입된 배경도 함께 존재하였다. 그 결과, 본인의 학위 표기는 본인의 실제 연구 훈련의 성격이라기보다, <strong>기존 학과 제도와 학위 수여 체계의 역사적 제한성과 과도기적 잔재</strong>를 반영한 측면이 크다.<br><br>
 
@@ -849,7 +865,16 @@ main.ap-main details > summary strong{
 
         学部では <strong>文化コンテンツ学学士</strong> の学位を取得し、<strong>韓日文化コンテンツ学</strong> を専攻した。大学院では <strong>グローバル文化コンテンツ学科 (Department of Global Culture Contents)</strong> に所属して研鑽を積んだ。学部・修士・博士の全過程を通じて、私の学問的基盤は一貫して <strong>文化コンテンツ学</strong> に置かれていた。<br><br>
 
-        私が所属した大学院分野の制度的系譜は、祥明大学の旧 <strong>特殊大学院・創意コンテンツ学科</strong>（韓国語原表記：<strong>특수대학원 창의콘텐츠학과</strong>）の段階にまでさかのぼることができる。この点は、私の学位名称と制度的特殊性を理解する上で極めて重要である。もともと <strong>特殊大学院</strong> は、主として <strong>在職者・社会人、すなわち実務と並行して学ぶ大学院生や比較的年齢層の高い学習者</strong> を対象とする制度であり、一般に <strong>全日制の学術研究養成システムではなく</strong>、制度上の最高学位も <strong>修士まで</strong> に限定されていた。<br><br>
+        
+
+私が大学院在籍時に所属していた<strong>グローバル文化コンテンツ学科</strong>は、2020年に祥明大学一般大学院に新設された学科であり、その制度的沿革は、祥明大学の旧<strong>特殊大学院・創意コンテンツ学科</strong>（韓国語原表記：<strong>특수대학원 창의콘텐츠학과</strong>）にまでさかのぼることができる。私は、同学科に<strong>外国籍学生として初めて入学し、かつ、外国籍学生として初めて博士の学位を取得した者</strong>でもある。
+
+設立から十年、あるいは数十年にわたる歴史を有する従来の学科と比較すると、同学科は設立から日が浅く、学科体系、教育・研究指導体制および学位授与制度が段階的に整備されていく過程にあり、既存の学科制度や歴史的沿革の影響も受けている。
+
+その前身にあたる<strong>特殊大学院</strong>は、主として<strong>在職者や社会人など、実務と並行して学ぶ大学院生</strong>を対象とする教育制度であり、一般大学院における全日制の学術研究者養成とは異なる制度的性格を有していた。また、原則として<strong>修士課程を中心に設置され、博士課程を設けない</strong>教育機関であった。
+
+こうした旧特殊大学院から一般大学院の新設学科へと至る制度的沿革と、学科設立初期における発展の背景は、私の学位名称およびその制度上の特殊性を理解する上で、極めて重要である。
+
 
         私が所属した修士・博士段階の学科は、その旧制度の延長線上にあったため、<strong>旧学科制度の残存的制約と構造的問題</strong> を一定程度引き継いでおり、同時に <strong>芸術系・実技系の学生</strong> も多く受け入れていた。このため、私に対する学位表記は、私自身の実際の研究訓練の性格そのものというより、<strong>旧制度と学位授与体系に由来する歴史的制約および過渡的残存</strong> を反映したものと理解されるべきである。<br><br>
 
@@ -867,7 +892,9 @@ main.ap-main details > summary strong{
 
         本科阶段，本人取得 <strong>文化内容学学士</strong> 学位，专业为 <strong>韩日文化内容学</strong>；研究生阶段所属学科为 <strong>全球文化内容学科（Department of Global Culture Contents）</strong>。贯穿本科、硕士与博士全过程的学术基础，始终是 <strong>文化内容学（Cultural Content Studies）</strong>。<br><br>
 
-        本人研究生阶段所属学科具有明确的制度沿革与学科历史，其更早阶段可追溯至祥明大学原 <strong>特殊大学院创意内容学科</strong>（韩文原称：<strong>특수대학원 창의콘텐츠학과</strong>）。这一点对于理解本人学位名称及其制度性特殊背景尤为关键。原有的 <strong>特殊大学院</strong> 主要面向 <strong>在职学习者，即在职研究生，以及相对大龄学习者</strong> 群体，通常 <strong>并非全日制学制</strong>，且其制度上可授予的最高学位一般仅为 <strong>硕士学位</strong>。<br><br>
+       
+本人研究生阶段所属学科具有明确的制度沿革与学科历史，其更早阶段可追溯至祥明大学原 <strong>特殊大学院创意内容学科</strong>（韩文原称：<strong>특수대학원 창의콘텐츠학과</strong>）。本人所属的 <strong>全球文化内容学科</strong> 为祥明大学一般大学院于2020年新设的学科（专业），本人亦为该学科 <strong>首位入学的外国籍学生，同时也是首位取得博士学位的外国籍学生</strong>。相较于已具有十年乃至数十年发展历史的传统学科，该学科设立时间较短，其学科体系、培养制度及学位授予机制仍处于逐步建设与完善的阶段，同时受到既有学科制度及历史沿革的影响。这一制度沿革与新设学科的发展背景，对于理解本人学位名称及其制度性特殊性尤为关键。
+原有的 <strong>特殊大学院</strong> 主要面向 <strong>在职学习者，即在职研究生，以及相对大龄学习者</strong> 群体，通常 <strong>并非全日制学制</strong>，且其制度上可授予的最高学位一般仅为 <strong>硕士学位</strong>。<br><br>
 
         正因如此，本人硕博阶段所属的学科在转入一般研究生院体系后，仍然保留了相当程度的 <strong>旧学科制度的残存限制与结构性问题</strong>，并同时吸纳了大量 <strong>艺术类、实践类背景学生</strong>。因此，本人所获学位在名称与授予形式上的特殊性，并不应被简单理解为本人培养路径本身的性质，而应理解为 <strong>旧制度、旧学科体系以及学位授予限制所遗留下来的历史性与过渡性结果</strong>。<br><br>
 
