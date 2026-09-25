@@ -812,7 +812,6 @@ main.ap-main details > summary strong{
         Sangmyung University has, since around <strong>2016</strong>, increasingly developed into a Seoul-based university with a strong emphasis on <strong>comprehensive culture- and arts-related education</strong>, with notable programs in fields such as <strong>games, animation, music, dance, film and visual media, and cultural content</strong>. My own academic pathway was formed within this broader institutional environment, but remained consistently oriented toward the <strong>humanities-based and theory-driven study of Cultural Content</strong>.<br><br>
 
         At the undergraduate level, I earned a <strong>Bachelor of Arts in Cultural Content Studies</strong>, with a <strong>major in Korea-Japan Cultural Content</strong>. At the graduate level, I was affiliated with the <strong>Department of Global Culture Contents</strong>. Across my undergraduate, master’s, and doctoral training, my academic foundation consistently remained within <strong>Cultural Content Studies</strong>.<br><br>
-
        
 The <strong>Department of Global Culture Contents</strong>, to which I belonged during my graduate studies, was established in 2020 as a new department within the General Graduate School of Sangmyung University. Its institutional lineage can be traced back to the former <strong>Department of Creative Contents under Sangmyung University’s Special Graduate School</strong> (Korean: <strong>특수대학원 창의콘텐츠학과</strong>). I was <strong>the first foreign national to enroll in the department and the first foreign national to earn a doctoral degree from it</strong>.<br><br>
 
@@ -822,8 +821,13 @@ The former <strong>Special Graduate School</strong> primarily served <strong>wor
 
 This institutional lineage, together with the developmental context of the newly established department, is essential to understanding the formal designation of my doctoral degree and its particular institutional background.<br><br>
 
-
         Because my graduate field inherited part of that earlier institutional framework, it retained certain <strong>structural limitations and residual features of the old system</strong>, while also enrolling a substantial number of students from <strong>arts- and practice-oriented backgrounds</strong>. As a result, the degree designation in my case reflects not the actual nature of my own academic training, but the <strong>historical constraints and transitional legacy of the older departmental and degree-granting system</strong>.<br><br>
+
+It is particularly important to emphasize that I was not admitted through the <strong>Special Admission for Foreign Nationals (외국인특별전형)</strong> or the <strong>admission quota exemption system (정원외)</strong>. Instead, in 2020, I participated in the <strong>General Admission (일반전형)</strong> process of Sangmyung University’s General Graduate School under the <strong>regular admission quota (정원내)</strong>, competing alongside Korean nationals. I was subsequently admitted to the master’s program in the Department of Global Culture Contents in September of the same year.<br><br>
+
+My admission followed the same academic selection procedures as those applied to other <strong>research-oriented departments awarding Ph.D. degrees</strong> within the General Graduate School. Prior to formally applying, I underwent <strong>preliminary selection and acceptance by my prospective academic supervisor</strong>, followed by a series of formal admission procedures, including <strong>rigorous evaluation of my research proposal and supporting application documents, review of my research plan by my prospective supervisor, and a formal interview</strong>. I successfully completed these procedures and obtained admission. This was not an admission process based solely on documentary review, but the same formal academic selection process followed by other research-oriented departments.<br><br>
+
+Subsequently, when applying to transfer to the <strong>integrated master’s–doctoral program</strong>, I underwent another formal academic selection and review process, including evaluation of my research plan by my academic supervisor, examination of the relevant application documents, and an interview. Having successfully passed the required assessments, I formally transferred to the integrated master’s–doctoral program in March 2022. Thus, both my initial admission to the master’s program and my subsequent progression to doctoral-level study were subject to formal academic qualification reviews and selection procedures. <strong>My eligibility for doctoral-level study was not granted solely on the basis of my existing enrollment in the master’s program.</strong><br><br>
 
         Within that institutional setting, however, my own pathway belonged clearly to the <strong>Cultural Content Studies</strong> direction, characterized by a <strong>humanities-based</strong>, <strong>theory-driven</strong>, and <strong>research-oriented</strong> formation. It should therefore be distinguished both from historically common <strong>professional, in-service, and older mid-career study patterns</strong> and from the more <strong>arts- or practice-led doctoral profiles</strong> that were associated with other directions in the broader field.<br><br>
 
@@ -838,18 +842,22 @@ This institutional lineage, together with the developmental context of the newly
         상명대학교는 <strong>2016년 이후</strong> 서울권에서 <strong>문화예술 중심의 종합대학</strong>으로서의 성격을 점차 강화해 왔으며, <strong>게임, 애니메이션, 음악, 무용, 영화·영상, 문화콘텐츠</strong> 등 문화예술 계열의 특성화된 전공 및 학과들을 폭넓게 운영해 왔다. 그러나 이러한 대학의 전반적 문화예술 지향성과는 별도로, 본인의 학문 경로는 일관되게 <strong>인문학 기반</strong>, <strong>이론 중심</strong>, <strong>연구 중심</strong>의 문화콘텐츠학에 놓여 있었다.<br><br>
 
         학부에서는 <strong>문화콘텐츠학사</strong> 학위를 취득하였고, <strong>한일문화콘텐츠학</strong>을 전공하였다. 대학원에서는 <strong>글로벌문화콘텐츠학과 (Department of Global Culture Contents)</strong>에 소속되어 수학하였다. 학부, 석사, 박사 전 과정을 관통하는 본인의 학문적 기반은 일관되게 <strong>문화콘텐츠학</strong>에 있었다.<br><br>
-
-       
+    
 본인이 대학원 재학 당시 소속되었던 <strong>글로벌문화콘텐츠학과</strong>는 2020년 상명대학교 일반대학원에 신설된 학과로, 그 제도적 연혁은 상명대학교의 과거 <strong>특수대학원 창의콘텐츠학과</strong> 체계에까지 소급될 수 있다. 본인은 해당 학과에 <strong>최초로 입학한 외국 국적 학생이자, 최초로 박사학위를 취득한 외국 국적 학생</strong>이기도 하다.<br><br>
 
 설립된 지 10년 또는 수십 년에 이르는 전통적인 학과들과 비교할 때, 해당 학과는 신설된 지 오래되지 않아 학문 및 교육과정 체계, 교육·연구 지도체계와 학위수여제도가 단계적으로 정비되고 발전하는 과정에 있으며, 기존 학과의 제도와 역사적 연혁의 영향 또한 받고 있다.<br><br>
 
-그 전신에 해당하는 <strong>특수대학원</strong>은 주로 <strong>재직자 및 사회인 등 직업 활동과 학업을 병행하는 대학원생</strong>을 대상으로 운영되는 교육제도로서, 일반대학원의 전일제 학술연구자 양성과는 구별되는 제도적 성격을 지니고 있었다. 또한 원칙적으로 <strong>석사과정을 중심으로 설치·운영되었으며, 박사과정은 개설하지 않는</strong> 교육기관이었다.<br><br>
+<strong>글로벌문화콘텐츠학과</strong>의 전신인 <strong>창의콘텐츠학과</strong>는 과거 상명대학교 <strong>특수대학원</strong>에 설치되어 있었다. 당시 특수대학원은 주로 <strong>재직자 및 일반 성인 등 직업 활동과 학업을 병행하는 학생</strong>을 대상으로 운영되었으며, 일반대학원과는 교육 목적 및 운영 체계에서 구별되는 제도적 성격을 지니고 있었다. 또한 <strong>석사학위과정만 설치·운영하였으며, 박사학위과정은 개설하지 않았다.</strong><br><br>
 
 이와 같이 과거 특수대학원에서 일반대학원의 신설 학과로 이어지는 제도적 연혁과 학과 설립 초기의 발전 배경은, 본인의 학위 명칭과 그 제도적 특수성을 이해하는 데 매우 중요한 의미를 지닌다.<br><br>
 
-
         본인이 속한 석·박사 단계의 학과는 이러한 과거 체계의 연장선상에 있었기 때문에, <strong>구 제도의 잔존적 한계와 구조적 문제</strong>를 일정 부분 그대로 안고 있었으며, 동시에 <strong>예술·실기 계열 학생들</strong>이 다수 유입된 배경도 함께 존재하였다. 그 결과, 본인의 학위 표기는 본인의 실제 연구 훈련의 성격이라기보다, <strong>기존 학과 제도와 학위 수여 체계의 역사적 제한성과 과도기적 잔재</strong>를 반영한 측면이 크다.<br><br>
+
+특히 강조할 점은, 본인은 외국 국적 지원자를 대상으로 하는 <strong>외국인특별전형</strong> 및 <strong>정원외</strong> 모집을 통해 입학한 것이 아니라, 2020년 상명대학교 일반대학원의 <strong>일반전형</strong>을 통해 <strong>정원내</strong> 모집 방식으로 한국 국적 지원자들과 함께 경쟁 선발에 참여하였으며, 최종적으로 같은 해 9월 글로벌문화콘텐츠학과 석사과정에 정식으로 입학하였다는 사실이다.<br><br>
+
+본인의 입학 전형 절차는 일반대학원 내 다른 <strong>Ph.D. 학위를 수여하는 연구중심 학과</strong>에서 시행하는 학술적 선발 절차와 동일하였다. 정식 지원에 앞서 <strong>지도교수의 사전 선발 및 수락</strong>을 거쳤으며, 이후 <strong>연구계획서 및 관련 지원 서류에 대한 엄격한 심사, 지도교수의 연구계획 검토, 정식 면접</strong> 등 일련의 정규 입학 심사 절차를 거쳐 최종적으로 입학 자격을 취득하였다. 이러한 과정은 단순히 서류심사만으로 완료되는 선발 방식이 아니라, 다른 연구중심 학과와 동일한 정규 학술 선발 절차에 해당한다.<br><br>
+
+이후 본인은 <strong>석·박사통합과정</strong>으로의 전환을 신청하는 과정에서도 동일하게 정식 학술 선발 및 심사를 거쳤다. 여기에는 지도교수의 연구계획 검토, 관련 지원 서류 심사 및 면접 등의 절차가 포함되었으며, 해당 심사를 통과한 후 2022년 3월 정식으로 석·박사통합과정으로 전환하였다. 따라서 본인은 석사과정 입학과 박사과정 진학 모두에서 정식 학술 자격 심사 및 선발 절차를 거쳤으며, 단순히 기존 석사과정 재학 신분만으로 박사과정 단계의 입학 자격을 취득한 것이 아니다.<br><br>
 
         그러나 그러한 제도적 배경 속에서도 본인의 경로는 명확히 <strong>문화콘텐츠학</strong>을 중심으로 한 <strong>인문학 기반</strong>, <strong>이론 중심</strong>, <strong>연구 중심</strong>의 학술 경로에 속하였다. 따라서 이는 역사적으로 비교적 많이 존재하였던 <strong>재직자·실무자·비교적 연령대가 높은 학습자 중심의 수학 형태</strong>와도 구별되며, 보다 <strong>예술 중심</strong> 또는 <strong>실천 중심</strong>의 박사 경로와도 분명히 다르다.<br><br>
 
@@ -864,10 +872,7 @@ This institutional lineage, together with the developmental context of the newly
         祥明大学は <strong>2016年以降</strong>、ソウル圏において <strong>文化芸術中心の総合大学</strong> としての性格を次第に強めており、<strong>ゲーム、アニメーション、音楽、舞踊、映画・映像、文化コンテンツ</strong> などの文化芸術系分野に特色を有してきた。しかし、そのような大学全体の傾向とは別に、私自身の学問的経路は一貫して <strong>人文学基盤</strong>・<strong>理論中心</strong>・<strong>研究中心</strong> の文化コンテンツ学に属していた。<br><br>
 
         学部では <strong>文化コンテンツ学学士</strong> の学位を取得し、<strong>韓日文化コンテンツ学</strong> を専攻した。大学院では <strong>グローバル文化コンテンツ学科 (Department of Global Culture Contents)</strong> に所属して研鑽を積んだ。学部・修士・博士の全過程を通じて、私の学問的基盤は一貫して <strong>文化コンテンツ学</strong> に置かれていた。<br><br>
-
-        
-
-
+   
 私が大学院在籍時に所属していた<strong>グローバル文化コンテンツ学科</strong>は、2020年に祥明大学一般大学院に新設された学科であり、その制度的沿革は、祥明大学の旧<strong>特殊大学院・創意コンテンツ学科</strong>（韓国語原表記：<strong>특수대학원 창의콘텐츠학과</strong>）にまでさかのぼることができる。私は、同学科に<strong>外国籍学生として初めて入学し、かつ、外国籍学生として初めて博士の学位を取得した者</strong>でもある。<br><br>
 
 設立から十年、あるいは数十年にわたる歴史を有する従来の学科と比較すると、同学科は設立から日が浅く、学科体系、教育・研究指導体制および学位授与制度が段階的に整備されていく過程にあり、既存の学科制度や歴史的沿革の影響も受けている。<br><br>
@@ -877,6 +882,12 @@ This institutional lineage, together with the developmental context of the newly
 私が所属した修士・博士段階の学科は、こうした旧制度の延長線上にあったため、<strong>旧学科制度の残存的制約と構造的問題</strong>を一定程度引き継いでおり、同時に<strong>芸術系・実技系の学生</strong>も多く受け入れていた。<br><br>
 
 こうした旧特殊大学院から一般大学院の新設学科へと至る制度的沿革と、学科設立初期における発展の背景は、私の学位名称およびその制度上の特殊性を理解する上で、極めて重要である。このため、私に対する学位表記は、私自身の実際の研究訓練の性格そのものというより、<strong>旧制度と学位授与体系に由来する歴史的制約および過渡的残存</strong>を反映したものと理解されるべきである。<br><br>
+
+特に強調すべき点は、私は外国籍の志願者を対象とする<strong>外国人特別選抜（외국인특별전형）</strong>および<strong>定員外募集（정원외）</strong>によって入学したのではなく、2020年に祥明大学一般大学院の<strong>一般選抜（일반전형）</strong>を通じて、<strong>定員内募集（정원내）</strong>の枠組みの下、韓国籍の志願者とともに競争選抜に参加し、同年9月にグローバル文化コンテンツ学科の修士課程に正式に入学したことである。<br><br>
+
+私が受けた入学選抜手続きは、一般大学院における他の<strong>Ph.D.の学位を授与する研究型学科</strong>の学術選抜手続きと同一であった。正式な出願に先立ち、<strong>指導予定教員による事前選考と受入れ</strong>を経たうえで、<strong>研究計画書を含む出願書類の厳格な審査、指導予定教員による研究計画の審査、および正式な面接</strong>など、一連の正規の入学審査手続きを経て、最終的に入学資格を取得した。これは、書類審査のみで完結する選抜方式ではなく、他の研究型学科と同様の正式な学術選抜手続きであった。<br><br>
+
+その後、<strong>修士・博士一貫課程</strong>への移行を申請した際にも、同様に正式な学術選抜および審査を受けた。具体的には、指導教員による研究計画の審査、関連する出願書類の審査および面接などの手続きを経て、所定の審査に合格した後、2022年3月に正式に修士・博士一貫課程へ移行した。したがって、私は修士課程への入学時と博士段階への進学時のいずれにおいても、正式な学術的資格審査および選抜を経ており、既存の修士課程における在籍資格のみによって博士段階への進学資格を取得したわけではない。<br><br>
 
 
         しかし、そのような制度的背景の中にあっても、私自身の経路は明確に <strong>文化コンテンツ学</strong> を中心とする <strong>人文学基盤</strong>・<strong>理論中心</strong>・<strong>研究中心</strong> の学術的養成過程に属していた。したがって、それは歴史的に比較的多く見られた <strong>在職者・実務家・比較的年齢層の高い学習者中心の履修形態</strong> とも区別され、また <strong>芸術実践中心</strong> あるいは <strong>専門実践中心</strong> の博士課程とも明確に異なる。<br><br>
@@ -898,6 +909,12 @@ This institutional lineage, together with the developmental context of the newly
 原有的 <strong>特殊大学院</strong> 主要面向 <strong>在职学习者，即在职研究生，以及相对大龄学习者</strong> 群体，通常 <strong>并非全日制学制</strong>，且其制度上可授予的最高学位一般仅为 <strong>硕士学位</strong>。<br><br>
 
         正因如此，本人硕博阶段所属的学科在转入一般研究生院体系后，仍然保留了相当程度的 <strong>旧学科制度的残存限制与结构性问题</strong>，并同时吸纳了大量 <strong>艺术类、实践类背景学生</strong>。因此，本人所获学位在名称与授予形式上的特殊性，并不应被简单理解为本人培养路径本身的性质，而应理解为 <strong>旧制度、旧学科体系以及学位授予限制所遗留下来的历史性与过渡性结果</strong>。<br><br>
+        
+值得特别强调的是，本人并未通过面向外国籍申请者的<strong>外国人特别选拔（외국인특별전형）</strong>及<strong>定员外（정원외）</strong>招生渠道入学，而是于2020年通过祥明大学一般大学院的<strong>一般选拔（일반전형）</strong>，以<strong>定员内（정원내）</strong>招生方式，与韩国籍申请者共同参与竞争性选拔，最终于同年9月正式进入全球文化内容学科攻读硕士学位。<br><br>
+
+本人的入学选拔程序与一般大学院其他授予<strong>Ph.D.学位的研究型学科</strong>所采用的学术选拔程序一致。在正式申请之前，本人首先经过<strong>指导教授的事先选拔与接收</strong>，随后接受包括<strong>研究计划书及相关申请材料的严格审查、指导教授对研究计划的审核，以及正式面试</strong>等一系列正规的入学审查程序，最终通过审查并取得入学资格。这一过程并非仅凭书面材料审查即可完成的选拔模式，而是与其他研究型学科相同的正式学术选拔程序。<br><br>
+
+此后，本人在申请转入<strong>硕博连读课程</strong>时，同样经过正式的学术选拔与审查，包括指导教授对研究计划的审核、相关申请材料审查及面试等程序，并在通过相应考核后，于2022年3月正式转入硕博连读课程。因此，本人无论在硕士阶段入学还是博士阶段升学时，均接受了正式的学术资格审查与选拔，并非仅凭既有硕士学籍直接取得博士阶段的入学资格。<br><br>
 
         然而，即便处于这样的制度背景之下，本人自身的培养路径依然明确属于以 <strong>文化内容学</strong> 为核心的 <strong>纯文科基础</strong>、<strong>理论主导</strong>、<strong>研究导向</strong> 的学术培养路线。这一路径不仅区别于该领域历史上较为常见的 <strong>在职、实务型以及相对大龄修学模式</strong>，也与 <strong>艺术主导</strong> 或 <strong>实践主导</strong> 的博士路径有本质不同。<br><br>
 
